@@ -1,0 +1,19 @@
+[
+  {
+    "value": "China",
+    "synonyms": [
+      "China",
+      "CN"
+    ]
+  },
+  {
+    "value": "Non-China",
+    "synonyms": [
+      "Non-China",
+      "Korea",
+      "Malaysia",
+      "Poland",
+      "Germany"
+    ]
+  }
+]

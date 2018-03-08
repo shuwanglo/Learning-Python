@@ -1,0 +1,38 @@
+[
+  {
+    "value": "Assist",
+    "synonyms": [
+      "Assist"
+    ]
+  },
+  {
+    "value": "help me with",
+    "synonyms": [
+      "help me with"
+    ]
+  },
+  {
+    "value": "get me",
+    "synonyms": [
+      "get me"
+    ]
+  },
+  {
+    "value": "give me",
+    "synonyms": [
+      "give me"
+    ]
+  },
+  {
+    "value": "assist me with",
+    "synonyms": [
+      "assist me with"
+    ]
+  },
+  {
+    "value": "help to",
+    "synonyms": [
+      "help to"
+    ]
+  }
+]

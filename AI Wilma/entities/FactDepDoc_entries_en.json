@@ -1,0 +1,35 @@
+[
+  {
+    "value": "ISO 14001",
+    "synonyms": [
+      "ISO 14001",
+      "ISO14001",
+      "iso14001",
+      "iso 14001"
+    ]
+  },
+  {
+    "value": "ISO 9001",
+    "synonyms": [
+      "ISO 9001",
+      "iso9001"
+    ]
+  },
+  {
+    "value": "ISO",
+    "synonyms": [
+      "iso"
+    ]
+  },
+  {
+    "value": "OHSAS",
+    "synonyms": [
+      "OHSAS",
+      "OHSAS 18001",
+      "OHSA",
+      "OHSAS18001",
+      "OHSA 18001",
+      "OHSA18001"
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "value": "datasheet",
+    "synonyms": [
+      "datasheet",
+      "cutsheet",
+      "cut sheet",
+      "data sheet"
+    ]
+  },
+  {
+    "value": "warranty",
+    "synonyms": [
+      "warranty",
+      "standard warranty",
+      "product warranty"
+    ]
+  },
+  {
+    "value": "packaging document",
+    "synonyms": [
+      "packaging document",
+      "packaging",
+      "transport document"
+    ]
+  },
+  {
+    "value": "installation manual",
+    "synonyms": [
+      "installation manual",
+      "O\u0026M manual"
+    ]
+  },
+  {
+    "value": "PAN files",
+    "synonyms": [
+      "PAN files",
+      "PAN",
+      "PAN file"
+    ]
+  },
+  {
+    "value": "OGPe certificate",
+    "synonyms": [
+      "OGPe certificate",
+      "PGPe",
+      "pgpe",
+      "PGPE"
+    ]
+  },
+  {
+    "value": "Q.Tested certificate",
+    "synonyms": [
+      "Q.Tested certificate",
+      "QTested certificate",
+      "qtested certificate",
+      "q.tested certificate",
+      "q.tested",
+      "qtested",
+      "Q.TESTED",
+      "QTESTED",
+      "Q.Tested",
+      "QTested",
+      "q.test",
+      "qtest",
+      "q.test certificate",
+      "qtest certificate"
+    ]
+  },
+  {
+    "value": "Ammonia test certificate",
+    "synonyms": [
+      "ammonia",
+      "ammonia gas",
+      "ammonia spray",
+      "ammonia test certificate",
+      "ammonia certificate",
+      "amonia"
+    ]
+  },
+  {
+    "value": "OGPe",
+    "synonyms": [
+      "OGPe"
+    ]
+  },
+  {
+    "value": "Noxious gas certificate",
+    "synonyms": [
+      "noxious",
+      "noxious gas",
+      "notious gas",
+      "notious",
+      "noxious gas test certificate",
+      "noxious gas certificate"
+    ]
+  }
+]

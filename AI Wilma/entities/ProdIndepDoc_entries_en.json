@@ -1,0 +1,22 @@
+[
+  {
+    "value": "UL/CSA certificate",
+    "synonyms": [
+      "UL/CSA certificate",
+      "UL certificate",
+      "CSA certificate",
+      "UL",
+      "CSA"
+    ]
+  },
+  {
+    "value": "TUV/VDE certificate",
+    "synonyms": [
+      "TUV/VDE certificate",
+      "VDE certificate",
+      "VDE",
+      "TUV",
+      "tuv certificate"
+    ]
+  }
+]

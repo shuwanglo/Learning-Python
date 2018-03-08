@@ -1,0 +1,34 @@
+[
+  {
+    "value": "not sure",
+    "synonyms": [
+      "not sure",
+      "notsure"
+    ]
+  },
+  {
+    "value": "not really",
+    "synonyms": [
+      "not really"
+    ]
+  },
+  {
+    "value": "don\u0027t know",
+    "synonyms": [
+      "don\u0027t know",
+      "do not know"
+    ]
+  },
+  {
+    "value": "not from the top of my head",
+    "synonyms": [
+      "not from the top of my head"
+    ]
+  },
+  {
+    "value": "wish I know",
+    "synonyms": [
+      "wish I know"
+    ]
+  }
+]
