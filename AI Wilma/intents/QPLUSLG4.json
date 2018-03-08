@@ -1,0 +1,77 @@
+{
+  "id": "9d9a3b4e-657f-472c-af37-8e2768561310",
+  "name": "QPLUSLG4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPLUSLG4",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "21c343ba-2ebd-464e-ac32-227055c24dd7",
+          "dataType": "@QPLUSLG4",
+          "name": "QPLUSLG4",
+          "value": "$QPLUSLG4",
+          "isList": false
+        },
+        {
+          "id": "6876434d-3905-4a11-997c-9865c431b2b2",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "5642ee90-0859-446a-9382-cd28604716c4",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "3b5c3b64-27fe-4775-b4e1-0a4abce585d9",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "6533dbfb-c062-490d-af76-7169e91fb5f4",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PLUS L G4 documents are in https://hqamericas.app.box.com/files/0/f/3530373721/Q.PLUS_L-G4. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PLUS L G4 documents in https://hqamericas.app.box.com/files/0/f/3530373721/Q.PLUS_L-G4. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PLUS L G4 documents can be found in https://hqamericas.app.box.com/files/0/f/3530373721/Q.PLUS_L-G4. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501960977,
+  "fallbackIntent": false,
+  "events": []
+}

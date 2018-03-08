@@ -1,0 +1,39 @@
+{
+  "id": "30601f3f-ba80-4e68-a9a9-ff900e436b1c",
+  "name": "QPLUSG4STOP",
+  "auto": true,
+  "contexts": [
+    "QPLUSG4"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPLUSG4STOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Good you got what\u0027s needed. Bye for now."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500778107,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,488 @@
+[
+  {
+    "id": "cf9d59eb-5e40-47ff-b79c-88d45b678371",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. Need you help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUS BFR G3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tuv certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501960773
+  },
+  {
+    "id": "9848e438-8e07-49ca-b52b-9de00f03efb1",
+    "data": [
+      {
+        "text": "Wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. Can you get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUS BFR G3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " document?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501960773
+  },
+  {
+    "id": "a3b3547b-2486-4c6c-b072-7da37d68709f",
+    "data": [
+      {
+        "text": "q.PLUS BFR G3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501960773
+  },
+  {
+    "id": "c773dbf9-8f64-4638-be90-96a926589462",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. need your help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUS BFR G3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501960773
+  },
+  {
+    "id": "e03195e5-25d7-4e92-9a2c-e191c0e56872",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. can you help me getting a ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUS BFR G3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501960773
+  },
+  {
+    "id": "fb2b7535-71be-4357-b7cd-dbc85efc413a",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. would really appreciate if you can help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUS BFR G3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501960773
+  },
+  {
+    "id": "ed0661a6-5f2e-4bec-9899-5d89f26f9078",
+    "data": [
+      {
+        "text": "wilma",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": ", can you please get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUS BFR G3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501960773
+  },
+  {
+    "id": "1cc0e112-15ed-4ad3-a859-4de4bfae04f7",
+    "data": [
+      {
+        "text": "qplus bfrg3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ac9e2aa-7406-4350-9d4c-fe5cdea6dcc9",
+    "data": [
+      {
+        "text": "qplusbfrg3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4a3798f-63d7-46c8-8dc3-7d05d503594f",
+    "data": [
+      {
+        "text": "qplusbfr g3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09ad829c-50f0-4de9-bfa1-efc5def50f4d",
+    "data": [
+      {
+        "text": "qplus bfr g3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ba84944-6956-47b7-a9cd-58a89a92cc47",
+    "data": [
+      {
+        "text": "q.plus bfrg3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09bed701-d532-47ed-9d1a-0dbd43746e45",
+    "data": [
+      {
+        "text": "q.plusbfrg3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00faf405-2ae1-4790-97b3-c0e0b1a40075",
+    "data": [
+      {
+        "text": "q.plusbfr g3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23e80c20-6fb0-4879-aa01-8133cd048315",
+    "data": [
+      {
+        "text": "q.plus bfr g3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a26a36ed-b697-461d-82db-c0d2cef27f16",
+    "data": [
+      {
+        "text": "g 3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c909bd02-0800-449f-972e-a4e70fd6bb45",
+    "data": [
+      {
+        "text": "3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e737022-8181-4d64-8c7f-5bb5af04b58a",
+    "data": [
+      {
+        "text": "q.Plusbfrg3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66e3a79f-8b64-4efd-8773-401f29877134",
+    "data": [
+      {
+        "text": "Give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUSBFRG3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CSA certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4831ef04-78b4-48a7-95c5-d353bf36935b",
+    "data": [
+      {
+        "text": "I need the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUSBFRG3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d259628-f189-4213-a9fc-f351897f9d57",
+    "data": [
+      {
+        "text": "g",
+        "userDefined": false
+      },
+      {
+        "text": "3.1",
+        "alias": "QPLUSBFRG3_1",
+        "meta": "@QPLUSBFRG3_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

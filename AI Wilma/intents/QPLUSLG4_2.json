@@ -1,0 +1,77 @@
+{
+  "id": "88be7ad8-b2e7-40a0-8968-d357dc3eeca9",
+  "name": "QPLUSLG4_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPLUSLG4_2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "88712b89-29b7-4756-89a1-c2744446fab4",
+          "dataType": "@QPLUSLG4_2",
+          "name": "QPLUSLG4_2",
+          "value": "$QPLUSLG4_2",
+          "isList": false
+        },
+        {
+          "id": "4c5045f6-8afe-4bb0-905f-69fa921535b9",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "ab97168a-526f-45fc-be62-49545d343f30",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "a59f49aa-6e86-492a-ad34-2fd2a01af146",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "523e6c0e-fb6e-4585-aaee-80b520d3d595",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PLUS L G4.2 documents are in https://hqamericas.app.box.com/files/0/f/4109616233/Q.PLUS_L-G4.2. Contact Wai if you cannot find them.  Any other document I can help you with?",
+            "You can find the Q.PLUS L G4.2 documents in https://hqamericas.app.box.com/files/0/f/4109616233/Q.PLUS_L-G4.2. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PLUS L G4.2 documents can be found in https://hqamericas.app.box.com/files/0/f/4109616233/Q.PLUS_L-G4.2. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507095105,
+  "fallbackIntent": false,
+  "events": []
+}

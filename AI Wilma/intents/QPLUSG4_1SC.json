@@ -1,0 +1,77 @@
+{
+  "id": "350ffea6-7807-4615-9655-a8d88e120869",
+  "name": "QPLUSG4_1SC",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPLUSG4_1SC",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2be47bf0-8d06-4a47-b435-448d7967834a",
+          "dataType": "@QPLUSG4_1SC",
+          "name": "QPLUSG4_1SC",
+          "value": "$QPLUSG4_1SC",
+          "isList": false
+        },
+        {
+          "id": "0597cfc7-dab5-46e3-96ad-f4587cb2e5e3",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "789ff198-a04c-4ffd-bd8a-170bf3c0614f",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "d4f789e1-64a9-4c98-bc7e-7f7b3f54fc57",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "7782af57-7b07-4475-97fc-4d92d126e40f",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PLUS G4.1/SC documents are in https://hqamericas.app.box.com/files/0/f/5261064845/Q.PLUS-G4.1-SC. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PLUS G4.1/SC documents in https://hqamericas.app.box.com/files/0/f/5261064845/Q.PLUS-G4.1-SC. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PLUS G4.1/SC documents can be found in https://hqamericas.app.box.com/files/0/f/5261064845/Q.PLUS-G4.1-SC. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501960946,
+  "fallbackIntent": false,
+  "events": []
+}

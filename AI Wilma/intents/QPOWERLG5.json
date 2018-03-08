@@ -1,0 +1,77 @@
+{
+  "id": "820ed4d4-1b62-47ea-b519-bb3e167fbc49",
+  "name": "QPOWERLG5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPOWERLG5",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d8aef1e4-308f-434c-b9a6-8a9d437a2a8a",
+          "dataType": "@QPOWERLG5",
+          "name": "QPOWERLG5",
+          "value": "$QPOWERLG5",
+          "isList": false
+        },
+        {
+          "id": "68a1effe-5a96-461f-83b3-e8bd59b2a8f9",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "6c8c2c3f-9722-42f6-ba10-192eeb7c80fa",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "6978c8eb-7728-45be-a26e-9e3068082e7c",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "30e83a18-6528-4527-b722-7eeb3a9ff2e9",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PROWER L G5 documents are in https://hqamericas.app.box.com/files/0/f/13904638544/Q.POWERLG5. Contact Wai if you cannot find them. Any other document I can hep you with?",
+            "You can find the Q.POWER L G5 documents in https://hqamericas.app.box.com/files/0/f/13904638544/Q.POWERLG5. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.POWER L G5 documents can be found in https://hqamericas.app.box.com/files/0/f/13904638544/Q.POWERLG5. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501957086,
+  "fallbackIntent": false,
+  "events": []
+}

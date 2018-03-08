@@ -1,0 +1,39 @@
+{
+  "id": "72fe4eb7-536a-466c-a1c6-e014ae6b675e",
+  "name": "QPOWERLG5STOP",
+  "auto": true,
+  "contexts": [
+    "QPOWERLG5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPOWERLG5STOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Good you got what\u0027s needed. Bye for now."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500778922,
+  "fallbackIntent": false,
+  "events": []
+}

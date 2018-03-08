@@ -1,0 +1,77 @@
+{
+  "id": "7f075bfb-7c04-43db-ba59-0be742bc08c0",
+  "name": "QPRIMELG5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPRIMELG5",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "72821ed8-5793-485f-9815-f2fa164d97f3",
+          "dataType": "@QPRIMELG5",
+          "name": "QPRIMELG5",
+          "value": "$QPRIMELG5",
+          "isList": false
+        },
+        {
+          "id": "5ff0be30-795a-44e6-a561-820d3d1492ae",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "99cc7dcd-3a6a-467b-abd3-8bac37b65b7f",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "54f5dc43-1020-4631-9439-a155ea3787d8",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "d799ed92-cad6-4d90-870e-81b82973605c",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PRIME L G5 documents are in https://hqamericas.app.box.com/files/0/f/13905030480/Q.PRIME_L_G5. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PRIME L G5 documents in https://hqamericas.app.box.com/files/0/f/13905030480/Q.PRIME_L_G5. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PRIME L G5 documents can be found in https://hqamericas.app.box.com/files/0/f/13905030480/Q.PRIME_L_G5. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507095105,
+  "fallbackIntent": false,
+  "events": []
+}

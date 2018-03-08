@@ -1,0 +1,84 @@
+{
+  "id": "54fbeb65-f47b-4e96-8446-b7c63d2206df",
+  "name": "QPOWERLG5_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPOWERLG5_2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e3fbefb0-b59d-4fbf-951f-cf2df0d6c233",
+          "dataType": "@QPOWERLG5_2",
+          "name": "QPOWERLG5_2",
+          "value": "$QPOWERLG5_2",
+          "isList": false
+        },
+        {
+          "id": "95276f94-d477-4f6a-a6a1-6ce6ae5618de",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "c222c5c5-e329-4f9d-94bb-ac85e735c237",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "39cb6c1d-4c7c-42da-9d19-8255e38db168",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "d63843eb-a6c2-4395-9cfa-7e57e58816f6",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        },
+        {
+          "id": "13f5819f-9f3f-484b-b9a4-655f8a215ae3",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.POWER L G5.2 documents are in https://hqamericas.app.box.com/files/0/f/13904574567/Q.POWER_L_G5.2. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.POWER L G5.2 documents in https://hqamericas.app.box.com/files/0/f/13904574567/Q.POWER_L_G5.2. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.POWER L G5.2 documents can be found in https://hqamericas.app.box.com/files/0/f/13904574567/Q.POWER_L_G5.2. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501957215,
+  "fallbackIntent": false,
+  "events": []
+}

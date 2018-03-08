@@ -1,0 +1,576 @@
+[
+  {
+    "id": "ee3c8334-590d-4e3b-8371-bd7adaf47e22",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. Need you help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUS L G4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "tuv certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501961007
+  },
+  {
+    "id": "fbea5fb2-ffae-4068-8c43-01232b44a864",
+    "data": [
+      {
+        "text": "Wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. Can you get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUS L G4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "ul certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501961007
+  },
+  {
+    "id": "86d3e8ac-25c0-4ad2-ac8d-f92513d2efae",
+    "data": [
+      {
+        "text": "Wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. Can you get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUS L G4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " document?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501961007
+  },
+  {
+    "id": "473d375a-203f-437c-b8f7-42f7f959fbe3",
+    "data": [
+      {
+        "text": "q.PLUS L G4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      },
+      {
+        "text": "  warranty please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501961007
+  },
+  {
+    "id": "b1185834-9a95-4c15-9211-d1401c3e9cac",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. need your help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUS L G4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501961007
+  },
+  {
+    "id": "f39de6d4-311c-4f86-8e9d-b69e0a77c0a2",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. can you help me getting a ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUS L G4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501961007
+  },
+  {
+    "id": "be01d947-9f36-406d-a6f7-959ff4ec0757",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. would really appreciate if you can help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUS L G4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501961007
+  },
+  {
+    "id": "a0795ea5-7e46-451c-957b-37597d50f33b",
+    "data": [
+      {
+        "text": "wilma",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": ", can you please get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUS L G4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501961007
+  },
+  {
+    "id": "0d8ec2e0-50db-4dbd-85d0-097bd25dbe80",
+    "data": [
+      {
+        "text": "Q.PLUS L-G4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " document",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501566856
+  },
+  {
+    "id": "4bfded71-ec64-45d1-9536-7e720f181679",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "q.plus l g4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "installation manual",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501566679
+  },
+  {
+    "id": "af113e6e-608a-4a5e-a243-2700c98d5829",
+    "data": [
+      {
+        "text": "Give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.PLUSlg4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CSA certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0f8c95ff-e7ba-486f-9fdf-51e86062cee8",
+    "data": [
+      {
+        "text": "q.Pluslg4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04028aca-0c17-4884-956b-598d03a049d5",
+    "data": [
+      {
+        "text": "I want the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.plus l g4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "csa certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c879b572-def5-450c-a0b6-3830f746f394",
+    "data": [
+      {
+        "text": "I want the ",
+        "userDefined": false
+      },
+      {
+        "text": "q.plus l g4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c7b0b26-5cdc-4b71-8ac2-80f29d4f45e3",
+    "data": [
+      {
+        "text": "qpluslg4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77e10bba-3f65-43d5-b76a-a054e7d95cf8",
+    "data": [
+      {
+        "text": "qplusl g4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecb02414-6a27-46a5-839e-624544b81d3b",
+    "data": [
+      {
+        "text": "qplus lg4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c7379e1-6a17-4bd3-9bcb-9def1a647bcc",
+    "data": [
+      {
+        "text": "qplus l g4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "caad271d-c459-4a4b-b727-0adb87b24534",
+    "data": [
+      {
+        "text": "q.pluslg4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7393fe51-43e0-479b-a2cd-783b49bff629",
+    "data": [
+      {
+        "text": "q.plusl g4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe1c18c3-9b5d-43f1-aab2-0d002ff48ce9",
+    "data": [
+      {
+        "text": "q.plus lg4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c147d179-3d63-4716-a8e1-32dc93494d2a",
+    "data": [
+      {
+        "text": "q.plus l g4.1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "edfb7548-fe80-49e9-9720-d3f8338d7c7e",
+    "data": [
+      {
+        "text": "@",
+        "userDefined": false
+      },
+      {
+        "text": "qpluslg4_1",
+        "alias": "QPLUSLG4_1",
+        "meta": "@QPLUSLG4_1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

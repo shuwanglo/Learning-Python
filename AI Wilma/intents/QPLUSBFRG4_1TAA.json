@@ -1,0 +1,77 @@
+{
+  "id": "37dd1b2a-d32b-4f5a-adb6-7b67312e8a99",
+  "name": "QPLUSBFRG4_1TAA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPLUSBFRG4_1TAA",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ac071b2a-63a5-45a9-8cf2-cea4623f6c07",
+          "dataType": "@QPLUSBFRG4_1TAA",
+          "name": "QPLUSBFRG4_1TAA",
+          "value": "$QPLUSBFRG4_1TAA",
+          "isList": false
+        },
+        {
+          "id": "fb3f3c0e-da90-4489-b7d5-567dfb284024",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "903eb793-45cc-43d8-999f-c4ae4c98ea67",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "5484e026-00ef-41d5-9154-bb0c8ed278bc",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "8478e197-9d34-4a8f-b87c-d06c8ce44d7d",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PLUS BFR G4.1/TAA documents are in https://hqamericas.app.box.com/files/0/f/9392319332/Q.PLUS_BFR-G4.1_TAA. Contact Wai if you cannot find them.  Any other document I can help you with?",
+            "You can find the Q.PLUS BFR G4.1/TAA documents in https://hqamericas.app.box.com/files/0/f/9392319332/Q.PLUS_BFR-G4.1_TAA. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PLUS BFR G4.1/TAA documents can be found in https://hqamericas.app.box.com/files/0/f/9392319332/Q.PLUS_BFR-G4.1_TAA. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501960839,
+  "fallbackIntent": false,
+  "events": []
+}

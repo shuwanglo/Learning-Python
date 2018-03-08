@@ -1,0 +1,77 @@
+{
+  "id": "f8370b9f-2918-48b6-9820-4a7e500ebf88",
+  "name": "QPLUSBFRG3_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPLUSBFRG3_1",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e5c3d006-d3fe-4e6d-bdba-47465ab7aea7",
+          "dataType": "@QPLUSBFRG3_1",
+          "name": "QPLUSBFRG3_1",
+          "value": "$QPLUSBFRG3_1",
+          "isList": false
+        },
+        {
+          "id": "b35d3924-17b4-4229-a97e-f84d08280421",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "f651f13d-f16e-42a3-9bff-09658aaa4f1f",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "29ab5129-c088-4e3b-91aa-3ff14a764fa0",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "2e2772ce-c938-44db-85f4-06fb84c60bf9",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PLUS BFR G3.1 documents are in https://hqamericas.app.box.com/files/0/f/8630250673/Q.PLUS_BFR-G3.1. Contact Wai if you cannot find them.  Any other document I can help you with?",
+            "You can find the Q.PLUS BFR G3.1 documents in https://hqamericas.app.box.com/files/0/f/8630250673/Q.PLUS_BFR-G3.1. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PLUS BFR G3.1 documents can be found in https://hqamericas.app.box.com/files/0/f/8630250673/Q.PLUS_BFR-G3.1. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501960773,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "d55ad70f-6263-4c04-bc38-d12d67f7da96",
+  "parentId": "e0c81b61-ed9f-4a16-9611-8bc5287d47c0",
+  "rootParentId": "e0c81b61-ed9f-4a16-9611-8bc5287d47c0",
+  "name": "QPLUSLG4_2TAASTOPBYE",
+  "auto": true,
+  "contexts": [
+    "QPLUSLG4_2TAASTOP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "QPLUSLG4_2TAASTOP.QPLUSLG4_2TAASTOP-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500778662,
+  "fallbackIntent": false,
+  "events": []
+}

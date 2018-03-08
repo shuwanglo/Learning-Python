@@ -1,0 +1,77 @@
+{
+  "id": "cab44093-f38a-498b-bc3e-eb57e79e0eb1",
+  "name": "QPLUSLG4_2TAA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPLUSLG4_2TAA",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "62c1c921-4117-4a2e-b3ec-f82e1322087a",
+          "dataType": "@QPLUSLG4_2TAA",
+          "name": "QPLUSLG4_2TAA",
+          "value": "$QPLUSLG4_2TAA",
+          "isList": false
+        },
+        {
+          "id": "4c98583b-a1b1-42a2-b64a-4115e63e7b70",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "6103f654-46a0-48c5-a4d2-a7aafd762830",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "6cf231c3-53f8-44a5-8849-c81638945eed",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "0368759f-ddc6-4c72-9558-07f7bc93e5c6",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PLUS L G4.2/TAA documents are in https://hqamericas.app.box.com/files/0/f/9397026185/Q.PLUS_L-G4.2_TAA. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PLUS L G4.2 documents in https://hqamericas.app.box.com/files/0/f/9397026185/Q.PLUS_L-G4.2_TAA. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PLUS L G4.2 documents can be found in https://hqamericas.app.box.com/files/0/f/9397026185/Q.PLUS_L-G4.2_TAA. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501980867,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,522 @@
+[
+  {
+    "id": "16045a4f-3c24-425f-9020-d594d061b36c",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. Need you help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRIME L G5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "tuv certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957638
+  },
+  {
+    "id": "1f6542da-1e10-406b-843d-9dd73d40c329",
+    "data": [
+      {
+        "text": "Wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. Can you get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRIME L G5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "ul certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957638
+  },
+  {
+    "id": "2b17c25a-26c0-4b76-b1b1-486de7e99b76",
+    "data": [
+      {
+        "text": "Wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. Can you get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRIME L G5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " document?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957638
+  },
+  {
+    "id": "1b9ea242-513b-4f8a-aafd-b9d6637ac397",
+    "data": [
+      {
+        "text": "Q.PRIME L G5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957638
+  },
+  {
+    "id": "cf214b52-4b8b-4206-ad3a-bc74369bfd0f",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. need your help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRIME L G5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957638
+  },
+  {
+    "id": "23ce9a5c-56c6-4e2f-98c7-ee2f36540b4b",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. can you help me getting a ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRIME L G5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957638
+  },
+  {
+    "id": "776a614a-b722-46da-814e-904d7356de27",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. would really appreciate if you can help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRIME L G5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957638
+  },
+  {
+    "id": "2d657abc-476a-4e5f-b5ac-680e6834a44d",
+    "data": [
+      {
+        "text": "wilma",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": ", can you please get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRIME L G5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957638
+  },
+  {
+    "id": "3e38cf1c-0035-4802-a03c-b1839424ae86",
+    "data": [
+      {
+        "text": "Q.PRIME L-G5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CSA",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501566768
+  },
+  {
+    "id": "199950fa-ec79-4b22-a6e3-ee8aedee54f3",
+    "data": [
+      {
+        "text": "I need the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRIME L G5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07414753-f69f-4370-8d4f-1513d11d939e",
+    "data": [
+      {
+        "text": "Give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRIME L G5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CSA certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "542cd2d7-8b31-4a08-8ac6-494b2ffdc72e",
+    "data": [
+      {
+        "text": "Q.PRIME L G5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3710dc1d-f6e5-49ce-9088-116454f53ce5",
+    "data": [
+      {
+        "text": "qprimelg5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f32a285-e7e6-481d-8d9c-cbc02da6c168",
+    "data": [
+      {
+        "text": "qprimel g5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c3991b0-c009-491d-b0b4-6baedc152a7a",
+    "data": [
+      {
+        "text": "qprime lg5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f7941cd-29aa-4a47-bc05-1b1b94304c86",
+    "data": [
+      {
+        "text": "qprime l g5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a96d13a-1809-4ca0-abaf-48ef103dbfbc",
+    "data": [
+      {
+        "text": "q.primelg5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05306445-8ae8-4cb1-8ce4-7de83b319700",
+    "data": [
+      {
+        "text": "q.primel g5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e740e0f4-4cb6-416c-9288-d9452003546c",
+    "data": [
+      {
+        "text": "q.prime lg5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "396e5259-716d-4d50-ad7a-c06e77d45cf6",
+    "data": [
+      {
+        "text": "q.prime l g5.2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1df3ff80-a7fe-488f-b38c-c4ef79339f2f",
+    "data": [
+      {
+        "text": "@",
+        "userDefined": false
+      },
+      {
+        "text": "QPRIMELG5_2",
+        "alias": "QPRIMELG5_2",
+        "meta": "@QPRIMELG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "id": "0c66e5cf-1528-4a7e-9eb6-7baabbe14205",
+  "name": "QPOWERG5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPOWERG5",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "92844501-e7d1-4f97-8456-e502335d6c9b",
+          "dataType": "@QPOWERG5",
+          "name": "QPOWERG5",
+          "value": "$QPOWERG5",
+          "isList": false
+        },
+        {
+          "id": "bc25d637-adb2-4d56-9ee2-ee42562debaa",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "c823ff97-a7dd-4a6e-8ade-a9c7053bec8a",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "f201bc2f-d5a6-45b4-a5c9-00c33a33e12e",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "044e76bf-f0ad-4acf-abb2-9679e022b233",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "cca70f69-f74c-4915-b219-31396917d3b8",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.POWER G5 documents are in https://hqamericas.app.box.com/files/0/f/13904775891/Q.POWER_G5. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.POWER G5 documents in https://hqamericas.app.box.com/files/0/f/13904775891/Q.POWER_G5. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.POWER G5 documents can be found in https://hqamericas.app.box.com/files/0/f/13904775891/Q.POWER_G5. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501980867,
+  "fallbackIntent": false,
+  "events": []
+}

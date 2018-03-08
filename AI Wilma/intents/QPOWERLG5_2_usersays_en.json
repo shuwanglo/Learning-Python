@@ -1,0 +1,498 @@
+[
+  {
+    "id": "103e6af5-afe3-4c17-b66d-e8e016bf8189",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. Need you help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.POWER L G5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "tuv certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957215
+  },
+  {
+    "id": "128bde58-87c9-46cd-933f-a6f8426d6027",
+    "data": [
+      {
+        "text": "Wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. Can you get me the Q.POWER L G5.",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "ul certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957215
+  },
+  {
+    "id": "15817584-027f-4832-8053-6b3d5dae4f3b",
+    "data": [
+      {
+        "text": "Wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. Can you get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.POWER L G5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " document?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957215
+  },
+  {
+    "id": "7dbd856b-3d95-43ad-b37c-5326ad7ce664",
+    "data": [
+      {
+        "text": "Q.POWER L G5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957215
+  },
+  {
+    "id": "3db139a8-6cfc-4572-83c2-6fb56333abff",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. need your help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.POWER L G5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957215
+  },
+  {
+    "id": "0a835ea3-6477-48eb-b754-3a119695bff5",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. can you help me getting a ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.POWER L G5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957215
+  },
+  {
+    "id": "f863fe3d-6abb-4081-babd-87b77d6e4ece",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. would really appreciate if you can help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.POWER L G5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957215
+  },
+  {
+    "id": "e1a17a51-4903-445b-b61b-09e0fbd30011",
+    "data": [
+      {
+        "text": "wilma",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": ", can you please get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.POWER L G5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957215
+  },
+  {
+    "id": "41fd890e-f314-4198-8dcb-e54c40cfe3f8",
+    "data": [
+      {
+        "text": "I need the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.POWER L G5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09e819d2-31ed-4204-be60-3b0e9abd9a23",
+    "data": [
+      {
+        "text": "Give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.POWER L G5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CSA certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbcc5163-c4fa-4ac1-bbf0-30281d1b369c",
+    "data": [
+      {
+        "text": "Q.POWER L G5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d95eb794-d25c-45f4-9e5e-3c40adc38fee",
+    "data": [
+      {
+        "text": "qpowerlg5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3a75eb19-7023-4948-be90-f454ec00f32b",
+    "data": [
+      {
+        "text": "qpowerl g5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33324bf7-349a-4d9a-b6e6-f68198d8e017",
+    "data": [
+      {
+        "text": "qpower lg5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31f3cdc5-946a-490a-83f1-f8b3a0551570",
+    "data": [
+      {
+        "text": "qpower l g5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "308474da-b534-47dc-bbac-84d82131eb0e",
+    "data": [
+      {
+        "text": "q.powerlg5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25c675d4-9f43-404d-af40-0fd41386b508",
+    "data": [
+      {
+        "text": "q.powerl g5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe25328d-9d0b-4c37-8a43-21b146647821",
+    "data": [
+      {
+        "text": "q.power lg5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "238278d5-7908-43fb-a62c-2c418f838773",
+    "data": [
+      {
+        "text": "q.power l g5.2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c03cb656-af8a-4827-b937-02b2fc9b96a3",
+    "data": [
+      {
+        "text": "@",
+        "userDefined": false
+      },
+      {
+        "text": "QPOWERLG5_2",
+        "alias": "QPOWERLG5_2",
+        "meta": "@QPOWERLG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

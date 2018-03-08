@@ -1,0 +1,77 @@
+{
+  "id": "623a900e-22a2-401c-b8c7-2a82d0b03d09",
+  "name": "QPRIMELG5_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPRIMELG5_2",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bd0f8a00-c81f-45f5-85f8-28f8209b2a8b",
+          "dataType": "@QPRIMELG5_2",
+          "name": "QPRIMELG5_2",
+          "value": "$QPRIMELG5_2",
+          "isList": false
+        },
+        {
+          "id": "7c0b7d68-a824-4db8-8c6f-c61e956808cc",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "c6dd03cd-adb5-4756-9b83-d2689c8ae2a5",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "fce0324e-aa49-4f16-bcdb-f26240fc48c8",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "ee02d080-c5d9-4835-8dd3-832ce6636ac9",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PRIME L G5.2 documents are in https://hqamericas.app.box.com/files/0/f/13904864280/Q.PRIME_L_G5.2. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PRIME L G5.2 documents in https://hqamericas.app.box.com/files/0/f/13904864280/Q.PRIME_L_G5.2. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PRIME L G5.2 documents can be found in https://hqamericas.app.box.com/files/0/f/13904864280/Q.PRIME_L_G5.2. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501957638,
+  "fallbackIntent": false,
+  "events": []
+}

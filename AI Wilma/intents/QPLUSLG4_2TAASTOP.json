@@ -1,0 +1,39 @@
+{
+  "id": "e0c81b61-ed9f-4a16-9611-8bc5287d47c0",
+  "name": "QPLUSLG4_2TAASTOP",
+  "auto": true,
+  "contexts": [
+    "QPLUSLG4_2TAA"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPLUSLG4_2TAASTOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Good you got what\u0027s needed. Bye for now."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500778584,
+  "fallbackIntent": false,
+  "events": []
+}

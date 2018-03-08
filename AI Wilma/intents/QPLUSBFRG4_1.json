@@ -1,0 +1,84 @@
+{
+  "id": "0a09ec45-5119-4935-95db-5193a3b3a387",
+  "name": "QPLUSBFRG4_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPLUSBFRG4_1",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "13f9e887-061f-45cc-9c22-efbc4ef10982",
+          "dataType": "@QPLUSBFRG4_1",
+          "name": "QPLUSBFRG4_1",
+          "value": "$QPLUSBFRG4_1",
+          "isList": false
+        },
+        {
+          "id": "48e60240-520a-4289-b412-ddea9b955d3b",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "969d6f6b-54f5-4856-88a1-d9dd06a4f53e",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "8a7ada7f-125d-45ed-bd0e-c250cc7b9e62",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": true
+        },
+        {
+          "id": "3f874d37-84df-476a-9040-5c3778c464ff",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "5d4dbb4d-4dde-4bfb-b8cf-fce04f0f3164",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PLUS BFR G4.1 documents are in https://hqamericas.app.box.com/files/0/f/5016121625/Q.PLUS_BFR_G4.1. Contact Wai if you cannot find them.  Any other document I can help you with?",
+            "You can find the Q.PLUS BFR G4.1 documents in https://hqamericas.app.box.com/files/0/f/5016121625/Q.PLUS_BFR_G4.1. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PLUS BFR G4.1 documents can be found in https://hqamericas.app.box.com/files/0/f/5016121625/Q.PLUS_BFR_G4.1. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1502307693,
+  "fallbackIntent": false,
+  "events": []
+}

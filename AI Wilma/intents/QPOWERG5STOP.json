@@ -1,0 +1,39 @@
+{
+  "id": "183a3897-abaf-436c-bb77-7dfb45227516",
+  "name": "QPOWERG5STOP",
+  "auto": true,
+  "contexts": [
+    "QPOWERG5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPOWERG5STOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Good you got what\u0027s needed. Bye for now."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500778752,
+  "fallbackIntent": false,
+  "events": []
+}
