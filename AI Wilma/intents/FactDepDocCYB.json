@@ -1,0 +1,60 @@
+{
+  "id": "dfccad2f-506c-4c4f-8644-bc53f0cd4acb",
+  "name": "FactDepDocCYB",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FactDepDocCYB",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "FactDepDocCYB-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "775c0658-2260-4cc8-aee4-b06d4b3d28d5",
+          "dataType": "@Factory",
+          "name": "Factory",
+          "value": "$Factory",
+          "isList": false
+        },
+        {
+          "id": "d7f82045-ab37-4f73-81a0-1fe51208ebb8",
+          "dataType": "@FactDepDoc",
+          "name": "FactDepDoc",
+          "value": "$FactDepDoc",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "It is in https://hqamericas.app.box.com/files/0/f/30565012046/CYB . Any other document I can help you with?",
+            "You can find it in https://hqamericas.app.box.com/files/0/f/30565012046/CYB . What is the next document I can help you with?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1502043644,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,91 @@
+{
+  "id": "d4a8a573-15cf-4e92-95bf-e2efeacd2f20",
+  "name": "ProdQuestions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ProdQuestions-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "36bf9817-b503-4083-b63b-d215831343ad",
+          "required": false,
+          "dataType": "@HC",
+          "name": "HC",
+          "value": "$HC",
+          "isList": false
+        },
+        {
+          "id": "31e731b6-737c-4e06-8b3a-e5524a0a7597",
+          "required": false,
+          "dataType": "@Module",
+          "name": "Module",
+          "value": "$Module",
+          "isList": false
+        },
+        {
+          "id": "7ffe7d4d-0571-4cad-8d0a-5b23180816ca",
+          "required": false,
+          "dataType": "@Work",
+          "name": "Work",
+          "value": "$Work",
+          "isList": false
+        },
+        {
+          "id": "699cc336-34ca-4319-bd2c-25114ff7081a",
+          "required": false,
+          "dataType": "@How",
+          "name": "How",
+          "value": "$How",
+          "isList": false
+        },
+        {
+          "id": "470f3c78-6554-4372-9a2b-91edd16b78e5",
+          "required": false,
+          "dataType": "@Need",
+          "name": "Need",
+          "value": "$Need",
+          "isList": false
+        },
+        {
+          "id": "ec1ffd93-6c43-429a-af0a-d196aca44142",
+          "required": false,
+          "dataType": "@Again",
+          "name": "Again",
+          "value": "$Again",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Looks like you have a product question instead. Please contact my colleague Wilbur at https://bot.dialogflow.com/411a3529-f762-4456-b39a-052528740a30, or Wai at wai.lo@us.q-cells.com (650-391-3108)",
+            "For this type of product questions, my colleague Wilbur at https://bot.dialogflow.com/411a3529-f762-4456-b39a-052528740a30, or Wai at wai.lo@us.q-cells.com (650-391-3108) can help you instead.",
+            "I am afraid I am not trained to answer this question. Please contact my colleague Wilbur at https://bot.dialogflow.com/411a3529-f762-4456-b39a-052528740a30, or Wai at wai.lo@us.q-cells.com (650-391-3108) for assistance."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "slack": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515524164,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "930bc4db-8b8c-4c86-8edb-46066ce57cc9",
+  "name": "FactDepDocNotSureSTOP",
+  "auto": true,
+  "contexts": [
+    "FactDepDocNotSure"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FactDepDocNotSureSTOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Good you got what\u0027s needed. Bye for now."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500775777,
+  "fallbackIntent": false,
+  "events": []
+}

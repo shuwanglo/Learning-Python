@@ -1,0 +1,62 @@
+{
+  "id": "3ef50da5-97df-4728-a023-221da4506753",
+  "name": "FactDepDocQD",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FactDepDocQD",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0008ac92-85f3-4908-a86f-67258fe77484",
+          "dataType": "@Factory",
+          "name": "Factory",
+          "value": "$Factory",
+          "isList": false
+        },
+        {
+          "id": "9d209430-3287-43e1-8b27-971749110886",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "ff405d67-86ea-4a6c-9926-4eb7260da205",
+          "dataType": "@FactDepDoc",
+          "name": "FactDepDoc",
+          "value": "$FactDepDoc",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "It is in https://hqamericas.app.box.com/files/0/f/30565031286/QD . Any other document I can help yo with?",
+            "You can find it in https://hqamericas.app.box.com/files/0/f/30565031286/QD . What\u0027s the next document I can help yo with?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1502084122,
+  "fallbackIntent": false,
+  "events": []
+}

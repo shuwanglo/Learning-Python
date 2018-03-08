@@ -1,0 +1,86 @@
+[
+  {
+    "id": "e8f3f069-bc9b-4091-a39e-2697b9f8bed6",
+    "data": [
+      {
+        "text": "Perhaps not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "81b5ffa4-e35a-46c2-8486-0984680d8922",
+    "data": [
+      {
+        "text": "Negative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f332ce94-6e71-419e-b237-ccf4e61b37f5",
+    "data": [
+      {
+        "text": "Most likely not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c100b4c0-f4e2-4a2f-b09c-94d70fa14472",
+    "data": [
+      {
+        "text": "Unlikely",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e6e331d-3354-4fc5-b0c3-86d6c4ed3448",
+    "data": [
+      {
+        "text": "Probably not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c41c174-db9e-4aed-8f5f-123bd1c6b918",
+    "data": [
+      {
+        "text": "I don\u0027t think so",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d4b3d9ad-e9a3-4d35-89ac-821e9a7fcef0",
+    "data": [
+      {
+        "text": "No",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

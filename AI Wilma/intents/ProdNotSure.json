@@ -1,0 +1,45 @@
+{
+  "id": "7f386667-37f5-40eb-a24a-4a7cdea6238f",
+  "name": "ProdNotSure",
+  "auto": true,
+  "contexts": [
+    "ProdDepDocNeeded"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ProdQuest",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I can help you. Is it a Q.ANTUM mono half cell (i.e. Q.PEAK DUO), Q.ANTUM mono 60-cell (i.e. Q.PEAK), Q.ANTUM mono 72-cell (i.e. Q.PEAK L), Q.ANTUM poly 60-cell (i.e. Q.PLUS), Q.ANTUM poly 72-cell (i.e. Q.PLUS L), BSF mono 60-cell (i.e. Q.PEAK G3, Q.PRIME), BSF mono 72-cell (i.e. Q.PRIME L), BSF poly 60-cell (i.e. Q.PRO, Q.POWER) or BSF poly 72-cell (i.e. Q.PRO L, Q.POWER L)?",
+            "Is it a Q.ANTUM mono half cell (i.e. Q.PEAK DUO), Q.ANTUM mono 60-cell (i.e. Q.PEAK), Q.ANTUM mono 72-cell (i.e. Q.PEAK L), Q.ANTUM poly 60-cell (i.e. Q.PLUS), Q.ANTUM poly 72-cell (i.e. Q.PLUS L), BSF mono 60-cell (i.e. Q.PEAK G3, Q.PRIME), BSF mono 72-cell (i.e. Q.PRIME L), BSF poly 60-cell (i.e. Q.PRO, Q.POWER) or BSF poly 72-cell (i.e. Q.PRO L, Q.POWER L)?",
+            "We have Q.ANTUM mono half cell (i.e. Q.PEAK DUO), Q.ANTUM mono 60-cell (i.e. Q.PEAK), Q.ANTUM mono 72-cell (i.e. Q.PEAK L), Q.ANTUM poly 60-cell (i.e. Q.PLUS), Q.ANTUM poly 72-cell (i.e. Q.PLUS L), BSF mono 60-cell (i.e. Q.PEAK G3, Q.PRIME), BSF mono 72-cell (i.e. Q.PRIME L), BSF poly 60-cell (i.e. Q.PRO, Q.POWER) and BSF poly 72-cell (i.e. Q.PRO L, Q.POWER L). Which one is it?",
+            "To help you get started, you can choose from Q.ANTUM mono half cell (i.e. Q.PEAK DUO), Q.ANTUM mono 60-cell (i.e. Q.PEAK), Q.ANTUM mono 72-cell (i.e. Q.PEAK L), Q.ANTUM poly 60-cell (i.e. Q.PLUS), Q.ANTUM poly 72-cell (i.e. Q.PLUS L), BSF mono 60-cell (i.e. Q.PEAK G3, Q.PRIME), BSF mono 72-cell (i.e. Q.PRIME L), BSF poly 60-cell (i.e. Q.PRO, Q.POWER) and BSF poly 72-cell (i.e. Q.PRO L, Q.POWER L).",
+            "It\u0027s OK. You can choose from Q.ANTUM mono half cell (i.e. Q.PEAK DUO), Q.ANTUM mono 60-cell (i.e. Q.PEAK), Q.ANTUM mono 72-cell (i.e. Q.PEAK L), Q.ANTUM poly 60-cell (i.e. Q.PLUS), Q.ANTUM poly 72-cell (i.e. Q.PLUS L), BSF mono 60-cell (i.e. Q.PEAK G3, Q.PRIME), BSF mono 72-cell (i.e. Q.PRIME L), BSF poly 60-cell (i.e. Q.PRO, Q.POWER) and BSF poly 72-cell (i.e. Q.PRO L, Q.POWER L)."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1502307669,
+  "fallbackIntent": false,
+  "events": []
+}

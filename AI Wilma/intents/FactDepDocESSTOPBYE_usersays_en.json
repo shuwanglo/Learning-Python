@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b812d8a0-ded1-4c57-9867-4dbb536cb49d",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500775616
+  },
+  {
+    "id": "f10c15bb-860e-49d5-ae1d-8dfbf265928e",
+    "data": [
+      {
+        "text": "Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500775616
+  },
+  {
+    "id": "5d89f3f2-1004-4d30-9c9a-f78dec6b438c",
+    "data": [
+      {
+        "text": "Talk to you again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500775616
+  },
+  {
+    "id": "143dbabe-db83-484c-9a5d-3822bf427d3b",
+    "data": [
+      {
+        "text": "Talk to you later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500775616
+  },
+  {
+    "id": "67e00508-98a8-4275-8495-7dc1d528ec29",
+    "data": [
+      {
+        "text": "Have a nice day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500775616
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "ec7a2cbe-b308-48ef-9a60-cc2fec4d66ce",
+  "name": "ProdIndepDocNeeded",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ProdIndepDocNeeded",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "94eba370-2dc3-47da-b412-23083c0b5554",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "$ProdIndepDoc shared between products, but we have 2 versions. Is the product from Qidong, China?",
+            "$ProdIndepDoc lists all products available, and we have 2 versions. Is the product from Qidong, China?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1502307669,
+  "fallbackIntent": false,
+  "events": []
+}

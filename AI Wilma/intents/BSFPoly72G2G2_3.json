@@ -1,0 +1,42 @@
+{
+  "id": "051677c2-3570-4106-88ff-d9b9ff8ad6c1",
+  "name": "BSFPoly72G2G2_3",
+  "auto": true,
+  "contexts": [
+    "BSFPoly72"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "BSFPoly72G2G2_3",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "We have Q.PRO L G2 and Q.PRO L G2.3. Which one works for you?",
+            "Is it Q.PRO L G2 and Q.PRO L G2.3?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500685201036,
+  "fallbackIntent": false,
+  "events": []
+}

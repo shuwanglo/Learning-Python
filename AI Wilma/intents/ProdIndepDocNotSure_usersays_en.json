@@ -1,0 +1,146 @@
+[
+  {
+    "id": "d64e611e-109c-4c96-9234-07045704224e",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dae532e0-bd0b-45f0-8958-3cb2d6cbea2e",
+    "data": [
+      {
+        "text": "I am confused",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c63fdcf-391a-4a04-bdee-af944c2686f3",
+    "data": [
+      {
+        "text": "confusing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b272a8d7-3b51-4b92-a4c4-49b0eace5ae2",
+    "data": [
+      {
+        "text": "confused",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9df2e68-819d-4a69-b940-a95da98320f6",
+    "data": [
+      {
+        "text": "don\u0027t know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fde0822d-cc05-4b4d-a95c-cfbe23cdb2e7",
+    "data": [
+      {
+        "text": "give me a break",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94ff73af-7bab-4c44-92cd-fa7d51cb7adc",
+    "data": [
+      {
+        "text": "You tell me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66d9702e-9bb4-4f59-ab57-d3d8993dd3be",
+    "data": [
+      {
+        "text": "How can I know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fb912fb-2564-4681-b7eb-651e3f4ae0b3",
+    "data": [
+      {
+        "text": "Not sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40be63b1-4972-4e83-bb83-f3d40be465af",
+    "data": [
+      {
+        "text": "I don\u0027t know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79f1b7bd-2ab2-406a-b351-c5b594fe9c4e",
+    "data": [
+      {
+        "text": "That is not known",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6ac262a-5768-4985-bff8-75ba17196fb7",
+    "data": [
+      {
+        "text": "I am not sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

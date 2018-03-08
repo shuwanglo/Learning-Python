@@ -1,0 +1,41 @@
+{
+  "id": "7830e921-2d3d-4159-85ba-2966ecb4e7fe",
+  "parentId": "d4a8a573-15cf-4e92-95bf-e2efeacd2f20",
+  "rootParentId": "d4a8a573-15cf-4e92-95bf-e2efeacd2f20",
+  "name": "ProdQuestionsSTOP",
+  "auto": true,
+  "contexts": [
+    "ProdQuestions-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ProdQuestions.ProdQuestions-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Let me know if you have more product document question. Otherwise have a nice day.",
+            "OK. Bye for now.",
+            "Get back to me if you need more help with product document. Have a nice day."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "slack": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

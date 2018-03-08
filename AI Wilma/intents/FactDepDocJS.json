@@ -1,0 +1,55 @@
+{
+  "id": "53ea388c-213f-4d10-a55d-206d0d7ba5e4",
+  "name": "FactDepDocJS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FactDepDocJS",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c72bc6bd-df03-4fd7-a219-25fd17611c61",
+          "dataType": "@Factory",
+          "name": "Factory",
+          "value": "$Factory",
+          "isList": false
+        },
+        {
+          "id": "092a800a-5eb9-4f4f-a18c-86989eded154",
+          "dataType": "@FactDepDoc",
+          "name": "FactDepDoc",
+          "value": "$FactDepDoc",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "It is in https://hqamericas.app.box.com/files/0/f/30565033031/JS . Any other document I can help you with?",
+            "You can find it in https://hqamericas.app.box.com/files/0/f/30565033031/JS . What\u0027s the next document I can help you with?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507095105,
+  "fallbackIntent": false,
+  "events": []
+}

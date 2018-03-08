@@ -1,0 +1,42 @@
+{
+  "id": "437ffe12-52c7-4057-9a22-f644f05a02fb",
+  "name": "FactDepDocNotSure",
+  "auto": true,
+  "contexts": [
+    "FactDepDocNeeded"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FactDepDocNotSure",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Unfortunately document is factory dependent. Please contact Wai (wai.lo@us.q-cells.com,  650-3913108) to talk about it. Any other document I can help you with?",
+            "We need to know the factory in order to help you. Please contact Wai (wai.lo@us.q-cells.com,  650-3913108) to talk about it. What\u0027s the next document I can help you with?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500685307586,
+  "fallbackIntent": false,
+  "events": []
+}

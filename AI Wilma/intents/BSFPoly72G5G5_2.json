@@ -1,0 +1,42 @@
+{
+  "id": "cc197388-62c5-4844-aa88-81814207dcb9",
+  "name": "BSFPoly72G5G5_2",
+  "auto": true,
+  "contexts": [
+    "BSFPoly72"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "BSFPoly72G5G5_2",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "We have Q.POWER L G5 (UL1000V) and Q.POWER L G5.2 (UL1500V). Which one works for you?",
+            "Is it Q.POWER L G5 (UL1000V) or Q.POWER L G5.2 (UL1500V)?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500685230660,
+  "fallbackIntent": false,
+  "events": []
+}

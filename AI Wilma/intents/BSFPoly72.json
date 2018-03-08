@@ -1,0 +1,60 @@
+{
+  "id": "ce42970f-68ab-4457-9ebf-a114df8e59c4",
+  "name": "BSFPoly72",
+  "auto": true,
+  "contexts": [
+    "ProdQuest"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "BSFPoly72",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "ProdQuest",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "BSFPoly72-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "670e206a-56e8-4ea1-b1d1-59b224fd5eea",
+          "dataType": "@BSFPOLY72",
+          "name": "BSFPOLY72",
+          "value": "$BSFPOLY72",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "L (2014), L G2 (2015), L G3 (2016), L G4 (2016) or L G5 (2017, China)?",
+            "We have L (2014), L G2 (2015), L G3 (2016), L G4 (2016) and L G5 (2017, China) versions? Which one is it?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501097897,
+  "fallbackIntent": false,
+  "events": []
+}

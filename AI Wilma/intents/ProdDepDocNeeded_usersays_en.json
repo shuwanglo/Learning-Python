@@ -1,0 +1,1450 @@
+[
+  {
+    "id": "a7ad008a-097a-4061-a6dd-53bc28c64547",
+    "data": [
+      {
+        "text": "q.tested certificate",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a039b0e-70f3-4138-a040-9e2d1f9e5475",
+    "data": [
+      {
+        "text": "q.tested certificate",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8c722ae-be95-472c-ac54-e71d415195ad",
+    "data": [
+      {
+        "text": "warranty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "feaf73cc-d2f0-4574-bef1-409d1f3bfd64",
+    "data": [
+      {
+        "text": "warranty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eac90896-64aa-47b2-9fc4-4d10fc97b4fc",
+    "data": [
+      {
+        "text": "wai. I need help with a datasheet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "555fe7ea-698b-46d6-93e2-b2f07d9d58b1",
+    "data": [
+      {
+        "text": "wai here. I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59223580-3da0-4b91-9a63-a19639dc8973",
+    "data": [
+      {
+        "text": "wai. I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": false
+      },
+      {
+        "text": " help with a ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52a5e5d3-63f0-43d2-ac94-73abab4077cc",
+    "data": [
+      {
+        "text": "datasheet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55088dc2-3400-4aec-835c-3e1c23235e01",
+    "data": [
+      {
+        "text": "yes, I alos need a warranty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e313e53c-0053-4c91-83b1-605ac821a5c6",
+    "data": [
+      {
+        "text": "yes, i need a q.tested certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a22c0d25-420b-4b86-90ac-071ca90833f4",
+    "data": [
+      {
+        "text": "I need a datasheet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61402cbe-1403-4f4e-a467-dba1fb457702",
+    "data": [
+      {
+        "text": "I also need a warranty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1dd205e-1450-4f2b-8e72-18e77edb70f9",
+    "data": [
+      {
+        "text": "bsf mono 60-cell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c500375c-68c5-41ef-8065-f280ae12b202",
+    "data": [
+      {
+        "text": "I need a datasheet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18e96b61-a967-412e-88ad-e1a3c937377d",
+    "data": [
+      {
+        "text": "warranty please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f19b36e8-b84c-4550-bd97-d59ec0c5e652",
+    "data": [
+      {
+        "text": "datasheet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2d50df8-c0e4-4e23-8a3b-03ecafe30fa0",
+    "data": [
+      {
+        "text": "yes, I alos need a warranty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ec29e19-168d-4fbf-804b-d26a8e2c3ad7",
+    "data": [
+      {
+        "text": "yes, i need a q.tested certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf84dd29-224c-4a01-9e95-cab4351184f5",
+    "data": [
+      {
+        "text": "I need a datasheet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac5b562d-ca0e-4c0b-882a-99058dd40f45",
+    "data": [
+      {
+        "text": "I also need a warranty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc029d5e-2e7e-44b1-8e50-37fa408a4e5a",
+    "data": [
+      {
+        "text": "I need a datasheet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fe7276c-ce3f-40c9-8820-441f9ced9729",
+    "data": [
+      {
+        "text": "datasheet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8685d941-f6dc-4bdf-a565-364149f5c34b",
+    "data": [
+      {
+        "text": "yes, I alos need a warranty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99c7a104-70c2-4a97-b37c-9465a4751ff6",
+    "data": [
+      {
+        "text": "yes, i need a q.tested certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b72f374-c971-46f0-961e-b2305e2e3b65",
+    "data": [
+      {
+        "text": "yes, pleas ",
+        "userDefined": false
+      },
+      {
+        "text": "help to",
+        "alias": "Assist",
+        "meta": "@Assist",
+        "userDefined": true
+      },
+      {
+        "text": " find ",
+        "userDefined": false
+      },
+      {
+        "text": "a q.tested",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      },
+      {
+        "text": " document",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "36e9dae1-e6f8-4077-ae31-a6d066c592bd",
+    "data": [
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "380691bc-e6aa-41bc-9131-e7918f39a630",
+    "data": [
+      {
+        "text": "yes, I alos ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "387cdaea-3c7e-4048-842f-e7ef488e7e21",
+    "data": [
+      {
+        "text": "yes, i ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "q.tested",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      },
+      {
+        "text": " certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a34db7d2-b0f9-4856-a774-dceec67be881",
+    "data": [
+      {
+        "text": "I need a warranty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "138ad887-c1c1-4bd8-bc17-8feaa284718b",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85b40ca0-21a6-45ef-9229-0797023cc5f2",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a65ced3-d812-4b28-81ea-4de96408f114",
+    "data": [
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a5967a9-1e3b-4e7e-8e60-fef5b365afc6",
+    "data": [
+      {
+        "text": "yes, I ",
+        "userDefined": false
+      },
+      {
+        "text": "also",
+        "alias": "Again",
+        "meta": "@Again",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f3dc71d-6764-4049-b55c-6e7f15c3571b",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b9365d8-0fbe-4727-adfb-907630f0d93c",
+    "data": [
+      {
+        "text": "I also ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1eb1a18-a291-45cf-a808-25de995a47ed",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df75bad5-1610-4873-912a-847350c49de0",
+    "data": [
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bff4e9e-eea0-47a1-abd3-2f088737665c",
+    "data": [
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c647ac2b-3dec-4deb-b558-fbd56d7e9cf4",
+    "data": [
+      {
+        "text": "yes, I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      },
+      {
+        "text": " documennt as well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d63aa6e-e888-4456-bdb4-c5e4c0aed19a",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4ff65cc-8933-4980-bb3e-7df7ca2dde77",
+    "data": [
+      {
+        "text": "yes, I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " documennt as well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "453a72fc-6322-441a-8312-3f2609759b42",
+    "data": [
+      {
+        "text": "yes, I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " documennt as well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b208bec4-ca71-4094-87b9-10b8e54516d6",
+    "data": [
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee501800-a489-425a-9efd-010a9408c145",
+    "data": [
+      {
+        "text": "installation manual",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507095105
+  },
+  {
+    "id": "fedee849-74dc-48c8-ae40-7f37b0a2c20b",
+    "data": [
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1502307669
+  },
+  {
+    "id": "b3960f86-ccd3-439e-a2b4-7e46b0ee809e",
+    "data": [
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " doc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502307621
+  },
+  {
+    "id": "f5a79528-8428-4c2c-99be-35fce5717fba",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pan files",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501887306
+  },
+  {
+    "id": "4f688129-f4c5-4c8f-9a9e-3d79a4717f61",
+    "data": [
+      {
+        "text": "Q.PEAK ",
+        "userDefined": false
+      },
+      {
+        "text": "spec sheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501618345
+  },
+  {
+    "id": "dab588fc-a360-4705-80f6-8adbfcc6ed42",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "data sheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501616617
+  },
+  {
+    "id": "6ccfb626-e9cc-40b5-a738-39f6ecceb297",
+    "data": [
+      {
+        "text": "thanks. I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501609828
+  },
+  {
+    "id": "67533027-f07b-42b3-8c9c-57c4e7557c49",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501609828
+  },
+  {
+    "id": "4908f1cb-f69a-4ba1-89ea-1070a4542437",
+    "data": [
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501607715
+  },
+  {
+    "id": "0d244d48-2b2b-4504-9f57-c69d551f1172",
+    "data": [
+      {
+        "text": "yes, ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501607715
+  },
+  {
+    "id": "e3d56f94-4f27-4ccb-8906-d4a6616b6eea",
+    "data": [
+      {
+        "text": "pan files",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501607546
+  },
+  {
+    "id": "81fad268-f306-48df-ac6c-df6370736a37",
+    "data": [
+      {
+        "text": "please ",
+        "userDefined": false
+      },
+      {
+        "text": "get me",
+        "alias": "Assist",
+        "meta": "@Assist",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501607483
+  },
+  {
+    "id": "23585b42-dbce-493a-ae65-e74f6a3b1c70",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501607483
+  },
+  {
+    "id": "4d929562-3d20-4012-b299-7bb584ab635b",
+    "data": [
+      {
+        "text": "please ",
+        "userDefined": false
+      },
+      {
+        "text": "help me with",
+        "alias": "Assist",
+        "meta": "@Assist",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501607433
+  },
+  {
+    "id": "472a05be-cd83-4e16-b3e1-99c2878556e1",
+    "data": [
+      {
+        "text": "wai here. I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501607220
+  },
+  {
+    "id": "68cd1c02-741d-4f49-a48c-674b6d0f5459",
+    "data": [
+      {
+        "text": "well ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " then",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501566971
+  },
+  {
+    "id": "0cae1917-433e-4728-b650-ab05ce363aff",
+    "data": [
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "again",
+        "alias": "Again",
+        "meta": "@Again",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501566971
+  },
+  {
+    "id": "30bbca37-e4c1-49a5-bcb5-1deb9a918f75",
+    "data": [
+      {
+        "text": "yes sure, I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501566653
+  },
+  {
+    "id": "27b7b86f-189b-4a19-afe1-71375cf01f04",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "qtested certificate",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501566629
+  },
+  {
+    "id": "347984c8-11d9-4888-863e-37320e07e421",
+    "data": [
+      {
+        "text": "how about a ",
+        "userDefined": false
+      },
+      {
+        "text": "@ProdDepDoc",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501542490
+  },
+  {
+    "id": "7a8c66d7-d57a-4ee9-b001-5cbc3b4046e5",
+    "data": [
+      {
+        "text": "would appreciate if you can ",
+        "userDefined": false
+      },
+      {
+        "text": "help me to",
+        "alias": "Assist",
+        "meta": "@Assist",
+        "userDefined": true
+      },
+      {
+        "text": " find a ",
+        "userDefined": false
+      },
+      {
+        "text": "@ProdDepDoc",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501542490
+  },
+  {
+    "id": "46c31bd1-8fac-46d8-8b5e-ee92289e624c",
+    "data": [
+      {
+        "text": "Yes sure, I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "@ProdDopDoc",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      },
+      {
+        "text": " next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501535179
+  },
+  {
+    "id": "c67a52ce-392d-4679-87f1-a549e2150996",
+    "data": [
+      {
+        "text": "Yes sure, I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "@ProdDopDoc",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501535179
+  },
+  {
+    "id": "7aae3148-6d81-495a-ad99-f2c102fad2e7",
+    "data": [
+      {
+        "text": "Now ",
+        "userDefined": false
+      },
+      {
+        "text": "help me with",
+        "alias": "Assist",
+        "meta": "@Assist",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "@ProdDepDoc",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501535179
+  },
+  {
+    "id": "3b767b15-b9db-482f-a062-163fdd57906c",
+    "data": [
+      {
+        "text": "@ProdDepDoc",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "420a059f-8a3e-4286-b9d5-1837782d2b63",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "Need",
+        "meta": "@Need",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "@ProdDepDoc",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0448c203-55ba-4ead-895c-99f4d690d860",
+    "data": [
+      {
+        "text": "@ProdDepDoc",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "fa4c3952-e270-4343-aa61-d349d2446350",
+  "name": "ProdIndepDocChina",
+  "auto": true,
+  "contexts": [
+    "ProdIndepDocNeeded"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ProdIndepDocChina",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "You can find the certifcate at https://hqamericas.app.box.com/files/0/f/13904574567/Q.POWER_L_G5.2 . Any other document I can hep you with?",
+            "It is in https://hqamericas.app.box.com/files/0/f/13904574567/Q.POWER_L_G5.2 . What\u0027s next document I can hep you with?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500687259426,
+  "fallbackIntent": false,
+  "events": []
+}

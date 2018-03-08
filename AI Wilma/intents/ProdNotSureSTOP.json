@@ -1,0 +1,39 @@
+{
+  "id": "f4e59db5-81c9-45a9-8ce7-2539e19cb519",
+  "name": "ProdNotSureSTOP",
+  "auto": true,
+  "contexts": [
+    "ProdNotSure"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ProdNotSureSTOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sorry it didn\u0027t work out. Please check back next time. Bye for now."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500776319,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "53de3352-8287-4070-b547-07845cafa2ed",
+  "name": "ProdIndepDocNotSure",
+  "auto": true,
+  "contexts": [
+    "ProdIndepDocNeeded"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ProdIndepDocNotSure",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "They are in https://hqamericas.app.box.com/files/0/f/28657488279/Q.PRO_L_G4.2 and  https://hqamericas.app.box.com/files/0/f/13904574567/Q.POWER_L_G5.2 . Just look at the products listed on them. Any other document I can hep you with?",
+            "You can find them in https://hqamericas.app.box.com/files/0/f/28657488279/Q.PRO_L_G4.2 and  https://hqamericas.app.box.com/files/0/f/13904574567/Q.POWER_L_G5.2 . All the products are listed on them. What\u0027s the next document I can hep you with?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500687275989,
+  "fallbackIntent": false,
+  "events": []
+}

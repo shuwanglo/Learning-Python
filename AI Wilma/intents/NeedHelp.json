@@ -1,0 +1,28 @@
+{
+  "id": "7868ad42-c998-4eb4-9700-e126a3acc4c3",
+  "name": "NeedHelp",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I can help with datasheet, installation manual, packaging document, warranty, PAN files, compliance certificates (CSA/UL, VDE/IEC, OPGe, Q.Tested, ammonia, salt mist, noxious gas), factory certificates (ISO, OHSAS). What document do you need?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501609828,
+  "fallbackIntent": false,
+  "events": []
+}

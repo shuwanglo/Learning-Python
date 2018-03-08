@@ -1,0 +1,42 @@
+{
+  "id": "155109b8-b45f-445f-9fd3-8e1e756bda4f",
+  "name": "ProdIndepDocNon-China",
+  "auto": true,
+  "contexts": [
+    "ProdIndepDocNeeded"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ProdIndepDocNon-China",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "You can find the certifcate at https://hqamericas.app.box.com/files/0/f/28657488279/Q.PRO_L_G4.2 . Any other document I can hep you with?",
+            "It is in https://hqamericas.app.box.com/files/0/f/28657488279/Q.PRO_L_G4.2 . What\u0027s the next document I can hep you with?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500687268609,
+  "fallbackIntent": false,
+  "events": []
+}

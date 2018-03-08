@@ -1,0 +1,42 @@
+{
+  "id": "3f457cf0-e1e8-43b9-80e6-6ad402e043fb",
+  "name": "BSFPoly60G3",
+  "auto": true,
+  "contexts": [
+    "BSFPoly60"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "BSFPoly60G3",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "We have Q.PRO G3 and Q.PRO BFR G3. Which one works for you?",
+            "Q.PRO G3 or Q.PRO BFR G3?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500685158084,
+  "fallbackIntent": false,
+  "events": []
+}

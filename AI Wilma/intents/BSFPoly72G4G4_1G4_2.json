@@ -1,0 +1,42 @@
+{
+  "id": "3e7f632a-581f-4441-8c76-db4577eec7e8",
+  "name": "BSFPoly72G4G4_1G4_2",
+  "auto": true,
+  "contexts": [
+    "BSFPoly72"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "BSFPoly72G4G4_1G4_2",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "We have Q.PRO L G4 (UL1000V, no NexTracker), Q.PRO L G4.1 (UL1000V, NexTracker) and Q.PRO L G4.2 (UL1500V, NexTracker). Which one works for you?",
+            "Is it Q.PRO L G4 (UL1000V, no NexTracker), Q.PRO L G4.1 (UL1000V, NexTracker) or Q.PRO L G4.2 (UL1500V, NexTracker)?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500685225459,
+  "fallbackIntent": false,
+  "events": []
+}

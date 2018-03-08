@@ -1,0 +1,60 @@
+{
+  "id": "2cc72227-bf08-4054-ba28-bc36db1827a2",
+  "name": "BSFMono72",
+  "auto": true,
+  "contexts": [
+    "ProdQuest"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "BSFMono72",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "BSFMono72-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "ProdQuest",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "59ffcf7e-87c7-4145-986b-1ee4951f9056",
+          "dataType": "@BSFMONO72",
+          "name": "BSFMONO72",
+          "value": "$BSFMONO72",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "We have Q.PRIME L G5 (UL1000V, China) and Q.PRIME L G5.2 (UL 1500V, China). Which one works for you?",
+            "Q.PRIME L G5 (UL1000V, China) or Q.PRIME L G5.2 (UL 1500V, China)?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501609828,
+  "fallbackIntent": false,
+  "events": []
+}

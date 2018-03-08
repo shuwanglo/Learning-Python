@@ -1,0 +1,36 @@
+{
+  "id": "ded8cf45-572e-4548-be96-ba462ca35d22",
+  "parentId": "f4e59db5-81c9-45a9-8ce7-2539e19cb519",
+  "rootParentId": "f4e59db5-81c9-45a9-8ce7-2539e19cb519",
+  "name": "ProdNotSureSTOPBYE",
+  "auto": true,
+  "contexts": [
+    "ProdNotSureSTOP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ProdNotSureSTOP.ProdNotSureSTOP-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500776392,
+  "fallbackIntent": false,
+  "events": []
+}

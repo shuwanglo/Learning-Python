@@ -1,0 +1,382 @@
+[
+  {
+    "id": "2e289b15-a923-4286-bff6-478eb29b0e44",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "iso 14001",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507095105
+  },
+  {
+    "id": "025d00b6-7388-473a-8fc8-c0563d0d6e77",
+    "data": [
+      {
+        "text": "ISO",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501781634
+  },
+  {
+    "id": "1080e18d-c73d-4d7f-80fc-4c440233f23d",
+    "data": [
+      {
+        "text": "please help me to find ",
+        "userDefined": false
+      },
+      {
+        "text": "iso 14001",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501616451
+  },
+  {
+    "id": "b6db179e-0ce1-4dd7-8d20-dbbc93152e36",
+    "data": [
+      {
+        "text": "ok, please get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "iso 9001",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " certificate of eumseong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501609828
+  },
+  {
+    "id": "66edf499-77fa-4daf-9c37-c67b6856bb4c",
+    "data": [
+      {
+        "text": "iso 14001",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501607715
+  },
+  {
+    "id": "fcd32d86-2885-42ae-8671-f19aa08b933a",
+    "data": [
+      {
+        "text": "iso 14001",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501607715
+  },
+  {
+    "id": "d9cda821-9a26-4f76-9a83-017fcd555585",
+    "data": [
+      {
+        "text": "I would not mind a ",
+        "userDefined": false
+      },
+      {
+        "text": "iso 14001",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " certificate as well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501607220
+  },
+  {
+    "id": "afea8b8d-fcd9-454a-aa78-2141291610c9",
+    "data": [
+      {
+        "text": "i need an ",
+        "userDefined": false
+      },
+      {
+        "text": "iso 14001",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501607220
+  },
+  {
+    "id": "ebea2f3d-6da6-44a8-bbcd-2d875d2920ef",
+    "data": [
+      {
+        "text": "please give me a ",
+        "userDefined": false
+      },
+      {
+        "text": "iso 14001",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501606913
+  },
+  {
+    "id": "6d03a570-e49e-49b8-8c91-e53c9a1bc215",
+    "data": [
+      {
+        "text": "give me an ",
+        "userDefined": false
+      },
+      {
+        "text": "iso 14001",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501606913
+  },
+  {
+    "id": "f3be1abc-77b1-438c-a79e-5c114b79abb0",
+    "data": [
+      {
+        "text": "iso 14001",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " certificate please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501606607
+  },
+  {
+    "id": "32aade67-e88d-4b37-9e06-345150ad29fb",
+    "data": [
+      {
+        "text": "now i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "@FactDepDoc",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501542322
+  },
+  {
+    "id": "de2bd7ad-7798-49ad-b08c-8405740a5f90",
+    "data": [
+      {
+        "text": "how about a ",
+        "userDefined": false
+      },
+      {
+        "text": "@FactDepDoc",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501542322
+  },
+  {
+    "id": "0b2d829a-dc8c-4efd-a278-21727cb4dbd9",
+    "data": [
+      {
+        "text": "yes, a ",
+        "userDefined": false
+      },
+      {
+        "text": "@FactDepDoc",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": true
+      },
+      {
+        "text": " will be good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501542322
+  },
+  {
+    "id": "76580169-f7a4-43fb-b850-10eb634217ba",
+    "data": [
+      {
+        "text": "would appreciate if you can help me to find a ",
+        "userDefined": false
+      },
+      {
+        "text": "@FactDepDoc",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501542322
+  },
+  {
+    "id": "b3987ab2-5552-41fb-99bc-143fe9d48e68",
+    "data": [
+      {
+        "text": "yes sure, I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "@FactDepDoc",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501542322
+  },
+  {
+    "id": "85c0637c-2443-4a8a-843c-21e610e0b162",
+    "data": [
+      {
+        "text": "give me a ",
+        "userDefined": false
+      },
+      {
+        "text": "@FactDepDoc",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501542322
+  },
+  {
+    "id": "ff824350-9169-479e-9cd6-81d71872daae",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "@FactDepDoc",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501542322
+  },
+  {
+    "id": "cdf256ff-1e52-4c5d-920a-f33413f2f12b",
+    "data": [
+      {
+        "text": "@FactDepDoc",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14a7ab69-4883-49d4-a876-89d69fd3ac81",
+    "data": [
+      {
+        "text": "@FactDepDoc",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

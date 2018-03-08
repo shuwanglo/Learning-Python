@@ -1,0 +1,192 @@
+[
+  {
+    "id": "c482213b-fa0f-4256-b205-848ba30bd1f4",
+    "data": [
+      {
+        "text": "i need the ",
+        "userDefined": false
+      },
+      {
+        "text": "iso 14001",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " certificate of ",
+        "userDefined": false
+      },
+      {
+        "text": "cyberjaya",
+        "alias": "Factory",
+        "meta": "@Factory",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1502043644
+  },
+  {
+    "id": "d4a6268d-e863-48a6-a976-34bdeb989d61",
+    "data": [
+      {
+        "text": "i need the ",
+        "userDefined": false
+      },
+      {
+        "text": "cyberjaya",
+        "alias": "Factory",
+        "meta": "@Factory",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "iso 14001",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501606666
+  },
+  {
+    "id": "cc32c72b-7cd0-4657-84e7-2bdd70d192fe",
+    "data": [
+      {
+        "text": "cyb",
+        "alias": "Factory",
+        "meta": "@Factory",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501606607
+  },
+  {
+    "id": "df8aadc0-2164-43aa-9ff2-f99dde9baa53",
+    "data": [
+      {
+        "text": "i need an ",
+        "userDefined": false
+      },
+      {
+        "text": "iso 14001",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " certificate of ",
+        "userDefined": false
+      },
+      {
+        "text": "cyberjaya",
+        "alias": "Factory",
+        "meta": "@Factory",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "d3c4aa14-460d-4482-8009-aec644a2de34",
+    "data": [
+      {
+        "text": "i need the ",
+        "userDefined": false
+      },
+      {
+        "text": "cyberjaya",
+        "alias": "Factory",
+        "meta": "@Factory",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "@FactDepDoc",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": true
+      },
+      {
+        "text": " certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501568010
+  },
+  {
+    "id": "57a381dc-6612-43c9-ac2b-e75324dc26a7",
+    "data": [
+      {
+        "text": "i need an ",
+        "userDefined": false
+      },
+      {
+        "text": "@FactDepDoc",
+        "alias": "FactDepDoc",
+        "meta": "@FactDepDoc",
+        "userDefined": true
+      },
+      {
+        "text": " certificate of ",
+        "userDefined": false
+      },
+      {
+        "text": "Cyberjaya",
+        "alias": "Factory",
+        "meta": "@Factory",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501567555
+  },
+  {
+    "id": "cfa331e4-92a2-44ba-82fb-417dd8162969",
+    "data": [
+      {
+        "text": "malaysia",
+        "alias": "Factory",
+        "meta": "@Factory",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "09b256fd-a501-487a-a2d8-b500c6ee6de6",
+    "data": [
+      {
+        "text": "cyberjaya",
+        "alias": "Factory",
+        "meta": "@Factory",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

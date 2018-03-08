@@ -1,0 +1,36 @@
+{
+  "id": "37c4f3d7-e030-45a3-8dbe-75fc6fd83f6a",
+  "parentId": "e580248f-5c0f-436d-b6b4-1ccf2f151caf",
+  "rootParentId": "06feab06-eef5-425e-9149-372389dca593",
+  "name": "Default Fallback Intent - fallback - fallback",
+  "auto": true,
+  "contexts": [
+    "DefaultFallbackIntent-fallback-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultFallbackIntent.DefaultFallbackIntent-fallback.DefaultFallbackIntent-fallback-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Let\u0027s start again. What document can I help you with today?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500775338,
+  "fallbackIntent": false,
+  "events": []
+}

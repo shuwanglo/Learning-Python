@@ -1,0 +1,36 @@
+{
+  "id": "3b6af36b-6b7d-4ec6-be76-5759c29977c1",
+  "parentId": "6e58f02e-4df8-4f2e-8b77-f64f5d79c115",
+  "rootParentId": "6e58f02e-4df8-4f2e-8b77-f64f5d79c115",
+  "name": "ProdIndepDocNon-ChinaSTOPBYE",
+  "auto": true,
+  "contexts": [
+    "ProdIndepDocNon-ChinaSTOP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ProdIndepDocNon-ChinaSTOP.ProdIndepDocNon-ChinaSTOP-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500776140,
+  "fallbackIntent": false,
+  "events": []
+}

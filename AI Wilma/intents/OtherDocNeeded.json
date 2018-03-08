@@ -1,0 +1,33 @@
+{
+  "id": "096de4e6-5095-48bf-890f-5855af1131a1",
+  "name": "OtherDocNeeded",
+  "auto": true,
+  "contexts": [
+    "User"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "For special documents, please contact Wai (wai.lo@us.q-cells.com, 650-391-3108). Bye for now."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500687253130,
+  "fallbackIntent": false,
+  "events": []
+}

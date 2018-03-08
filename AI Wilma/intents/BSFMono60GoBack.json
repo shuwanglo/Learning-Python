@@ -1,0 +1,47 @@
+{
+  "id": "3afe99f3-2955-4ab4-a5b7-386931f51776",
+  "parentId": "17cdc6d9-0955-4251-b497-8260875fb091",
+  "rootParentId": "17cdc6d9-0955-4251-b497-8260875fb091",
+  "name": "BSFMono60GoBack",
+  "auto": true,
+  "contexts": [
+    "BSFMono60-followup",
+    "ProdQuest",
+    "BSFMono60"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BSFMono60.BSFMono60-custom",
+      "affectedContexts": [
+        {
+          "name": "ProdQuest",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Is it a Q.ANTUM mono 60-cell (i.e. Q.PEAK), Q.ANTUM mono 72-cell (i.e. Q.PEAK L), Q.ANTUM poly 60-cell (i.e. Q.PLUS), Q.ANTUM poly 72-cell (i.e. Q.PLUS L), BSF mono 60-cell (i.e. Q.PEAK G3, Q.PRIME), BSF mono 72-cell (i.e. Q.PRIME L), BSF poly 60-cell (i.e. Q.PRO, Q.POWER) or BSF poly 72-cell (i.e. Q.PRO L, Q.POWER L)?",
+            "Q.ANTUM mono 60-cell (i.e. Q.PEAK), Q.ANTUM mono 72-cell (i.e. Q.PEAK L), Q.ANTUM poly 60-cell (i.e. Q.PLUS), Q.ANTUM poly 72-cell (i.e. Q.PLUS L), BSF mono 60-cell (i.e. Q.PEAK G3, Q.PRIME), BSF mono 72-cell (i.e. Q.PRIME L), BSF poly 60-cell (i.e. Q.PRO, Q.POWER) or BSF poly 72-cell (i.e. Q.PRO L, Q.POWER L)?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501085007,
+  "fallbackIntent": false,
+  "events": []
+}

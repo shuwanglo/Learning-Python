@@ -1,0 +1,60 @@
+{
+  "id": "17cdc6d9-0955-4251-b497-8260875fb091",
+  "name": "BSFMono60",
+  "auto": true,
+  "contexts": [
+    "ProdQuest"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "BSFMono60",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "ProdQuest",
+          "parameters": {},
+          "lifespan": 4
+        },
+        {
+          "name": "BSFMono60-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "090ebba2-d596-42f3-8bd9-68aae1a59d94",
+          "dataType": "@BSFMONO60",
+          "name": "BSFMONO60",
+          "value": "$BSFMONO60",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "We have Q.PEAK G3 (white backsheet), Q.PEAK BLK G3 (black backsheet) and Q.PRIME (white backsheet, China). Which one works for you?",
+            "Is it Q.PEAK G3 (white backsheet), Q.PEAK BLK G3 (black backsheet) or Q.PRIME (white backsheet, China)?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501097854,
+  "fallbackIntent": false,
+  "events": []
+}

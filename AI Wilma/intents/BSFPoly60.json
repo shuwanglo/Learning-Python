@@ -1,0 +1,60 @@
+{
+  "id": "1ac5c284-da43-481b-a835-941255e88906",
+  "name": "BSFPoly60",
+  "auto": true,
+  "contexts": [
+    "ProdQuest"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "BSFPoly60",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "ProdQuest",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "BSFPoly60-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "86f6e3d1-c3c8-4561-8074-1c659fefd627",
+          "dataType": "@BSFPOLY60",
+          "name": "BSFPOLY60",
+          "value": "$BSFPOLY60",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "G3 (2015), G4(2015-16) or G5 (China)?",
+            "We have G3 (2015), G4(2015-16) and G5 (China). Which one works for you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501097917,
+  "fallbackIntent": false,
+  "events": []
+}

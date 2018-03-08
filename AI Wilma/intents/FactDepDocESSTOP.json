@@ -1,0 +1,39 @@
+{
+  "id": "bee7df4e-b30b-42a2-9877-aa5f8be84050",
+  "name": "FactDepDocESSTOP",
+  "auto": true,
+  "contexts": [
+    "FactDepDocES"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FactDepDocESSTOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Good you got what\u0027s needed. Bye for now."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500775557,
+  "fallbackIntent": false,
+  "events": []
+}

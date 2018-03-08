@@ -1,0 +1,74 @@
+{
+  "id": "c0c02429-7fdf-4414-be44-1c951c557739",
+  "name": "ProdDepDocNeeded",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ProdDepDocNeeded",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8e2b91c2-a493-489d-876e-d971592f7967",
+          "required": false,
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": true
+        },
+        {
+          "id": "81069700-4fdc-49c2-94fb-75c68867fc43",
+          "required": false,
+          "dataType": "@Need",
+          "name": "Need",
+          "value": "$Need",
+          "isList": false
+        },
+        {
+          "id": "5d98d222-2fea-4db8-a94c-6bdff3984ecb",
+          "required": false,
+          "dataType": "@Again",
+          "name": "Again",
+          "value": "$Again",
+          "isList": false
+        },
+        {
+          "id": "96ace6fd-5905-4a3c-9348-b498b9dcff5a",
+          "required": false,
+          "dataType": "@Assist",
+          "name": "Assist",
+          "value": "$Assist",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "$ProdDepDoc is product dependent. Please tell me the name of the product, like Q.PLUS BFR G4.1, Q.PEAK G4.1/SC etc",
+            "$ProdDepDoc is product dependent. What\u0027s the name of the product, like Q.PLUS BFR G4.1, Q.PEAK G4.1/SC etc"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true,
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507095105,
+  "fallbackIntent": false,
+  "events": []
+}

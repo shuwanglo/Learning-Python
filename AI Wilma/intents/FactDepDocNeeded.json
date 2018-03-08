@@ -1,0 +1,45 @@
+{
+  "id": "2a2b21e1-b5ac-4f73-a9d5-4a82b16bd3b7",
+  "name": "FactDepDocNeeded",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FactDepDocNeeded",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2c713d06-e066-4567-a8e4-1f4589e8a79c",
+          "dataType": "@FactDepDoc",
+          "name": "FactDepDoc",
+          "value": "$FactDepDoc",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "$FactDepDoc factory dependent. Looking for Qidong (QD, China), Cyberjaya (CYB, Malaysia), Eumseong (ES, Korea) or Jinchon (JS, Korea)?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507095105,
+  "fallbackIntent": false,
+  "events": []
+}

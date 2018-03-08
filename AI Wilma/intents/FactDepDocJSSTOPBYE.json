@@ -1,0 +1,36 @@
+{
+  "id": "99ef811e-4268-4e90-98c7-98f8195c865c",
+  "parentId": "9d6f4b26-b1a1-48bc-a0ff-5e045f4771b4",
+  "rootParentId": "9d6f4b26-b1a1-48bc-a0ff-5e045f4771b4",
+  "name": "FactDepDocJSSTOPBYE",
+  "auto": true,
+  "contexts": [
+    "FactDepDocJSSTOP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FactDepDocJSSTOP.FactDepDocJSSTOP-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500775695,
+  "fallbackIntent": false,
+  "events": []
+}

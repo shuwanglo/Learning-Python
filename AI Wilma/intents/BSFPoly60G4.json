@@ -1,0 +1,42 @@
+{
+  "id": "86fbd7ac-d4f6-4c36-83ca-dbf08c813590",
+  "name": "BSFPoly60G4",
+  "auto": true,
+  "contexts": [
+    "BSFPoly60"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "BSFPoly60G4",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "We have Q.PRO G4, Q.PRO BFR G4, Q.PRO BFR G4.1, Q.PRO BFR G4.3, Q.PRO G4/SC (Zep frame), Q.PRO G4.1/SC (Zep frame) and Q.PRO EC G4.4. Which one works for you?",
+            "Is it Q.PRO G4, Q.PRO BFR G4, Q.PRO BFR G4.1, Q.PRO BFR G4.3, Q.PRO G4/SC (Zep frame), Q.PRO G4.1/SC (Zep frame) or Q.PRO EC G4.4?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500685170708,
+  "fallbackIntent": false,
+  "events": []
+}

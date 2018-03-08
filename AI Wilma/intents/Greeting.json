@@ -1,0 +1,47 @@
+{
+  "id": "58009803-4f6e-4bd6-8f18-e819236abd2d",
+  "name": "Greeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "50b28ec4-a537-4321-a32e-a1c5a9c2f2ea",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Wilma here. I can help with datasheet, installation manual, packaging document, warranty, PAN files, compliance certificates (CSA/UL, VDE/IEC, OPGe, Q.Tested, ammonia, salt mist, noxious gas), factory certificates (ISO, OHSAS). Who am I speaking with?",
+            "This is Wilma. I can help with datasheet, installation manual, packaging document, warranty, PAN files, compliance certificates (CSA/UL, VDE/IEC, OPGe, Q.Tested, ammonia, salt mist, noxious gas), factory certificates (ISO, OHSAS). Who am I speaking with?",
+            "I am Wilma, and can help with datasheet, installation manual, packaging document, warranty, PAN files, compliance certificates (CSA/UL, VDE/IEC, OPGe, Q.Tested, ammonia, salt mist, noxious gas), factory certificates (ISO, OHSAS). Who am I speaking with?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507095157,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ]
+}
