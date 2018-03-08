@@ -1,0 +1,63 @@
+//first re-establish the privous LFP logit model
+gen LWW = ln(WW)//generate LWW with missing data
+gen AX2=AX*AX
+gen WA2=WA*WA
+
+//prep to create the previous LFP logit model; 
+reg LWW WA WE CIT AX AX2 //reg to generate an equatn
+predict FLWW if WHRS=0 //use the equatn to predict LWW for housewives
+gen LWW1 = LWW //use LWW1 for LFP logit model; use LWW for IM model
+replace LWW1 = FLWW if WHRS=0 
+gen PRIN = FAMINC - (WHRS*WW) //generate PRIN, missing data created from WW
+replace PRIN = FAMINC if WHRS==0 //get rid of missing data in PRIN
+sum PRIN //make sure PRIN OK
+
+//create previous logit model
+logit LFP LWW1 KL6 K618 WA WE UN CIT PRIN //according to requirement
+estat clas //classification
+predict LFPF, pr //predict LFP with new variable LFPF based on classification
+roctab LFP LFPF //ROC table with dependent variable LFP but list the values of LFPF
+roctab LFP LFPF, graph //with graph
+
+//now impute LWW
+mi set mlong
+mi register imputed LWW //use LWW for IM model
+mi register regular LFP KL6 K618 WA WE UN CIT PRIN
+mi impute pmm LWW LFP KL6 K618 WA WE UN CIT PRIN, add(20)
+mi impute pmm LWW LFP KL6 K618 WA WE UN CIT PRIN, replace knn(5)
+mi xeq 0 1 20: summarize LWW //check if imputed data are OK
+
+// create completed data logit model
+mi estimate saving(TRY): logit LFP KL6 K618 WA WE UN CIT PRIN LWW
+mi predict LFPF using TRY
+roctab LFP LFPF //ROC table with dependent variable LFP but list the values of LFPF
+roctab LFP LFPF, graph //with graph
+
+
+
+
+
+//from tutorial
+sum
+sum if lfp==1
+sum if lfp==0
+gen lww=log(ww)
+sum lww
+gen ax2=ax*ax
+gen wa2=wa*wa
+reg lww wa we cit ax ax2
+predict flww if lfp==0, xb
+sum flww
+sum lww if lfp==1
+gen lww1=lww if lfp==1
+replace lww1=flww if lfp==0
+gen prin = faminc - ( whrs* ww)
+reg lfp lww1 kl6 k618 wa we un cit prin
+predict lfpfitted, xb
+count if lfpfitted>1
+count if lfpfitted<0
+logit lfp lww1 kl6 k618 wa we un cit prin
+logit lfp lww1 kl6 k618 wa we un cit prin, or
+margins, eydx(lww1) 
+probit lfp lww1 kl6 k618 wa we un cit prin
+mfx compute
