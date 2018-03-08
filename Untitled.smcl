@@ -1,0 +1,391 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\shuwanglo\Documents\Work\Schoolwork\SOAS Schoolwork\Year 5\Applied Econometrics\Untitled.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}21 Jan 2018, 16:26:05
+
+{com}. sum
+
+{txt}    Variable {c |}       Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 56}
+{space 9}LFP {c |}{res}       753    .5683931    .4956295          0          1
+{txt}{space 8}WHRS {c |}{res}       753    740.5764    871.3142          0       4950
+{txt}{space 9}KL6 {c |}{res}       753    .2377158     .523959          0          3
+{txt}{space 8}K618 {c |}{res}       753    1.353254    1.319874          0          8
+{txt}{space 10}WA {c |}{res}       753    42.53785    8.072574         30         60
+{txt}{hline 13}{c +}{hline 56}
+{space 10}WE {c |}{res}       753    12.28685    2.280246          5         17
+{txt}{space 10}WW {c |}{res}       428    4.177682    3.310282      .1282         25
+{txt}{space 8}RPWG {c |}{res}       753    1.849734    2.419887          0       9.98
+{txt}{space 8}HHRS {c |}{res}       753    2267.271    595.5666        175       5010
+{txt}{space 10}HA {c |}{res}       753    45.12085    8.058793         30         60
+{txt}{hline 13}{c +}{hline 56}
+{space 10}HE {c |}{res}       753    12.49137    3.020804          3         17
+{txt}{space 10}HW {c |}{res}       753    7.482179    4.230559      .4121     40.509
+{txt}{space 6}FAMINC {c |}{res}       753    23080.59     12190.2       1500      96000
+{txt}{space 9}MTR {c |}{res}       753    .6788632    .0834955      .4415      .9415
+{txt}{space 8}WMED {c |}{res}       753    9.250996    3.367468          0         17
+{txt}{hline 13}{c +}{hline 56}
+{space 8}WFED {c |}{res}       753    8.808765     3.57229          0         17
+{txt}{space 10}UN {c |}{res}       753    8.623506    3.114934          3         14
+{txt}{space 9}CIT {c |}{res}       753    .6427623    .4795042          0          1
+{txt}{space 10}AX {c |}{res}       753    10.63081     8.06913          0         45
+
+{com}. su
+
+{txt}    Variable {c |}       Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 56}
+{space 9}LFP {c |}{res}       753    .5683931    .4956295          0          1
+{txt}{space 8}WHRS {c |}{res}       753    740.5764    871.3142          0       4950
+{txt}{space 9}KL6 {c |}{res}       753    .2377158     .523959          0          3
+{txt}{space 8}K618 {c |}{res}       753    1.353254    1.319874          0          8
+{txt}{space 10}WA {c |}{res}       753    42.53785    8.072574         30         60
+{txt}{hline 13}{c +}{hline 56}
+{space 10}WE {c |}{res}       753    12.28685    2.280246          5         17
+{txt}{space 10}WW {c |}{res}       428    4.177682    3.310282      .1282         25
+{txt}{space 8}RPWG {c |}{res}       753    1.849734    2.419887          0       9.98
+{txt}{space 8}HHRS {c |}{res}       753    2267.271    595.5666        175       5010
+{txt}{space 10}HA {c |}{res}       753    45.12085    8.058793         30         60
+{txt}{hline 13}{c +}{hline 56}
+{space 10}HE {c |}{res}       753    12.49137    3.020804          3         17
+{txt}{space 10}HW {c |}{res}       753    7.482179    4.230559      .4121     40.509
+{txt}{space 6}FAMINC {c |}{res}       753    23080.59     12190.2       1500      96000
+{txt}{space 9}MTR {c |}{res}       753    .6788632    .0834955      .4415      .9415
+{txt}{space 8}WMED {c |}{res}       753    9.250996    3.367468          0         17
+{txt}{hline 13}{c +}{hline 56}
+{space 8}WFED {c |}{res}       753    8.808765     3.57229          0         17
+{txt}{space 10}UN {c |}{res}       753    8.623506    3.114934          3         14
+{txt}{space 9}CIT {c |}{res}       753    .6427623    .4795042          0          1
+{txt}{space 10}AX {c |}{res}       753    10.63081     8.06913          0         45
+
+{com}. sum LFP
+
+{txt}    Variable {c |}       Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 56}
+{space 9}LFP {c |}{res}       753    .5683931    .4956295          0          1
+
+{com}. sum, det
+
+                 {txt}Labour force participation 
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}        0              0
+{txt} 5%    {res}        0              0
+{txt}10%    {res}        0              0       {txt}Obs         {res}        753
+{txt}25%    {res}        0              0       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}        1                      {txt}Mean          {res} .5683931
+                        {txt}Largest       Std. Dev.     {res} .4956295
+{txt}75%    {res}        1              1
+{txt}90%    {res}        1              1       {txt}Variance      {res} .2456486
+{txt}95%    {res}        1              1       {txt}Skewness      {res}-.2761682
+{txt}99%    {res}        1              1       {txt}Kurtosis      {res} 1.076269
+
+                    {txt}Wife's hours of work 
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}        0              0
+{txt} 5%    {res}        0              0
+{txt}10%    {res}        0              0       {txt}Obs         {res}        753
+{txt}25%    {res}        0              0       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}      288                      {txt}Mean          {res} 740.5764
+                        {txt}Largest       Std. Dev.     {res} 871.3142
+{txt}75%    {res}     1516           3640
+{txt}90%    {res}     1984           3686       {txt}Variance      {res} 759188.5
+{txt}95%    {res}     2100           4210       {txt}Skewness      {res} .9225315
+{txt}99%    {res}     3087           4950       {txt}Kurtosis      {res} 3.193949
+
+                 {txt}Children under the age of 6
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}        0              0
+{txt} 5%    {res}        0              0
+{txt}10%    {res}        0              0       {txt}Obs         {res}        753
+{txt}25%    {res}        0              0       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}        0                      {txt}Mean          {res} .2377158
+                        {txt}Largest       Std. Dev.     {res}  .523959
+{txt}75%    {res}        0              2
+{txt}90%    {res}        1              3       {txt}Variance      {res} .2745331
+{txt}95%    {res}        1              3       {txt}Skewness      {res} 2.309519
+{txt}99%    {res}        2              3       {txt}Kurtosis      {res} 8.254322
+
+                  {txt}Children between 6 and 18
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}        0              0
+{txt} 5%    {res}        0              0
+{txt}10%    {res}        0              0       {txt}Obs         {res}        753
+{txt}25%    {res}        0              0       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}        1                      {txt}Mean          {res} 1.353254
+                        {txt}Largest       Std. Dev.     {res} 1.319874
+{txt}75%    {res}        2              5
+{txt}90%    {res}        3              6       {txt}Variance      {res} 1.742067
+{txt}95%    {res}        4              7       {txt}Skewness      {res} .9077226
+{txt}99%    {res}        5              8       {txt}Kurtosis      {res} 3.809829
+
+                         {txt}Wife's age
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}       30             30
+{txt} 5%    {res}       30             30
+{txt}10%    {res}       32             30       {txt}Obs         {res}        753
+{txt}25%    {res}       36             30       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}       43                      {txt}Mean          {res} 42.53785
+                        {txt}Largest       Std. Dev.     {res} 8.072574
+{txt}75%    {res}       49             60
+{txt}90%    {res}       54             60       {txt}Variance      {res} 65.16645
+{txt}95%    {res}       56             60       {txt}Skewness      {res}  .150879
+{txt}99%    {res}       59             60       {txt}Kurtosis      {res} 1.981077
+
+            {txt}Wife's education attainment in years
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}        6              5
+{txt} 5%    {res}        8              5
+{txt}10%    {res}       10              5       {txt}Obs         {res}        753
+{txt}25%    {res}       12              5       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}       12                      {txt}Mean          {res} 12.28685
+                        {txt}Largest       Std. Dev.     {res} 2.280246
+{txt}75%    {res}       13             17
+{txt}90%    {res}       16             17       {txt}Variance      {res} 5.199521
+{txt}95%    {res}       17             17       {txt}Skewness      {res}  .021034
+{txt}99%    {res}       17             17       {txt}Kurtosis      {res} 3.744087
+
+           {txt}Wife's hourly wage rate in 1975 dollars
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}    .3571          .1282
+{txt} 5%    {res}   1.0938          .1616
+{txt}10%    {res}   1.4815          .1709       {txt}Obs         {res}        428
+{txt}25%    {res}   2.2584          .2137       {txt}Sum of Wgt. {res}        428
+
+{txt}50%    {res}   3.4819                      {txt}Mean          {res} 4.177682
+                        {txt}Largest       Std. Dev.     {res} 3.310282
+{txt}75%    {res}   4.9726           22.5
+{txt}90%    {res}   7.6218         23.467       {txt}Variance      {res} 10.95797
+{txt}95%    {res}   9.5057             25       {txt}Skewness      {res} 3.080139
+{txt}99%    {res}   21.429             25       {txt}Kurtosis      {res} 16.82129
+
+                {txt}Wife's wage as reported 1976
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}        0              0
+{txt} 5%    {res}        0              0
+{txt}10%    {res}        0              0       {txt}Obs         {res}        753
+{txt}25%    {res}        0              0       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}        0                      {txt}Mean          {res} 1.849734
+                        {txt}Largest       Std. Dev.     {res} 2.419887
+{txt}75%    {res}     3.58           9.98
+{txt}90%    {res}        5           9.98       {txt}Variance      {res} 5.855851
+{txt}95%    {res}     6.31           9.98       {txt}Skewness      {res} 1.171717
+{txt}99%    {res}     9.98           9.98       {txt}Kurtosis      {res} 3.733542
+
+                   {txt}Husband's hours worked
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}      880            175
+{txt} 5%    {res}     1350            288
+{txt}10%    {res}     1680            640       {txt}Obs         {res}        753
+{txt}25%    {res}     1928            760       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}     2164                      {txt}Mean          {res} 2267.271
+                        {txt}Largest       Std. Dev.     {res} 595.5666
+{txt}75%    {res}     2553           4368
+{txt}90%    {res}     3060           4640       {txt}Variance      {res} 354699.6
+{txt}95%    {res}     3340           4684       {txt}Skewness      {res} .5664506
+{txt}99%    {res}     4030           5010       {txt}Kurtosis      {res} 4.850939
+
+                        {txt}Husband's age
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}       30             30
+{txt} 5%    {res}       32             30
+{txt}10%    {res}       34             30       {txt}Obs         {res}        753
+{txt}25%    {res}       38             30       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}       46                      {txt}Mean          {res} 45.12085
+                        {txt}Largest       Std. Dev.     {res} 8.058793
+{txt}75%    {res}       52             60
+{txt}90%    {res}       56             60       {txt}Variance      {res} 64.94415
+{txt}95%    {res}       58             60       {txt}Skewness      {res}-.0644689
+{txt}99%    {res}       60             60       {txt}Kurtosis      {res}   1.9959
+
+           {txt}Husband's education attainment in years
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}        5              3
+{txt} 5%    {res}        8              4
+{txt}10%    {res}        8              4       {txt}Obs         {res}        753
+{txt}25%    {res}       11              4       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}       12                      {txt}Mean          {res} 12.49137
+                        {txt}Largest       Std. Dev.     {res} 3.020804
+{txt}75%    {res}       15             17
+{txt}90%    {res}       17             17       {txt}Variance      {res} 9.125258
+{txt}95%    {res}       17             17       {txt}Skewness      {res}-.2766478
+{txt}99%    {res}       17             17       {txt}Kurtosis      {res} 2.664494
+
+               {txt}Husband's wage in 1975 dollars
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}   1.0898          .4121
+{txt} 5%    {res}   2.2442          .5128
+{txt}10%    {res}   3.1111          .5494       {txt}Obs         {res}        753
+{txt}25%    {res}   4.7883          .5843       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}   6.9758                      {txt}Mean          {res} 7.482179
+                        {txt}Largest       Std. Dev.     {res} 4.230559
+{txt}75%    {res}   9.1667         26.578
+{txt}90%    {res}   12.164         29.644       {txt}Variance      {res} 17.89763
+{txt}95%    {res}   14.583         40.441       {txt}Skewness      {res} 2.267192
+{txt}99%    {res}   21.786         40.509       {txt}Kurtosis      {res} 14.50451
+
+                {txt}Family income in 1975 dollars
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}     5000           1500
+{txt} 5%    {res}     8009           2400
+{txt}10%    {res}    11000           2500       {txt}Obs         {res}        753
+{txt}25%    {res}    15428           3305       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}    20880                      {txt}Mean          {res} 23080.59
+                        {txt}Largest       Std. Dev.     {res}  12190.2
+{txt}75%    {res}    28200          88000
+{txt}90%    {res}    36872          90800       {txt}Variance      {res} 1.49e+08
+{txt}95%    {res}    43500          91044       {txt}Skewness      {res} 1.901387
+{txt}99%    {res}    68035          96000       {txt}Kurtosis      {res} 9.482974
+
+                      {txt}Marginal tax rate
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}    .4415          .4415
+{txt} 5%    {res}    .5215          .4415
+{txt}10%    {res}      .58          .4415       {txt}Obs         {res}        753
+{txt}25%    {res}    .6215          .4415       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}    .6915                      {txt}Mean          {res} .6788632
+                        {txt}Largest       Std. Dev.     {res} .0834955
+{txt}75%    {res}    .7215          .9415
+{txt}90%    {res}    .7515          .9415       {txt}Variance      {res} .0069715
+{txt}95%    {res}    .7815          .9415       {txt}Skewness      {res}-.6409601
+{txt}99%    {res}    .9415          .9415       {txt}Kurtosis      {res} 4.388402
+
+       {txt}Wife's mother's educational attainment in years
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}        0              0
+{txt} 5%    {res}        3              0
+{txt}10%    {res}        7              0       {txt}Obs         {res}        753
+{txt}25%    {res}        7              0       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}       10                      {txt}Mean          {res} 9.250996
+                        {txt}Largest       Std. Dev.     {res} 3.367468
+{txt}75%    {res}       12             17
+{txt}90%    {res}       14             17       {txt}Variance      {res} 11.33984
+{txt}95%    {res}       14             17       {txt}Skewness      {res}-.1186895
+{txt}99%    {res}       16             17       {txt}Kurtosis      {res} 2.903388
+
+       {txt}Wife's father's educational attainment in years
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}        0              0
+{txt} 5%    {res}        3              0
+{txt}10%    {res}        7              0       {txt}Obs         {res}        753
+{txt}25%    {res}        7              0       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}        7                      {txt}Mean          {res} 8.808765
+                        {txt}Largest       Std. Dev.     {res}  3.57229
+{txt}75%    {res}       12             17
+{txt}90%    {res}       14             17       {txt}Variance      {res} 12.76125
+{txt}95%    {res}       16             17       {txt}Skewness      {res} .1978135
+{txt}99%    {res}       17             17       {txt}Kurtosis      {res} 2.961573
+
+      {txt}Unemployment rate in the country of residence in
+                      percentage points
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}        3              3
+{txt} 5%    {res}        3              3
+{txt}10%    {res}        5              3       {txt}Obs         {res}        753
+{txt}25%    {res}      7.5              3       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}      7.5                      {txt}Mean          {res} 8.623506
+                        {txt}Largest       Std. Dev.     {res} 3.114934
+{txt}75%    {res}       11             14
+{txt}90%    {res}       14             14       {txt}Variance      {res} 9.702811
+{txt}95%    {res}       14             14       {txt}Skewness      {res}  .195068
+{txt}99%    {res}       14             14       {txt}Kurtosis      {res}  2.35769
+
+                  {txt}Live in large city dummy
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}        0              0
+{txt} 5%    {res}        0              0
+{txt}10%    {res}        0              0       {txt}Obs         {res}        753
+{txt}25%    {res}        0              0       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}        1                      {txt}Mean          {res} .6427623
+                        {txt}Largest       Std. Dev.     {res} .4795042
+{txt}75%    {res}        1              1
+{txt}90%    {res}        1              1       {txt}Variance      {res} .2299243
+{txt}95%    {res}        1              1       {txt}Skewness      {res}-.5958537
+{txt}99%    {res}        1              1       {txt}Kurtosis      {res} 1.355042
+
+        {txt}Actual years of wife's previous labour market
+                         experience 
+{hline 61}
+      Percentiles      Smallest
+ 1%    {res}        0              0
+{txt} 5%    {res}        0              0
+{txt}10%    {res}        2              0       {txt}Obs         {res}        753
+{txt}25%    {res}        4              0       {txt}Sum of Wgt. {res}        753
+
+{txt}50%    {res}        9                      {txt}Mean          {res} 10.63081
+                        {txt}Largest       Std. Dev.     {res}  8.06913
+{txt}75%    {res}       15             37
+{txt}90%    {res}       22             37       {txt}Variance      {res} 65.11086
+{txt}95%    {res}       26             38       {txt}Skewness      {res} .9605118
+{txt}99%    {res}       35             45       {txt}Kurtosis      {res}  3.70137
+
+{com}. sum
+
+{txt}    Variable {c |}       Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 56}
+{space 9}LFP {c |}{res}       753    .5683931    .4956295          0          1
+{txt}{space 8}WHRS {c |}{res}       753    740.5764    871.3142          0       4950
+{txt}{space 9}KL6 {c |}{res}       753    .2377158     .523959          0          3
+{txt}{space 8}K618 {c |}{res}       753    1.353254    1.319874          0          8
+{txt}{space 10}WA {c |}{res}       753    42.53785    8.072574         30         60
+{txt}{hline 13}{c +}{hline 56}
+{space 10}WE {c |}{res}       753    12.28685    2.280246          5         17
+{txt}{space 10}WW {c |}{res}       428    4.177682    3.310282      .1282         25
+{txt}{space 8}RPWG {c |}{res}       753    1.849734    2.419887          0       9.98
+{txt}{space 8}HHRS {c |}{res}       753    2267.271    595.5666        175       5010
+{txt}{space 10}HA {c |}{res}       753    45.12085    8.058793         30         60
+{txt}{hline 13}{c +}{hline 56}
+{space 10}HE {c |}{res}       753    12.49137    3.020804          3         17
+{txt}{space 10}HW {c |}{res}       753    7.482179    4.230559      .4121     40.509
+{txt}{space 6}FAMINC {c |}{res}       753    23080.59     12190.2       1500      96000
+{txt}{space 9}MTR {c |}{res}       753    .6788632    .0834955      .4415      .9415
+{txt}{space 8}WMED {c |}{res}       753    9.250996    3.367468          0         17
+{txt}{hline 13}{c +}{hline 56}
+{space 8}WFED {c |}{res}       753    8.808765     3.57229          0         17
+{txt}{space 10}UN {c |}{res}       753    8.623506    3.114934          3         14
+{txt}{space 9}CIT {c |}{res}       753    .6427623    .4795042          0          1
+{txt}{space 10}AX {c |}{res}       753    10.63081     8.06913          0         45
+
+{com}. tsuthos
+{err}unrecognized command:  tsuthos
+{txt}{search r(199):r(199);}
+
+{com}. save "C:\Users\shuwanglo\Documents\Work\Schoolwork\SOAS Schoolwork\Year 5\Applied Econometrics\Working data.dta"
+{txt}file C:\Users\shuwanglo\Documents\Work\Schoolwork\SOAS Schoolwork\Year 5\Applied Econometrics\Working data.dta saved
+
+{com}. exit, clear
