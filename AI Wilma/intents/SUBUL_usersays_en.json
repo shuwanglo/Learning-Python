@@ -1,0 +1,108 @@
+[
+  {
+    "id": "f2aca784-c841-4ea8-a191-d654e5b83fd3",
+    "data": [
+      {
+        "text": "salt mist test",
+        "alias": "SUBUL",
+        "meta": "@SUBUL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501566746
+  },
+  {
+    "id": "4e627635-59e9-40d8-a889-d08efc9166c2",
+    "data": [
+      {
+        "text": "salt mist certificate",
+        "alias": "SUBUL",
+        "meta": "@SUBUL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501555806
+  },
+  {
+    "id": "185f898e-f6e7-4e1d-9fc3-f794d4ca65a7",
+    "data": [
+      {
+        "text": "salt test",
+        "alias": "SUBUL",
+        "meta": "@SUBUL",
+        "userDefined": false
+      },
+      {
+        "text": " certificate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "754e9c3f-c73c-4af8-841d-e40fc5a6772d",
+    "data": [
+      {
+        "text": "hail test certificate",
+        "alias": "SUBUL",
+        "meta": "@SUBUL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e6378b6-040f-4baa-a150-8561018d2d1f",
+    "data": [
+      {
+        "text": "Fire test certificate",
+        "alias": "SUBUL",
+        "meta": "@SUBUL",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5cf53fbf-2025-4e67-a3f6-7e0ccbd4e2fe",
+    "data": [
+      {
+        "text": "Fire rating",
+        "alias": "SUBUL",
+        "meta": "@SUBUL",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bdf9efda-9436-41c7-9d2a-ca5109b1aa44",
+    "data": [
+      {
+        "text": "@",
+        "userDefined": false
+      },
+      {
+        "text": "SUBUL",
+        "alias": "SUBUL",
+        "meta": "@SUBUL",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

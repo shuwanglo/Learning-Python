@@ -1,0 +1,42 @@
+{
+  "id": "ba16a1be-2957-483d-ab29-8b52270c8a61",
+  "name": "QtmMono60G3_1",
+  "auto": true,
+  "contexts": [
+    "QtmMono60"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QtmMono60G3_1",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "We have Q.PEAK G3.1 (white back sheet), Q.PEAK BLK G3.1 (black back sheet). Which one works for you?",
+            "Q.PEAK G3.1 (white back sheet) or Q.PEAK BLK G3.1 (black back sheet)?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500773096533,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "7a0f00b7-d9c8-4d27-8e25-44646ec57169",
+  "name": "QtmMono60G4_1NotsureSTOP",
+  "auto": true,
+  "contexts": [
+    "QtmMono60G4_1Notsure"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QtmMono60G4_1NotsureSTOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sorry it didn\u0027t work out. Please check back next time. Bye for now."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500773104743,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0aa5eece-d168-46d4-b3c7-6313f19e6c4c",
+  "name": "QtmMono",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QtmMono",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c374a7cc-e78b-4ae7-afaf-9a4dcfdcfc54",
+          "dataType": "@QTMMONO",
+          "name": "QTMMONO",
+          "value": "$QTMMONO",
+          "isList": false
+        },
+        {
+          "id": "f6d61823-5010-483b-bc80-fb710decb7c8",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501901429429,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "643ed0fe-b304-4f96-b8e7-993b1b09bb31",
+  "name": "SUBULNotSure",
+  "auto": true,
+  "contexts": [
+    "SUBUL"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "SUBULNotSure",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "99aa7d1d-e6da-42d7-adbc-e7a425229bae",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "They are in https://hqamericas.app.box.com/files/0/f/28657488279/Q.PRO_L_G4.2 and  https://hqamericas.app.box.com/files/0/f/13904574567/Q.POWER_L_G5.2 Just look at the products listed on them. Any other document I can hep you with?",
+            "You can find them in https://hqamericas.app.box.com/files/0/f/28657488279/Q.PRO_L_G4.2 and  https://hqamericas.app.box.com/files/0/f/13904574567/Q.POWER_L_G5.2 The certified products are listed on them. What\u0027s the next document I can hep you with?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500773216668,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2b9d4c3b-974c-4523-906e-19a6eb7976ce",
+  "name": "QtmMonoNotSure",
+  "auto": true,
+  "contexts": [
+    "ProdQuest"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ProdNotSure",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Ah. We do need to know something in order to move forward. Please contact Wai (wai.lo@us.q-cells.com, 650-391-3108). What is the next document I can help you with?",
+            "Unfortunately we need to know something in order to help you. Please contact Wai (wai.lo@us.q-cells.com, cell: 650-391-3108). What is the next document I can help you with?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501609828,
+  "fallbackIntent": false,
+  "events": []
+}

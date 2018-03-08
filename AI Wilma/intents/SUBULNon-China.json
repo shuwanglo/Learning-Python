@@ -1,0 +1,42 @@
+{
+  "id": "b68178ba-bdfb-4ef0-a5ac-bae869b646ec",
+  "name": "SUBULNon-China",
+  "auto": true,
+  "contexts": [
+    "SUBUL"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "SUBULNon-China",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "You can find the certifcate at https://hqamericas.app.box.com/files/0/f/28657488279/Q.PRO_L_G4.2 . Any other document I can hep you with?",
+            "The certifcate can be found at https://hqamericas.app.box.com/files/0/f/28657488279/Q.PRO_L_G4.2 . What\u0027s the next document I can hep you with?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500773210715,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "4f4fd44c-96ef-4d67-92d4-e3a82543eba4",
+  "parentId": "ed68744b-2878-4086-8b17-fb23a8c16f15",
+  "rootParentId": "ed68744b-2878-4086-8b17-fb23a8c16f15",
+  "name": "SUBULNon-ChinaSTOPBYE",
+  "auto": true,
+  "contexts": [
+    "SUBULNon-ChinaSTOP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SUBULNon-ChinaSTOP.SUBULNon-ChinaSTOP-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500786868,
+  "fallbackIntent": false,
+  "events": []
+}

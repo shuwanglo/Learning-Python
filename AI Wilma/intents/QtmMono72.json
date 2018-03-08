@@ -1,0 +1,60 @@
+{
+  "id": "38c5b5ca-88b3-43fa-a1f2-edf58bc89403",
+  "name": "QtmMono72",
+  "auto": true,
+  "contexts": [
+    "ProdQuest"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QtmMono72",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "QtmMono72-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "ProdQuest",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5367b1ac-b4c2-43ef-ab72-08a7ae5b9693",
+          "dataType": "@QTMMONO72",
+          "name": "QTMMONO72",
+          "value": "$QTMMONO72",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "We have Q.PEAK L G4.1 (UL.1000V) and Q.PEAK L G4.2 (UL1500V). Which one works for you?",
+            "Q.PEAK L G4.1 (UL.1000V) or Q.PEAK L G4.2 (UL1500V)?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501607372,
+  "fallbackIntent": false,
+  "events": []
+}

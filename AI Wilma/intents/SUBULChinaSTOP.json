@@ -1,0 +1,42 @@
+{
+  "id": "bc49676c-6382-423c-bb45-39079719a328",
+  "name": "SUBULChinaSTOP",
+  "auto": true,
+  "contexts": [
+    "SUBULChina"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "SUBULChinaSTOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Good you got what\u0027s needed. Bye for now.",
+            "Good to be able to help. Have a nice day."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500773208716,
+  "fallbackIntent": false,
+  "events": []
+}

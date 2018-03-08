@@ -1,0 +1,36 @@
+{
+  "id": "fde4f444-0b9f-4710-824d-96eeec547c98",
+  "parentId": "c8c2dc16-564d-4270-8f3c-370221e4b17b",
+  "rootParentId": "c8c2dc16-564d-4270-8f3c-370221e4b17b",
+  "name": "SUBULNotSureSTOPBYE",
+  "auto": true,
+  "contexts": [
+    "SUBULNotSureSTOP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SUBULNotSureSTOP.SUBULNotSureSTOP-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500786954,
+  "fallbackIntent": false,
+  "events": []
+}

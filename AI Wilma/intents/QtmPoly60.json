@@ -1,0 +1,69 @@
+{
+  "id": "94f32c42-2158-4787-92f9-7d2688b9e95e",
+  "name": "QtmPoly60",
+  "auto": true,
+  "contexts": [
+    "ProdQuest"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QtmPoly60-followup",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "QtmPoly60",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "ProdQuest",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c99621d9-e5e0-4c83-ba8a-861a38966d3d",
+          "required": false,
+          "dataType": "@QTMPOLY60",
+          "name": "QTMPOLY60",
+          "value": "$QTMPOLY60",
+          "isList": false
+        },
+        {
+          "id": "713594d8-ef06-4fa2-abdf-b8c0bffbd541",
+          "dataType": "@NotSure",
+          "name": "NotSure",
+          "value": "$NotSure",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "G4.1 (currently selling) or G3/G3.1/G4 (old products)?",
+            "We have G4.1 (currently selling) and G3/G3.1/G4 (old products. Which one is it?",
+            "We are currently selling the G4.1 version, and had G3/G3.1/G4 versions previously. Which one works for you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501609828,
+  "fallbackIntent": false,
+  "events": []
+}

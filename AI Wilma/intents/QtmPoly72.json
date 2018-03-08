@@ -1,0 +1,60 @@
+{
+  "id": "cdfcd380-d767-42bd-b268-4f8906a674e0",
+  "name": "QtmPoly72",
+  "auto": true,
+  "contexts": [
+    "ProdQuest"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QtmPoly72",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "QtmPoly72-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "ProdQuest",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b4fa7bb0-ce12-48ea-95a3-884eeff2bc2c",
+          "dataType": "@QTMPOLY72",
+          "name": "QTMPOLY72",
+          "value": "$QTMPOLY72",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "We have Q.PLUS L G4 (UL1000V, no NexTracker), Q.PLUS L G4.1 (UL1000V, NexTracker), Q.PLUS L G4.2 (UL1500V, NexTracker) and Q.PLUS L G4.2/TAA. Which one works for you?",
+            "Is it Q.PLUS L G4 (UL1000V, no NexTracker), Q.PLUS L G4.1 (UL1000V, NexTracker), Q.PLUS L G4.2 (UL1500V, NexTracker) or Q.PLUS L G4.2/TAA?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501616451,
+  "fallbackIntent": false,
+  "events": []
+}

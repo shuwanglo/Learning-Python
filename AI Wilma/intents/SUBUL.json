@@ -1,0 +1,45 @@
+{
+  "id": "c2542dec-4b40-4eb1-a2e4-ba5a23770bbc",
+  "name": "SUBUL",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "SUBUL",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f5da2022-a836-41fa-88d8-701454b595a3",
+          "dataType": "@SUBUL",
+          "name": "SUBUL",
+          "value": "$SUBUL",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "$SUBUL is either part of the VDE/TUV certificate (Annex 100), CSA/UL certificate or as a separate certificate. It is product independent, but we have two versions. One for Qidong products and one for the other products. Is the product from Qidong?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501566746,
+  "fallbackIntent": false,
+  "events": []
+}

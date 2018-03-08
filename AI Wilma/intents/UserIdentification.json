@@ -1,0 +1,51 @@
+{
+  "id": "929b2cde-1f42-483c-ae75-f769d28f44cf",
+  "name": "UserIdentification",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "User",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "48e69be3-47eb-4025-8ef3-bcd280e37b7e",
+          "required": false,
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi $User, what document can I help you with today",
+            "What document can I help you with, $User?",
+            "Thanks for contacting me,  $User, what document can I help you with today?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true,
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1506833486,
+  "fallbackIntent": false,
+  "events": []
+}

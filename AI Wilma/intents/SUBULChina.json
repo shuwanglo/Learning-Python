@@ -1,0 +1,47 @@
+{
+  "id": "ad7b351d-00b4-4c16-b5ef-e15f9687a823",
+  "name": "SUBULChina",
+  "auto": true,
+  "contexts": [
+    "SUBUL"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "SUBULChina",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "SUBULChina-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "You can find the certificate at https://hqamericas.app.box.com/files/0/f/13904574567/Q.POWER_L_G5.2 . Any other document I can hep you with?",
+            "The certificate can be fund at https://hqamericas.app.box.com/files/0/f/13904574567/Q.POWER_L_G5.2 . What is the next document I can hep you with?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501566746,
+  "fallbackIntent": false,
+  "events": []
+}

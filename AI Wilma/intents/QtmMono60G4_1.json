@@ -1,0 +1,51 @@
+{
+  "id": "b132c62a-8762-46c4-b9c8-6847dd97843a",
+  "name": "QtmMono60G4_1",
+  "auto": true,
+  "contexts": [
+    "QtmMono60"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QtmMono60G4_1",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "261234b9-cd13-4884-bfef-5ba55a3ec16b",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "We have Q.PEAK G4.1 (white backsheet), Q.PEAK BLK G4.1 (black backsheet), Q.PEAK G4.1/SC (white backsheet, Zep), Q.PEAK G4.1/MAX (white backsheet, Maxim), Q.PEAK G4.1/TAA (white backsheet, TAA) and Q.PEAK BLK G4.1/TAA (black bachsheet, TAA). Which one works for you?",
+            "Q.PEAK G4.1 (white backsheet), Q.PEAK BLK G4.1 (black backsheet), Q.PEAK G4.1/SC (white backsheet, Zep), Q.PEAK G4.1/MAX (white backsheet, Maxim), Q.PEAK G4.1/TAA (white backsheet, TAA) or Q.PEAK BLK G4.1/TAA (black bachsheet, TAA)?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500773099212,
+  "fallbackIntent": false,
+  "events": []
+}

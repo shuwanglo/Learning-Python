@@ -1,0 +1,32 @@
+[
+  {
+    "id": "93d176cd-b466-481d-b9dc-190b04e00beb",
+    "data": [
+      {
+        "text": "3.1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d67c47aa-58df-4546-9ee9-bc222d501d32",
+    "data": [
+      {
+        "text": "G3.",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

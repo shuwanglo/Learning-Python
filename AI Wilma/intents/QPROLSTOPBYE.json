@@ -1,0 +1,36 @@
+{
+  "id": "16e330b0-e265-4a6d-b3cd-9077b8ea6003",
+  "parentId": "c0961fbc-c0ad-41e3-9287-31e78361caec",
+  "rootParentId": "c0961fbc-c0ad-41e3-9287-31e78361caec",
+  "name": "QPROLSTOPBYE",
+  "auto": true,
+  "contexts": [
+    "QPROLSTOP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "QPROLSTOP.QPROLSTOP-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500785471,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "38d9e28f-671c-494b-95ec-43a6a3da95e0",
+  "name": "test",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "\u003ca href\u003d\"https://www.youtube.com/watch?v\u003dgnsO8-xJ8rs\u0026t\u003d1786s\"\u003ehere is the link\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500773222806,
+  "fallbackIntent": false,
+  "events": []
+}

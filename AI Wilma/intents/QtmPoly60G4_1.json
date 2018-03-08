@@ -1,0 +1,57 @@
+{
+  "id": "af26c756-6da4-4d21-b480-626a2ac81c51",
+  "name": "QtmPoly60G4_1",
+  "auto": true,
+  "contexts": [
+    "QtmPoly60"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QtmPoly60G4_1",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4092aa9e-39ef-4dd2-b4fb-ac77156d3bad",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "08318c6a-4403-4081-8ffb-c06eec4a5042",
+          "dataType": "@sys.address",
+          "name": "address",
+          "value": "$address",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "We have Q.PLUS BFR G4.1, Q.PLUS G4.1/SC (with Zep frame) and Q.PLUS BFR G4.1/TAA. Which one works for you?",
+            "Is it Q.PLUS BFR G4.1, Q.PLUS G4.1/SC (with Zep frame) or Q.PLUS BFR G4.1/TAA?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500773129439,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "adad45a6-fcae-487a-9c74-34fb1a1d44d5",
+    "data": [
+      {
+        "text": "What are the product types again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501085304
+  },
+  {
+    "id": "881a9ed3-5f7f-4bb0-91cd-1c06cd8fbec2",
+    "data": [
+      {
+        "text": "What are available again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501085304
+  },
+  {
+    "id": "22f8889a-c5f8-47dd-81a3-1a8dfdd90868",
+    "data": [
+      {
+        "text": "What are the options again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501085304
+  },
+  {
+    "id": "26f0b47d-6f85-4a81-934c-52a417870d54",
+    "data": [
+      {
+        "text": "Show me the list again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501085304
+  },
+  {
+    "id": "e0d54b4a-8ec5-421b-8326-2e5811f303ef",
+    "data": [
+      {
+        "text": "Go back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1500785774
+  },
+  {
+    "id": "280a7077-2a46-44e8-a4d8-bb42f9067e75",
+    "data": [
+      {
+        "text": "Please go back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500785774
+  },
+  {
+    "id": "10ace46a-b08f-4a51-954c-17f854645313",
+    "data": [
+      {
+        "text": "Wait, go back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500785774
+  },
+  {
+    "id": "99943013-2b7a-4dde-a157-79c90bf1b0a6",
+    "data": [
+      {
+        "text": "Come on, go back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500785774
+  }
+]
