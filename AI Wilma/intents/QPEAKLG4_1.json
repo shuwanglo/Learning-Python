@@ -1,0 +1,73 @@
+{
+  "id": "41d4a4a2-ed44-4c7d-b8df-a0680c7ed10c",
+  "name": "QPEAKLG4_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKLG4_1",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5f09e719-bb43-4ab6-a9b3-35c20addcc2e",
+          "dataType": "@QPEAKLG4_1",
+          "name": "QPEAKLG4_1",
+          "value": "$QPEAKLG4_1",
+          "isList": false
+        },
+        {
+          "id": "36ffe1b0-38aa-4812-a895-fafb5a92c88d",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "2c9a3ce5-4dfe-4339-9c88-545b402f693d",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "223b5632-4041-4df4-ae8d-96d68eaaca34",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "7822b2b1-c5d4-4c39-b4c0-615726b916f8",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This product is under development. Is there any other document I can help you with?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501980818,
+  "fallbackIntent": false,
+  "events": []
+}

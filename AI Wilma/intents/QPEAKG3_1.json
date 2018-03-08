@@ -1,0 +1,77 @@
+{
+  "id": "45a3b343-ee10-472a-a709-142e80dc2c0e",
+  "name": "QPEAKG3_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKG3_1",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "42567f23-f7e1-4f60-8891-c657eaf0bb2a",
+          "dataType": "@QPEAKG3_1",
+          "name": "QPEAKG3_1",
+          "value": "$QPEAKG3_1",
+          "isList": false
+        },
+        {
+          "id": "78ca5eb5-4a28-4eb2-a4bd-27decd9426ce",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "a25de27a-2029-418c-8aea-fc0bf1e04ffd",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "9a0bcb31-37d6-453b-a36d-b1c46d0f911c",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "ef174b3c-c32c-4605-8227-9b5e413276a3",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PEAK G3.1 documents are in https://hqamericas.app.box.com/files/0/f/11378234381/Q.PEAK_G3.1 . Contact Wai if you cannot find them.  Any other document I can help you with?",
+            "You can find the Q.PEAK G3.1 documents in https://hqamericas.app.box.com/files/0/f/11378234381/Q.PEAK_G3.1. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PEAK G3.1 documents can be found in https://hqamericas.app.box.com/files/0/f/11378234381/Q.PEAK_G3.1. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501960557,
+  "fallbackIntent": false,
+  "events": []
+}

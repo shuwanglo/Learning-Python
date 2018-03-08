@@ -1,0 +1,77 @@
+{
+  "id": "40a6297c-8ad0-4ca9-b789-c80e69b1cd53",
+  "name": "QPEAKG4_1TAA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKG4_1TAA",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0ad15246-acf5-4253-82ea-8ef8a2af19b9",
+          "dataType": "@QPEAKG4_1TAA",
+          "name": "QPEAKG4_1TAA",
+          "value": "$QPEAKG4_1TAA",
+          "isList": false
+        },
+        {
+          "id": "e9a9e804-9c54-4370-9c72-6c1898d3dc0e",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "d56acef3-ac0f-480f-9bf5-20fb71f0860c",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "dcbc2cfe-5b2e-41c4-b0c9-e76d78f27bff",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "c6e6d80b-4cd2-4e5e-85ca-2e9d71561830",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PEAK G4.1/TAA documents are in https://hqamericas.app.box.com/files/0/f/12022970133/Q.PEAK_G4.1-TAA. Contact Wai if you cannot find them.  Any other document I can help you with?",
+            "You can find the Q.PEAK G4.1/TAA documents in https://hqamericas.app.box.com/files/0/f/12022970133/Q.PEAK_G4.1-TAA. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PEAK G4.1/TAA documents can be found in https://hqamericas.app.box.com/files/0/f/12022970133/Q.PEAK_G4.1-TAA. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501960707,
+  "fallbackIntent": false,
+  "events": []
+}

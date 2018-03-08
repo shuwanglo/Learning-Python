@@ -1,0 +1,77 @@
+{
+  "id": "7e49363c-794e-42b4-bbce-660ef4cd6d62",
+  "name": "QPEAKG4_1SC",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKG4_1SC",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "84251f60-92fb-4f00-a6ce-1fb1a0a842b7",
+          "dataType": "@QPEAKG4_1SC",
+          "name": "QPEAKG4_1SC",
+          "value": "$QPEAKG4_1SC",
+          "isList": false
+        },
+        {
+          "id": "69994958-1c83-4f4c-acd5-95c853b6fa25",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "3d6466e9-6b53-4d95-8cc1-34fb6f7abc71",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "c215f429-7e49-437d-9785-971fe9bc7a17",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "fce27617-33b7-4675-9ba0-36ec099166bd",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PEAK G4.1/SC documents are in https://hqamericas.app.box.com/files/0/f/11218179963/Q.PEAK_G4.1_SC. Contact Wai if you cannot find them.  Any other document I can help you with?",
+            "You can find the Q.PEAK G4.1/SC documents in https://hqamericas.app.box.com/files/0/f/11218179963/Q.PEAK_G4.1_SC. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PEAK G4.1/SC documents can be found in https://hqamericas.app.box.com/files/0/f/11218179963/Q.PEAK_G4.1_SC. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507095157,
+  "fallbackIntent": false,
+  "events": []
+}

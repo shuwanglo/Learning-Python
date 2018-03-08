@@ -1,0 +1,53 @@
+{
+  "id": "10624be0-3fc9-4ba6-9c4f-1312e88e6067",
+  "name": "QPEAKDUOLG5_2STOP",
+  "auto": true,
+  "contexts": [
+    "QPEAKDUOLG5_2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKDUOLG5_2STOP",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPEAKDUOLG5_2STOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "QPEAKDUOLG5_2",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Good you got what\u0027s needed. Bye for now.",
+            "That\u0027s good. Come back later if you need help again."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "slack": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515107845,
+  "fallbackIntent": false,
+  "events": []
+}

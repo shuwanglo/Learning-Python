@@ -1,0 +1,364 @@
+[
+  {
+    "id": "b61dd3fa-553b-4b96-a66e-bfab1dadf98a",
+    "data": [
+      {
+        "text": "q.peak duo l g5.2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee14a556-afeb-47f4-9967-3f14046e4ccf",
+    "data": [
+      {
+        "text": "I also need a q.peak duo l g5.2 warranty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7608e393-9090-4134-8221-4c5bdba47127",
+    "data": [
+      {
+        "text": "yes, a datasheet of q.peak duo l g5.2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4356ddab-f4cb-4e89-b250-092be516ba2e",
+    "data": [
+      {
+        "text": "I also need a q.peak duo l g5.2 warranty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b64bf155-b010-4df3-b777-c9453963cd49",
+    "data": [
+      {
+        "text": "yes, a ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "q.peak duo l g5.2",
+        "alias": "QPEAKDUOLG5_2",
+        "meta": "@QPEAKDUOLG5_2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd545f06-ea6b-4f2b-87ac-c2a3a0c3e9f9",
+    "data": [
+      {
+        "text": "I also need a q.peak duo l g5.2 warranty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82950864-8123-4904-9cc9-8e9528a43788",
+    "data": [
+      {
+        "text": "I also need a ",
+        "userDefined": false
+      },
+      {
+        "text": "q.peak duo l g5.2",
+        "alias": "QPEAKDUOLG5_2",
+        "meta": "@QPEAKDUOLG5_2",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6049d85f-3743-4737-ab72-9fb9cea654f4",
+    "data": [
+      {
+        "text": "I also need a ",
+        "userDefined": false
+      },
+      {
+        "text": "q.peak duo l g5.2",
+        "alias": "QPEAKDUOLG5_2",
+        "meta": "@QPEAKDUOLG5_2",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1bc8c654-00f7-4f39-b75c-ce91d136096b",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "q.peak duo l g5.2",
+        "alias": "QPEAKDUOLG5_2",
+        "meta": "@QPEAKDUOLG5_2",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": ", please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a1b63f6-012a-456e-a539-e090429fdaf7",
+    "data": [
+      {
+        "text": "Give me a ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO L G5.2",
+        "alias": "QPEAKDUOLG5_2",
+        "meta": "@QPEAKDUOLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515107595
+  },
+  {
+    "id": "bad47345-7180-4695-8728-8bdac8db12f3",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO L G5.2",
+        "alias": "QPEAKDUOLG5_2",
+        "meta": "@QPEAKDUOLG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515107595
+  },
+  {
+    "id": "8baabcfe-1b64-4170-bcd7-615af51310a1",
+    "data": [
+      {
+        "text": "can you help me with ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO L G5.2",
+        "alias": "QPEAKDUOLG5_2",
+        "meta": "@QPEAKDUOLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "installation manual",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515107595
+  },
+  {
+    "id": "fc53b35f-6d6f-4e32-bca7-1cf9ab3f7a5d",
+    "data": [
+      {
+        "text": "where are the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO L G5.2",
+        "alias": "QPEAKDUOLG5_2",
+        "meta": "@QPEAKDUOLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": " documents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515107595
+  },
+  {
+    "id": "196447fc-3b6e-46ac-bb8a-6f1044166b3f",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO L G5.2",
+        "alias": "QPEAKDUOLG5_2",
+        "meta": "@QPEAKDUOLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515107595
+  },
+  {
+    "id": "de369d6e-98b7-47f8-9f1b-6da294578231",
+    "data": [
+      {
+        "text": "Q.PEAK DUO L G5.2",
+        "alias": "QPEAKDUOLG5_2",
+        "meta": "@QPEAKDUOLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515107595
+  },
+  {
+    "id": "b2a775f2-816a-493e-9979-371bb54ec95f",
+    "data": [
+      {
+        "text": "Q.PEAK DUO L G5.2",
+        "alias": "QPEAKDUOLG5_2",
+        "meta": "@QPEAKDUOLG5_2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515107595
+  },
+  {
+    "id": "6599323c-b1d3-439f-af17-ab29de1bd0f5",
+    "data": [
+      {
+        "text": "Q.PEAK DUO L G5.2",
+        "alias": "QPEAKDUOLG5_2",
+        "meta": "@QPEAKDUOLG5_2",
+        "userDefined": true
+      },
+      {
+        "text": " would be good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515107595
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": "59690b24-cc74-40d1-8e73-fca8ceddf883",
+  "name": "QPEAKDUO120",
+  "auto": true,
+  "contexts": [
+    "QPEAKDUO"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3526033b-b3e4-4310-ac66-547bd9d67f50",
+          "required": false,
+          "dataType": "@OneTwenty",
+          "name": "OneTwenty",
+          "value": "$OneTwenty",
+          "isList": false
+        },
+        {
+          "id": "274fefef-64bc-41c2-9cb0-f74b8b1e3d02",
+          "required": false,
+          "dataType": "@HC",
+          "name": "HC",
+          "value": "$HC",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We have Q.PEAK DUO G5 with white backsheet and Q.PEAK DUO BLK G5 with black backsheet. Which one would you like?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "slack": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515054216,
+  "fallbackIntent": false,
+  "events": []
+}

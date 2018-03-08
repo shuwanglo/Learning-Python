@@ -1,0 +1,45 @@
+{
+  "id": "96fd4a71-d59a-4ec3-99e7-c110850c93db",
+  "name": "QPEAKDUOBLKG5STOP",
+  "auto": true,
+  "contexts": [
+    "QPEAKDUOBLKG5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKDUOBLKG5",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPEAKDUOBLKG5STOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Good you find what you need. Bye for now"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "slack": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515101559,
+  "fallbackIntent": false,
+  "events": []
+}

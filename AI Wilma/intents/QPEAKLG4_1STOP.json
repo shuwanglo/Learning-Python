@@ -1,0 +1,39 @@
+{
+  "id": "86e82912-ce43-4dff-bf96-4be107130a18",
+  "name": "QPEAKLG4_1STOP",
+  "auto": true,
+  "contexts": [
+    "QPEAKLG4_1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKLG4_1STOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sorry I can\u0027t help this time. Please check back."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500777378,
+  "fallbackIntent": false,
+  "events": []
+}

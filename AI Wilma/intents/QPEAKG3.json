@@ -1,0 +1,82 @@
+{
+  "id": "c7fc2a38-ef91-4316-9727-b30edbefea4c",
+  "name": "QPEAKG3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKG3",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "QPEAKG3-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c584283c-ff97-4e15-a2b3-26c40b3ac091",
+          "dataType": "@QPEAKG3",
+          "name": "QPEAKG3",
+          "value": "$QPEAKG3",
+          "isList": false
+        },
+        {
+          "id": "8a24afbf-db7d-4245-9c54-2ab9b8b1fa77",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "bd239f3f-6ea2-496d-99a0-4fd045384873",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "eca8798f-596d-4c56-bd8a-5dff1c811d80",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "3cb8900f-c277-4ecf-aae5-9f0a26005692",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PEAK G3 documents are in https://hqamericas.app.box.com/files/0/f/4413122742/Q.PEAK_G3. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PEAK G3 documents in https://hqamericas.app.box.com/files/0/f/4413122742/Q.PEAK_G3. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PEAK G3 documents can be found in https://hqamericas.app.box.com/files/0/f/4413122742/Q.PEAK_G3. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501960535,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "4375f689-eef1-4f2d-a453-e7416d214731",
+  "name": "QPEAKBLKG4_1SC",
+  "auto": true,
+  "contexts": [
+    "ProdDepDocNeeded"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKBLKG4_1SC",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bf9a450b-cad1-4724-9ed4-86f34af8ec21",
+          "dataType": "@QPEAKBLKG4_1SC",
+          "name": "QPEAKBLKG4_1SC",
+          "value": "$QPEAKBLKG4_1SC",
+          "isList": false
+        },
+        {
+          "id": "fafc6179-7aa2-4e55-aef1-8bbf579ccb96",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "d80cf84b-2573-4552-88f4-0a3d82c6bb7e",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "2e35e33f-df01-4be9-86ea-e5d812584fcc",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "b7fdd445-54b2-4e13-bd7e-6b753f247b37",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This product is under development"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501908111,
+  "fallbackIntent": false,
+  "events": []
+}

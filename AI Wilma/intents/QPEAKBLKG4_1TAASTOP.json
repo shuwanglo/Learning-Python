@@ -1,0 +1,39 @@
+{
+  "id": "af406eeb-7424-4a82-baef-f5ec917a1d24",
+  "name": "QPEAKBLKG4_1TAASTOP",
+  "auto": true,
+  "contexts": [
+    "QPEAKBLKG4_1TAA"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKBLKG4_1TAASTOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Good you got what\u0027s needed. Bye for now."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500776744,
+  "fallbackIntent": false,
+  "events": []
+}

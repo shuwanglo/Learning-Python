@@ -1,0 +1,59 @@
+{
+  "id": "c7bf5aee-7016-4760-a7b8-d61bd0dac1ba",
+  "name": "QPEAKDUO144",
+  "auto": true,
+  "contexts": [
+    "QPEAKDUO"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKDUO",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPEAKDUO144",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "21e00405-1047-456f-be81-c23b1764f2c3",
+          "dataType": "@OneFortyFour",
+          "name": "OneFortyFour",
+          "value": "$OneFortyFour",
+          "isList": false
+        },
+        {
+          "id": "5c1f8b8e-550c-431e-af15-947935e76e27",
+          "dataType": "@HC",
+          "name": "HC",
+          "value": "$HC",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The product we have with 144 half cells currently is Q.PEAK DUO L G5.2. You can find its documents in https://hqamericas.app.box.com/folder/34378319355. Is there any other document I can help you with?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515108102,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "a5e78112-923b-4f74-9237-eb31b3affb3f",
+  "name": "QPEAKBLKG4_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKBLKG4_1",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4fcdb2c5-38c0-4afe-9898-653f095e32e0",
+          "dataType": "@QPEAKBLKG4_1",
+          "name": "QPEAKBLKG4_1",
+          "value": "$QPEAKBLKG4_1",
+          "isList": false
+        },
+        {
+          "id": "f1dc6ada-5fe6-48f5-ba17-f76e4bc1248f",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "a78806c8-1979-447a-9f9b-61ed4e43ecd7",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "fadbffbd-327f-49b7-a82f-70fa8b51ee16",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "04554356-8f59-4555-8eb5-dbf1bc368e1b",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PEAK BLK G4.1 documents are in https://hqamericas.app.box.com/files/0/f/8422107365/Q.PEAK_BLK_G4.1. Contact Wai if you cannot find them.  Any other document I can help you with?",
+            "You can find the Q.PEAK BLK G4.1 documents in https://hqamericas.app.box.com/files/0/f/8422107365/Q.PEAK_BLK_G4.1. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PEAK BLK G4.1 documents can be found in https://hqamericas.app.box.com/files/0/f/8422107365/Q.PEAK_BLK_G4.1. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501980774,
+  "fallbackIntent": false,
+  "events": []
+}

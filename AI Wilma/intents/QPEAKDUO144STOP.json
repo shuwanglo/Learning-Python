@@ -1,0 +1,48 @@
+{
+  "id": "9b9a7673-3f18-48b7-b8bc-d521ad703947",
+  "name": "QPEAKDUO144STOP",
+  "auto": true,
+  "contexts": [
+    "QPEAKDUO144"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKDUO144",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPEAKDUO144STOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Good you got what\u0027s needed. Bye for now.",
+            "That\u0027s good. Come back later if you need help again."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "slack": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515108236,
+  "fallbackIntent": false,
+  "events": []
+}

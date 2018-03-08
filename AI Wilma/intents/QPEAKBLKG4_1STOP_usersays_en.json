@@ -1,0 +1,110 @@
+[
+  {
+    "id": "c8ba3fcb-c49b-4fe6-8744-89a11cbdc38c",
+    "data": [
+      {
+        "text": "not really",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71353103-c94a-496f-918d-d4df6a52f855",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "17cc465a-0cfe-46eb-a556-f6d388917004",
+    "data": [
+      {
+        "text": "That\u0027s it for the day.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e6d892e-a200-4364-81f7-5d607971da59",
+    "data": [
+      {
+        "text": "No, that\u0027s all I need.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aae50d2d-f90c-4dd2-be1a-fe45df2c1e80",
+    "data": [
+      {
+        "text": "No, thanks.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9b4807d-74e4-4bda-9f69-f91878577297",
+    "data": [
+      {
+        "text": "That\u0027s all.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c85684e0-2d29-4188-865c-0350064a9896",
+    "data": [
+      {
+        "text": "That\u0027s all I need",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b559a18-afef-49b0-a628-10bb81cb9746",
+    "data": [
+      {
+        "text": "That\u0027s it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3722159f-f8ba-4449-9f56-f2451a104a5f",
+    "data": [
+      {
+        "text": "No, that\u0027s it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

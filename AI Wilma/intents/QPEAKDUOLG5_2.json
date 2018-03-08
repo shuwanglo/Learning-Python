@@ -1,0 +1,53 @@
+{
+  "id": "8144606d-8cd9-42e0-9bcb-6ac68df0d69b",
+  "name": "QPEAKDUOLG5_2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKDUOLG5_2",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ce316c8a-2afa-49c6-ac94-6135cf875751",
+          "dataType": "@QPEAKDUOLG5_2",
+          "name": "QPEAKDUOLG5_2",
+          "value": "$QPEAKDUOLG5_2",
+          "isList": false
+        },
+        {
+          "id": "ba5bf81d-ac8f-4d42-856a-9b4d36fc6bc6",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can find Q.PEAK DUO L G5.2 documents in https://hqamericas.app.box.com/folder/34378319355 Is there any other document I can help you with?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "slack": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515107595,
+  "fallbackIntent": false,
+  "events": []
+}

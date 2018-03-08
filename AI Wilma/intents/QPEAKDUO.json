@@ -1,0 +1,90 @@
+{
+  "id": "627915ee-52e0-4191-9ced-9215c6099510",
+  "name": "QPEAKDUO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKDUO",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "01227c3e-8aa8-4399-bab4-26ae7b207155",
+          "required": false,
+          "dataType": "@QPEAKDUO",
+          "name": "QPEAKDUO",
+          "value": "$QPEAKDUO",
+          "isList": false
+        },
+        {
+          "id": "39a0e91e-9f55-4ead-b053-95ae62de68a9",
+          "required": false,
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "5e47868a-14b1-449f-befe-e39fd5f4bbc2",
+          "required": false,
+          "dataType": "@QDUO",
+          "name": "QDUO",
+          "value": "$QDUO",
+          "isList": false
+        },
+        {
+          "id": "8c02d631-1a48-4f4c-a33e-00d26da95881",
+          "required": false,
+          "dataType": "@HC",
+          "name": "HC",
+          "value": "$HC",
+          "isList": false
+        },
+        {
+          "id": "68695dfe-8b24-4ce5-bf9c-27dc8e79dd84",
+          "required": false,
+          "dataType": "@QPEAKDUOL",
+          "name": "QPEAKDUOL",
+          "value": "$QPEAKDUOL",
+          "isList": false
+        },
+        {
+          "id": "1048c74f-196d-417b-b89c-42180ba224a0",
+          "dataType": "@QTMMONO",
+          "name": "QTMMONO",
+          "value": "$QTMMONO",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I see, you are looking for a half cell module. Does it have 120 half cells or 144 half cells?",
+            "That is a half cell product. Does it have 120 half cells or 144 half cells?",
+            "You are certain you want a half cell products. Are there 120 half cells or 144 half cells?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "slack": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515053638,
+  "fallbackIntent": false,
+  "events": []
+}

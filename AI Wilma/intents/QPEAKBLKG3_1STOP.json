@@ -1,0 +1,42 @@
+{
+  "id": "81fb0033-d4cd-47fb-b352-a0f047eabc0b",
+  "name": "QPEAKBLKG3_1STOP",
+  "auto": true,
+  "contexts": [
+    "QPEAKBLKG3_1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKBLKG3_1STOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Good you got what\u0027s needed. Bye for now.",
+            "Good to be able to help. Talk to you later."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500776406,
+  "fallbackIntent": false,
+  "events": []
+}

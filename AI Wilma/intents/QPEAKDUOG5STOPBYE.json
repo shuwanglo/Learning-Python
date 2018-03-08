@@ -1,0 +1,37 @@
+{
+  "id": "27c4287e-85e0-4cf1-a76b-46a1d6bb951d",
+  "parentId": "73331085-530f-4046-9ffe-28539a49cab2",
+  "rootParentId": "73331085-530f-4046-9ffe-28539a49cab2",
+  "name": "QPEAKDUOG5STOPBYE",
+  "auto": true,
+  "contexts": [
+    "QPEAKDUOG5STOP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "QPEAKDUOG5STOP.QPEAKDUOG5STOP-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "slack": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

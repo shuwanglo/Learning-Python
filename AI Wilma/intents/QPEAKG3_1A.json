@@ -1,0 +1,58 @@
+{
+  "id": "e0f036ec-23d0-4762-ae7b-17779787c408",
+  "name": "QPEAKG3_1A",
+  "auto": true,
+  "contexts": [
+    "QtmMono60"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKG3_1",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c1890bcd-7b83-4f58-9abe-09f0ae6e137b",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "d7a7841e-c3ad-45a2-928b-605b8ed623a3",
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "isList": false
+        },
+        {
+          "id": "26a1df2b-da76-4e59-862d-3f9df5fd34b3",
+          "dataType": "@QPEAKG3",
+          "name": "QPEAKG3",
+          "value": "$QPEAKG3",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Q.PEAK G3.1 documents are in https://hqamericas.app.box.com/files/0/f/11378234381/Q.PEAK_G3.1 . Any other document I can hep you with?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500687393922,
+  "fallbackIntent": false,
+  "events": []
+}

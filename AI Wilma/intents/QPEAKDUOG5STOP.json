@@ -1,0 +1,40 @@
+{
+  "id": "73331085-530f-4046-9ffe-28539a49cab2",
+  "name": "QPEAKDUOG5STOP",
+  "auto": true,
+  "contexts": [
+    "QPEAKDUOG5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKDUOG5STOP-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Good you got what\u0027s needed. Bye for now."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "slack": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515052372,
+  "fallbackIntent": false,
+  "events": []
+}

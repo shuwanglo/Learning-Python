@@ -1,0 +1,46 @@
+[
+  {
+    "id": "c403c53d-2e48-41b0-86c0-7f7e1a368a62",
+    "data": [
+      {
+        "text": "Have a nice day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75f2cea3-da4f-4271-aa92-4da010b7454d",
+    "data": [
+      {
+        "text": "Talk to you later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5edd1f26-f121-45dc-be0b-df3d377cd9ff",
+    "data": [
+      {
+        "text": "Bye for now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3409288f-35ae-4d2f-9381-440cd3aed710",
+    "data": [
+      {
+        "text": "Great. Thanks.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

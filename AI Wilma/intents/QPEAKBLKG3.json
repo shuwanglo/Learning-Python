@@ -1,0 +1,75 @@
+{
+  "id": "a6176270-df2d-4660-b342-c64a7e5a29c3",
+  "name": "QPEAKBLKG3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKBLKG3",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "QPEAKBLKG3-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d9061c41-a712-4bc3-9c4d-de7435d5ad64",
+          "dataType": "@QPEAKBLKG3",
+          "name": "QPEAKBLKG3",
+          "value": "$QPEAKBLKG3",
+          "isList": false
+        },
+        {
+          "id": "a88cbb8d-45d3-4939-8961-ad1306a612fe",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "193f3198-e4b0-4f30-b6aa-1c190b29b00e",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "5791ac2a-985a-4358-ad01-70bdf167cad2",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PEAK BLK G3 documents are in https://hqamericas.app.box.com/files/0/f/3071142781/Q.PEAK_BLK_G3. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PEAK BLK G3 documents in https://hqamericas.app.box.com/files/0/f/3071142781/Q.PEAK_BLK_G3. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PEAK BLK G3 documents can be found in https://hqamericas.app.box.com/files/0/f/3071142781/Q.PEAK_BLK_G3. Contact Wai if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501980774,
+  "fallbackIntent": false,
+  "events": []
+}

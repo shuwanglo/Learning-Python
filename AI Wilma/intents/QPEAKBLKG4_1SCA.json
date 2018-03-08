@@ -1,0 +1,52 @@
+{
+  "id": "c1a0b415-2164-43f1-a638-3f6e67a42419",
+  "name": "QPEAKBLKG4_1SCA",
+  "auto": true,
+  "contexts": [
+    "QtmMono60G4_1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9771bc92-e554-4247-8134-99a49946e38a",
+          "dataType": "@QPEAKBLKG4_1SC",
+          "name": "QPEAKBLKG4_1SC",
+          "value": "$QPEAKBLKG4_1SC",
+          "isList": false
+        },
+        {
+          "id": "0736e229-3bc9-41e8-b018-b61a9e78265b",
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "isList": false
+        },
+        {
+          "id": "f1e92c9f-b9fb-45c1-a55e-23462c817016",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This product is under development"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500687371585,
+  "fallbackIntent": false,
+  "events": []
+}

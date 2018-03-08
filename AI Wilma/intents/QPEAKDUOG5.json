@@ -1,0 +1,55 @@
+{
+  "id": "fd2280ce-cc98-4feb-86b9-b5ea8bd969c5",
+  "name": "QPEAKDUOG5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKDUOG5",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8e26934e-2f87-4e78-adac-10ae6cf6c4f7",
+          "required": false,
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "706dc00a-1285-4026-bf27-0ab3ac4f4a22",
+          "required": false,
+          "dataType": "@QPEAKDUOG5",
+          "name": "QPEAKDUOG5",
+          "value": "$QPEAKDUOG5",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can find Q.PEAK DUO G5 documents in https://hqamericas.app.box.com/folder/34083325609. Is there any other document I can help you with?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "slack": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515052144,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "6a18dc82-14e9-4c62-a55c-1b41e090aea5",
+  "parentId": "9b9a7673-3f18-48b7-b8bc-d521ad703947",
+  "rootParentId": "9b9a7673-3f18-48b7-b8bc-d521ad703947",
+  "name": "QPEAKDUO144STOPBye",
+  "auto": true,
+  "contexts": [
+    "QPEAKDUO144STOP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "QPEAKDUO144STOP.QPEAKDUO144STOP-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "slack": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

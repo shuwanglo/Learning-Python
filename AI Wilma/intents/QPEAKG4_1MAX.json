@@ -1,0 +1,82 @@
+{
+  "id": "8a2c1512-3583-4310-84de-7b41065b6e07",
+  "name": "QPEAKG4_1MAX",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKG4_1MAX",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b7273176-a04c-4734-aeac-7a4f01ec94f6",
+          "required": false,
+          "dataType": "@QPEAKG4_1MAX",
+          "name": "QPEAKG4_1MAX",
+          "value": "$QPEAKG4_1MAX",
+          "isList": false
+        },
+        {
+          "id": "b19eb6dd-7124-4b4c-9be6-1c8cbc83b289",
+          "required": false,
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "b1fb4411-0ee5-42ff-8f48-60c44718e0b2",
+          "required": false,
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "1585c472-97e7-45ce-ba08-3b5f7e7d2453",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "f55650e5-6a68-4431-92aa-d8f6195b9676",
+          "required": false,
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PEAK G4.1/MAX documents are in https://hqamericas.app.box.com/files/0/f/18737158437/Q.PEAK_G4.1-MAX. Contact Wai if you cannot find them. Contact Wai if you cannot find them.  Any other document I can help you with?",
+            "You can find the Q.PEAK G4.1/MAX documents in https://hqamericas.app.box.com/files/0/f/18737158437/Q.PEAK_G4.1-MAX. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PEAK G4.1/MAX documents can be found in https://hqamericas.app.box.com/files/0/f/18737158437/Q.PEAK_G4.1-MAX. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501960621,
+  "fallbackIntent": false,
+  "events": []
+}

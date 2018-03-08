@@ -1,0 +1,70 @@
+{
+  "id": "162bfc0a-6623-4dec-b43f-e1a4c00245fc",
+  "name": "QPEAKBLKG3_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPEAKBLKG3_1",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1020682c-b034-42cc-9b11-0a45aab21b2a",
+          "dataType": "@QPEAKBLKG3_1",
+          "name": "QPEAKBLKG3_1",
+          "value": "$QPEAKBLKG3_1",
+          "isList": false
+        },
+        {
+          "id": "6269c56f-a736-474b-8dbb-c6331e61af8e",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "db16ba15-af8c-4220-bce1-84e870c2e565",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "ad26d534-b7ee-4ac0-a2e4-e8fc9f888f0f",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PEAK BLK G3.1 documents are in https://hqamericas.app.box.com/files/0/f/11789997274/Q.PEAK_BLK_G3.1 . Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PEAK BLK G3.1 documents in https://hqamericas.app.box.com/files/0/f/11789997274/Q.PEAK_BLK_G3.1. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PEAK BLk G3.1 documents can be found in https://hqamericas.app.box.com/files/0/f/11789997274/Q.PEAK_BLK_G3.1. Contact Wai if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501960430,
+  "fallbackIntent": false,
+  "events": []
+}

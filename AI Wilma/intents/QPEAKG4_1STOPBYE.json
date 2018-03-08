@@ -1,0 +1,36 @@
+{
+  "id": "bf64bd73-9237-4988-9717-8f689cbe4243",
+  "parentId": "4d552fb4-da28-4d43-bef6-aff867980ffe",
+  "rootParentId": "4d552fb4-da28-4d43-bef6-aff867980ffe",
+  "name": "QPEAKG4_1STOPBYE",
+  "auto": true,
+  "contexts": [
+    "QPEAKG4_1STOP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "QPEAKG4_1STOP.QPEAKG4_1STOP-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500777290,
+  "fallbackIntent": false,
+  "events": []
+}
