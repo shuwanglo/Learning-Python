@@ -1,0 +1,77 @@
+{
+  "id": "3b55a746-bfd5-49ed-b0e5-e377490dd525",
+  "name": "QPROBFRG3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPROBFRG3",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8f2dec3c-5f0e-4195-b63b-7b9c96d52a34",
+          "dataType": "@QPROBFRG3",
+          "name": "QPROBFRG3",
+          "value": "$QPROBFRG3",
+          "isList": false
+        },
+        {
+          "id": "ad96d18c-cfb8-4b2f-92c3-2e1c477121b7",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "5367a98f-5c27-4005-9912-37b686d9bb8a",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "b2c03e67-f42d-428d-93fc-ad26d651770c",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "adee97a3-fcb9-4de4-81f7-4bd02de3b347",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PRO BFR G3 documents are in https://hqamericas.app.box.com/files/0/f/3248210612/Q.PRO_BFR_G3. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PRO BFR G3 documents in https://hqamericas.app.box.com/files/0/f/3248210612/Q.PRO_BFR_G3. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PRO BFR G3 documents can be found in https://hqamericas.app.box.com/files/0/f/3248210612/Q.PRO_BFR_G3. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501957803,
+  "fallbackIntent": false,
+  "events": []
+}

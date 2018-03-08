@@ -1,0 +1,77 @@
+{
+  "id": "89fc6bb6-1ca6-4e34-b518-3de8d3c5f90e",
+  "name": "QPROG4SC",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPROG4SC",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "751da2fc-be8b-488f-bb7b-b423ddf4d6f0",
+          "dataType": "@QPROG4SC",
+          "name": "QPROG4SC",
+          "value": "$QPROG4SC",
+          "isList": false
+        },
+        {
+          "id": "210ca0be-ff46-4696-9863-644a47b2c6e8",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "95c2de3a-f635-463e-8d8c-6b5de4453963",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "be9ffb99-6587-452b-9b79-1fc6c114b6e6",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "f71055b3-c277-4f06-a13a-ca1ac0983c8b",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PRO G4/SC documents are in https://hqamericas.app.box.com/files/0/f/3319266574/Q.PRO_G4-SC. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PRO G4/SC documents in https://hqamericas.app.box.com/files/0/f/3319266574/Q.PRO_G4-SC. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PRO G4/SC documents can be found in https://hqamericas.app.box.com/files/0/f/3319266574/Q.PRO_G4-SC. Contact Wai if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501979150,
+  "fallbackIntent": false,
+  "events": []
+}

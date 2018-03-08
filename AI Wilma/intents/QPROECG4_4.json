@@ -1,0 +1,91 @@
+{
+  "id": "8fb087ed-b7c8-4fda-aaa7-86a20730dc16",
+  "name": "QPROECG4_4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPROECG4_4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ec04d4bf-6ffb-421c-8235-551bcd6ea2d7",
+          "dataType": "@QPROECG4_4",
+          "name": "QPROECG4_4",
+          "value": "$QPROECG4_4",
+          "isList": false
+        },
+        {
+          "id": "70f6031e-47fb-41a8-83d0-2f09fcb64110",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "305a13c5-6ae9-47d8-a919-3aeb3c626f55",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "8003174f-3e6e-4f04-8271-6765d0745742",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "44c0fd68-316d-4f23-b191-e96f10e03871",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        },
+        {
+          "id": "ba0358fe-761e-4a57-9ca4-3759aa899f8f",
+          "dataType": "@QPLUSG4",
+          "name": "QPLUSG4",
+          "value": "$QPLUSG4",
+          "isList": false
+        },
+        {
+          "id": "b85f1d79-0500-454d-9459-a41b9c41fdb4",
+          "dataType": "@QPLUSG4",
+          "name": "QPLUSG41",
+          "value": "$QPLUSG41",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PRO EC G4.4 documents are in https://hqamericas.app.box.com/files/0/f/6292247221/Q.PRO_EC_G4.4. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PRO EC G4.4 documents in https://hqamericas.app.box.com/files/0/f/6292247221/Q.PRO_EC_G4.4. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PRO EC G4.4 documents can be found in https://hqamericas.app.box.com/files/0/f/6292247221/Q.PRO_EC_G4.4. Contact Wai if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501961320,
+  "fallbackIntent": false,
+  "events": []
+}

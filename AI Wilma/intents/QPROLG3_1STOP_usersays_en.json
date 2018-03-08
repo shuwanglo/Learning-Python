@@ -1,0 +1,110 @@
+[
+  {
+    "id": "c0638ab2-f53a-4bdc-b9ac-9d3ed48cce56",
+    "data": [
+      {
+        "text": "That\u0027s it for the day.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "60410d93-b41a-4604-8ae3-6fb39542c34b",
+    "data": [
+      {
+        "text": "No, that\u0027s all I need.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28c4c75f-40a4-42e6-907f-50f4244d25f9",
+    "data": [
+      {
+        "text": "No, thanks.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cbac0d3-ec0f-4385-a89d-7a2d20a8b9ae",
+    "data": [
+      {
+        "text": "That\u0027s all.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b22e756-7328-4408-8cc4-b3d2eab87a1a",
+    "data": [
+      {
+        "text": "That\u0027s all I need",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "165f0ef4-2a6a-40ac-98ab-f0aa46daf7b0",
+    "data": [
+      {
+        "text": "That\u0027s it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7200a17-df11-484f-8714-2b1908c10e72",
+    "data": [
+      {
+        "text": "No, that\u0027s it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffaf382a-82a8-4dd7-8434-eaf0e8c00b45",
+    "data": [
+      {
+        "text": "NOT REALLY",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8394ffdd-378e-4737-9234-949054da9fb0",
+    "data": [
+      {
+        "text": "NO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

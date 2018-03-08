@@ -1,0 +1,74 @@
+{
+  "id": "9f4c34c8-8783-4d59-9a7b-f0f530e64ec2",
+  "name": "QPROBFRG4_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QROBFRG4_1",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ebb83db4-bb9f-41de-9aba-04604d2d8f8e",
+          "dataType": "@QPROBFRG4_1",
+          "name": "QPROBFRG4_1",
+          "value": "$QPROBFRG4_1",
+          "isList": false
+        },
+        {
+          "id": "3da11708-92dd-43f0-a349-fd89975b5722",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "660dfc41-2783-4d11-a715-571256e9da19",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "97ef1530-d77f-43c8-a902-9388ceb62733",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "486c1e3a-33f8-49d5-9dbf-4df38d2649b6",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PRO BFR G4.1 documents are in https://hqamericas.app.box.com/files/0/f/5016078333/Q.PRO_BFR_G4.1. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PRO BFR G4.1 documents in https://hqamericas.app.box.com/files/0/f/5016078333/Q.PRO_BFR_G4.1. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PRO BFR G4.1 documents can be found in https://hqamericas.app.box.com/files/0/f/5016078333/Q.PRO_BFR_G4.1. Wai can help you if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501958108,
+  "fallbackIntent": false,
+  "events": []
+}

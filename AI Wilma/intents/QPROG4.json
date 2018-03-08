@@ -1,0 +1,77 @@
+{
+  "id": "c66c0b6a-4d93-49aa-9b5a-cc47e170e745",
+  "name": "QPROG4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPROG4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4063e794-c893-4756-a2a9-c022559e4318",
+          "dataType": "@QPROG4",
+          "name": "QPROG4",
+          "value": "$QPROG4",
+          "isList": false
+        },
+        {
+          "id": "f6fa05b6-3d86-42da-9663-527d893973e0",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "7117a5c3-cb53-478e-90c4-f0b63232ccbd",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "863aa661-02cd-49cc-b1b7-7ce27f63dc0f",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "b998dec2-ed50-44a0-9c54-091d33fd9051",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PRO G4 documents are in https://hqamericas.app.box.com/files/0/f/3071092893/Q.PRO_G4. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PRO G4 documents in https://hqamericas.app.box.com/files/0/f/3071092893/Q.PRO_G4. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PRO G4 documents can be found in https://hqamericas.app.box.com/files/0/f/3071092893/Q.PRO_G4. Contact Wai if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1502040065,
+  "fallbackIntent": false,
+  "events": []
+}

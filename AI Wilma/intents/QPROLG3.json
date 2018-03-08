@@ -1,0 +1,77 @@
+{
+  "id": "a8322b10-851b-46c3-bf63-0b3719ac24a3",
+  "name": "QPROLG3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPROLG3",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f96e2a55-71bf-481a-a9f2-28ec2a1e425b",
+          "dataType": "@QPROLG3",
+          "name": "QPROLG3",
+          "value": "$QPROLG3",
+          "isList": false
+        },
+        {
+          "id": "cff8e808-aecb-41ab-a41f-fa7f0b716d74",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "15b64f8f-3ddf-4925-8bfd-510db6467ad5",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "e2871ea6-11bb-4bf2-97cd-73fd1b591c61",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "68a3fab0-2610-4edb-a83a-c3bdddf7e352",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PRO L G3 documents are in https://hqamericas.app.box.com/files/0/f/3247709308/Q.PRO_L_G3_(S_Energy_-_changed_to_Jabil). Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PRO L G3 documents in https://hqamericas.app.box.com/files/0/f/3247709308/Q.PRO_L_G3_(S_Energy_-_changed_to_Jabil). Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PRO L G3 documents can be found in https://hqamericas.app.box.com/files/0/f/3247709308/Q.PRO_L_G3_(S_Energy_-_changed_to_Jabil). Contact Wai if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501980022,
+  "fallbackIntent": false,
+  "events": []
+}

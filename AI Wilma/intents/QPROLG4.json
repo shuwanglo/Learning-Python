@@ -1,0 +1,77 @@
+{
+  "id": "a5520678-9546-44b2-9fa7-3b0539b08402",
+  "name": "QPROLG4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPROLG4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "58da1745-14ed-4838-9818-b92c64794eb6",
+          "dataType": "@QPROLG4",
+          "name": "QPROLG4",
+          "value": "$QPROLG4",
+          "isList": false
+        },
+        {
+          "id": "5b85c1b5-67f2-43ec-8f72-53e305c260c9",
+          "dataType": "@ProdDepDoc",
+          "name": "ProdDepDoc",
+          "value": "$ProdDepDoc",
+          "isList": false
+        },
+        {
+          "id": "3d16ff99-50f1-43d3-a2b5-6de274058875",
+          "dataType": "@ProdIndepDoc",
+          "name": "ProdIndepDoc",
+          "value": "$ProdIndepDoc",
+          "isList": false
+        },
+        {
+          "id": "9456a886-e587-45c1-bd94-7f5e2b39cf3d",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "acea1be1-0970-44e8-822d-79d1a2cde0a4",
+          "dataType": "@User",
+          "name": "User",
+          "value": "$User",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q.PRO L G4 documents are in https://hqamericas.app.box.com/files/0/f/3530372115/Q.PRO_L_G4. Contact Wai if you cannot find them. Any other document I can help you with?",
+            "You can find the Q.PRO L G4 documents in https://hqamericas.app.box.com/files/0/f/3530372115/Q.PRO_L_G4. Contact Wai if you cannot find them. What\u0027s next document you need?",
+            "Q.PRO L G4 documents can be found in https://hqamericas.app.box.com/files/0/f/3530372115/Q.PRO_L_G4. Contact Wai if you cannot find them. What\u0027s the next one?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1501980206,
+  "fallbackIntent": false,
+  "events": []
+}

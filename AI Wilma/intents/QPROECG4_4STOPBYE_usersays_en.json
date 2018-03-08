@@ -1,0 +1,86 @@
+[
+  {
+    "id": "882c63c4-b640-49f6-bf9d-188ba1421e24",
+    "data": [
+      {
+        "text": "Thanks for your help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1500784338
+  },
+  {
+    "id": "85ee7910-78f1-4b79-b6ae-fa6d138c5f82",
+    "data": [
+      {
+        "text": "Good job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500784338
+  },
+  {
+    "id": "8678a862-b35a-4844-bf25-baa8bb584c82",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500784338
+  },
+  {
+    "id": "a3ec476f-1838-43d3-8abc-7f7133219adc",
+    "data": [
+      {
+        "text": "Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500784338
+  },
+  {
+    "id": "55f1b1a0-7024-44dd-b112-40330f7c8d1f",
+    "data": [
+      {
+        "text": "Talk to you again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500784338
+  },
+  {
+    "id": "911424fb-61df-4d2c-a736-c06e529350ff",
+    "data": [
+      {
+        "text": "Talk to you later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500784338
+  },
+  {
+    "id": "2e652987-3c21-4014-93db-f15467efefcb",
+    "data": [
+      {
+        "text": "Have a nice day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500784338
+  }
+]

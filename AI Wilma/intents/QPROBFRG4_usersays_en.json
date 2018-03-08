@@ -1,0 +1,498 @@
+[
+  {
+    "id": "7e95820b-7afa-4bad-a688-2f520aa1111e",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. Need you help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRO BFR G4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "tuv certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957963
+  },
+  {
+    "id": "a93fa140-c269-412a-8ecb-a8f64197e959",
+    "data": [
+      {
+        "text": "Wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. Can you get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRO BFR G4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "ul certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957963
+  },
+  {
+    "id": "a4fc9e85-1892-4f05-ba91-884048b3c129",
+    "data": [
+      {
+        "text": "Wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. Can you get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRO BFR G4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " document?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957963
+  },
+  {
+    "id": "3e58868b-4a92-4924-915d-a288e078f287",
+    "data": [
+      {
+        "text": "Q.PRO BFR G4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "warranty",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957963
+  },
+  {
+    "id": "46ff06b7-adc7-4939-a63b-1d1316449df6",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. need your help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRO BFR G4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957963
+  },
+  {
+    "id": "1bb8f110-fb60-4f29-af30-625a585e15ea",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. can you help me getting a ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRO BFR G4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957963
+  },
+  {
+    "id": "fc5bd29b-6776-4860-b12c-d5d8ae8c42a5",
+    "data": [
+      {
+        "text": "wai",
+        "alias": "User",
+        "meta": "@User",
+        "userDefined": false
+      },
+      {
+        "text": " here. would really appreciate if you can help getting the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRO BFR G4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957963
+  },
+  {
+    "id": "9621f298-963d-48d1-ba9c-e9ffcf30060b",
+    "data": [
+      {
+        "text": "wilma",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": ", can you please get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRO BFR G4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501957963
+  },
+  {
+    "id": "2eea5518-0797-4542-8a4b-2bb44b7f75a7",
+    "data": [
+      {
+        "text": "I need the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRO BFR G4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "808074ea-88f9-4181-8a7f-1ff3b467381f",
+    "data": [
+      {
+        "text": "Give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PRO BFR G4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CSA certificate",
+        "alias": "ProdIndepDoc",
+        "meta": "@ProdIndepDoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2edefae5-0cd3-4d56-8ada-927659065a3c",
+    "data": [
+      {
+        "text": "Q.PRO BFR G4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "datasheet",
+        "alias": "ProdDepDoc",
+        "meta": "@ProdDepDoc",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5c1ef98-9c38-49cd-b3cc-b5df99769fc8",
+    "data": [
+      {
+        "text": "qprobfrg4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2a0182fc-31c1-4c83-8daa-99907ef5f23e",
+    "data": [
+      {
+        "text": "qprobfr g4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e06e9176-ca1e-4778-ae3e-4a943cdc493d",
+    "data": [
+      {
+        "text": "qpro bfrg4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e175615-ca65-40b5-aafd-5ae77e245636",
+    "data": [
+      {
+        "text": "qpro bfr g4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39092034-4154-4811-badd-b6fd8cfa9520",
+    "data": [
+      {
+        "text": "q.probfrg4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adb5134c-4119-4007-9a3b-efd56c5b6de2",
+    "data": [
+      {
+        "text": "q.probfr g4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ed9865a-fa03-4467-b7cb-d1fd3b88f449",
+    "data": [
+      {
+        "text": "q.pro bfrg4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e76e2cf0-2633-4e30-afee-5787643ad09d",
+    "data": [
+      {
+        "text": "q.pro bfr g4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "650086b2-26d1-4266-9dc5-a9650cb30738",
+    "data": [
+      {
+        "text": "@",
+        "userDefined": false
+      },
+      {
+        "text": "QPROBFRG4",
+        "alias": "QPROBFRG4",
+        "meta": "@QPROBFRG4",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
