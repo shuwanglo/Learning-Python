@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Fire Test",
+    "synonyms": [
+      "UL fire test",
+      "UL fire test certificate",
+      "ul fire rating",
+      "fire test",
+      "fire type",
+      "fire",
+      "IEC fire test",
+      "IEC fire class",
+      "IEC fire rating",
+      "UL fire class"
+    ]
+  },
+  {
+    "value": "Salt Mist Test Certificate",
+    "synonyms": [
+      "Salt Mist Test Certificate",
+      "salt fog test certificate",
+      "salt mist test",
+      "salt fog test",
+      "salt test",
+      "salt mist certificate",
+      "salt fog certificate",
+      "salt certificate"
+    ]
+  },
+  {
+    "value": "Hail Test Certificate",
+    "synonyms": [
+      "Hail Test Certificate",
+      "Ice Ball test certificate",
+      "hail test",
+      "ice ball test",
+      "hail certificate",
+      "ice ball certificate"
+    ]
+  },
+  {
+    "value": "SUBUL",
+    "synonyms": [
+      "SUBUL"
+    ]
+  }
+]

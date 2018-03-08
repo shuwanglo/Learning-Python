@@ -1,0 +1,352 @@
+[
+  {
+    "value": "Bob",
+    "synonyms": [
+      "Bob",
+      "Bob R",
+      "Bob R.",
+      "Bob Rowatt",
+      "Rowatt"
+    ]
+  },
+  {
+    "value": "Dennis",
+    "synonyms": [
+      "dennis",
+      "dennis chang",
+      "dennis c",
+      "dennis c.",
+      "Chang"
+    ]
+  },
+  {
+    "value": "Mofe",
+    "synonyms": [
+      "Mofe",
+      "Mofe S",
+      "Mofe S.",
+      "Mofe S",
+      "Mofe Stallings",
+      "Stallings"
+    ]
+  },
+  {
+    "value": "Justin",
+    "synonyms": [
+      "Justin",
+      "Justin Lee",
+      "Justin L.",
+      "Justin L"
+    ]
+  },
+  {
+    "value": "Shane",
+    "synonyms": [
+      "Shane",
+      "Shane Kim",
+      "Shane K.",
+      "Shane K"
+    ]
+  },
+  {
+    "value": "Howard",
+    "synonyms": [
+      "Howard",
+      "Howard Noh",
+      "Howard N",
+      "Howard N.",
+      "Hwal Noh",
+      "Hwal N.",
+      "Hwal N"
+    ]
+  },
+  {
+    "value": "Martin",
+    "synonyms": [
+      "Martin",
+      "Martin Park",
+      "Martin P.",
+      "Partin P"
+    ]
+  },
+  {
+    "value": "Sam",
+    "synonyms": [
+      "Sam",
+      "Sam Yoon",
+      "Sam Y.",
+      "Sam Y"
+    ]
+  },
+  {
+    "value": "Mike",
+    "synonyms": [
+      "Mike",
+      "Mike Blyzka",
+      "Mike B.",
+      "Mike B",
+      "Michael",
+      "Michael Blyzka",
+      "Michael B.",
+      "Michael B",
+      "Blyzka"
+    ]
+  },
+  {
+    "value": "Joseph",
+    "synonyms": [
+      "Joseph",
+      "Joseph Park",
+      "Joseph P.",
+      "Joseph P"
+    ]
+  },
+  {
+    "value": "Dawson",
+    "synonyms": [
+      "Dawson",
+      "Dawson Rauch",
+      "Dawson R.",
+      "Dawson R",
+      "Rauch"
+    ]
+  },
+  {
+    "value": "Chris",
+    "synonyms": [
+      "Chris",
+      "Chris An",
+      "Chris A.",
+      "Chris A"
+    ]
+  },
+  {
+    "value": "Wai",
+    "synonyms": [
+      "Wai",
+      "Wai Lo",
+      "Wai L.",
+      "Wai L"
+    ]
+  },
+  {
+    "value": "Ralph",
+    "synonyms": [
+      "Ralph",
+      "Ralph Alvarado",
+      "Ralph A.",
+      "Ralph A",
+      "Alvarado"
+    ]
+  },
+  {
+    "value": "Katie",
+    "synonyms": [
+      "Katie",
+      "Katie Kim",
+      "Katie K.",
+      "Katie K"
+    ]
+  },
+  {
+    "value": "Angie",
+    "synonyms": [
+      "Angie",
+      "Angie Lee",
+      "Angie L.",
+      "Angie L"
+    ]
+  },
+  {
+    "value": "Jezetta",
+    "synonyms": [
+      "Jezetta",
+      "Jezetta Johnson",
+      "Jezetta J.",
+      "Jezetta J"
+    ]
+  },
+  {
+    "value": "Reuben",
+    "synonyms": [
+      "Reuben",
+      "Reuben Torres",
+      "Reuben R.",
+      "Reuben R"
+    ]
+  },
+  {
+    "value": "Shaun",
+    "synonyms": [
+      "Shaun",
+      "Shaun LaBelle",
+      "Shaun B.",
+      "Shaun B"
+    ]
+  },
+  {
+    "value": "Jesse",
+    "synonyms": [
+      "Jesse",
+      "Jesse Wilson",
+      "Jesse W.",
+      "Jesse W"
+    ]
+  },
+  {
+    "value": "Hank",
+    "synonyms": [
+      "Hank",
+      "Hank Choi",
+      "Hank C.",
+      "Hank C",
+      "Hoyong",
+      "Honyong Choi",
+      "Hoyong C.",
+      "Hoyong C"
+    ]
+  },
+  {
+    "value": "Andy",
+    "synonyms": [
+      "Andy",
+      "Andy Munro",
+      "Andy M.",
+      "Andy M"
+    ]
+  },
+  {
+    "value": "Jennipher",
+    "synonyms": [
+      "Jennipher",
+      "Jennipher Choi",
+      "Jennipher C.",
+      "Jennipher C"
+    ]
+  },
+  {
+    "value": "Miguel",
+    "synonyms": [
+      "Miguel",
+      "Miguel Medina",
+      "Miguel M.",
+      "Miguel M",
+      "Medina"
+    ]
+  },
+  {
+    "value": "Kevin",
+    "synonyms": [
+      "Kevin",
+      "Kevin McConnell",
+      "Kevin M.",
+      "Kevin M",
+      "McConnell"
+    ]
+  },
+  {
+    "value": "Josh",
+    "synonyms": [
+      "Josh",
+      "Josh Otermanns",
+      "Josh O.",
+      "Jose O"
+    ]
+  },
+  {
+    "value": "Andreas",
+    "synonyms": [
+      "Andreas",
+      "Andreas Gomez",
+      "Andreas G.",
+      "Andreas G",
+      "Gomez"
+    ]
+  },
+  {
+    "value": "Dean",
+    "synonyms": [
+      "Dean",
+      "Dean Lee",
+      "Dean L.",
+      "Dean L",
+      "Dongmin",
+      "Dongmin Lee",
+      "Dongmin L.",
+      "Dongmin L",
+      "D Lee",
+      "DL",
+      "D. L.",
+      "D L"
+    ]
+  },
+  {
+    "value": "Adrian",
+    "synonyms": [
+      "Adrian",
+      "Adrian Freeman",
+      "Adrian F.",
+      "Adrian F",
+      "Freeman"
+    ]
+  },
+  {
+    "value": "David",
+    "synonyms": [
+      "David",
+      "David Wen",
+      "David W.",
+      "David W",
+      "Wen"
+    ]
+  },
+  {
+    "value": "DJ",
+    "synonyms": [
+      "DJ",
+      "DJ Kim",
+      "DJ K.",
+      "DJ K"
+    ]
+  },
+  {
+    "value": "Ken",
+    "synonyms": [
+      "Ken",
+      "Ken Kostock",
+      "Ken K.",
+      "Ken K"
+    ]
+  },
+  {
+    "value": "Kisung",
+    "synonyms": [
+      "Kisung",
+      "Kisung Kim",
+      "Kisung K.",
+      "Kisung K"
+    ]
+  },
+  {
+    "value": "Nathan",
+    "synonyms": [
+      "Nathan",
+      "Nathan Rah",
+      "Nathan R.",
+      "Nathan R"
+    ]
+  },
+  {
+    "value": "Ron",
+    "synonyms": [
+      "Ron",
+      "Ronald",
+      "Ron Stephan",
+      "Ron S.",
+      "Ron S",
+      "Ronald Stephan",
+      "Ronald S.",
+      "Ronald S"
+    ]
+  }
+]
