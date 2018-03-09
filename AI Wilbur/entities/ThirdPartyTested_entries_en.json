@@ -1,0 +1,41 @@
+[
+  {
+    "value": "Third party tested",
+    "synonyms": [
+      "Third party tested"
+    ]
+  },
+  {
+    "value": "tested by an independent party",
+    "synonyms": [
+      "tested by an independent party",
+      "test by independent parties"
+    ]
+  },
+  {
+    "value": "tested by a 3rd party",
+    "synonyms": [
+      "tested by a 3rd party",
+      "tested by 3rd parties"
+    ]
+  },
+  {
+    "value": "3rd party tested",
+    "synonyms": [
+      "3rd party tested"
+    ]
+  },
+  {
+    "value": "independently tested",
+    "synonyms": [
+      "independently tested"
+    ]
+  },
+  {
+    "value": "tested by a third parties",
+    "synonyms": [
+      "tested by a third parties",
+      "tested by a third party"
+    ]
+  }
+]
