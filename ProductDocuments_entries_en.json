@@ -1,0 +1,110 @@
+[
+  {
+    "value": "IECCert",
+    "synonyms": [
+      "IECCert"
+    ]
+  },
+  {
+    "value": "PackagingTransportDocument",
+    "synonyms": [
+      "PackagingTransportDocument"
+    ]
+  },
+  {
+    "value": "datasheet",
+    "synonyms": [
+      "datasheet"
+    ]
+  },
+  {
+    "value": "ProductWarranty",
+    "synonyms": [
+      "ProductWarranty"
+    ]
+  },
+  {
+    "value": "ULCert",
+    "synonyms": [
+      "ULCert"
+    ]
+  },
+  {
+    "value": "InstallManual",
+    "synonyms": [
+      "InstallManual"
+    ]
+  },
+  {
+    "value": "ISOCert",
+    "synonyms": [
+      "ISOCert"
+    ]
+  },
+  {
+    "value": "OSHA18001Cert",
+    "synonyms": [
+      "OSHA18001Cert"
+    ]
+  },
+  {
+    "value": "NoxiousGasCert",
+    "synonyms": [
+      "NoxiousGasCert"
+    ]
+  },
+  {
+    "value": "OGPeCert",
+    "synonyms": [
+      "OGPeCert"
+    ]
+  },
+  {
+    "value": "PerformanceWarranty",
+    "synonyms": [
+      "PerformanceWarranty"
+    ]
+  },
+  {
+    "value": "QtestedCert",
+    "synonyms": [
+      "QtestedCert"
+    ]
+  },
+  {
+    "value": "HailTestCert",
+    "synonyms": [
+      "HailTestCert"
+    ]
+  },
+  {
+    "value": "SaltTestCert",
+    "synonyms": [
+      "SaltTestCert"
+    ]
+  },
+  {
+    "value": "IndependentTestReport",
+    "synonyms": [
+      "IndependentTestReport"
+    ]
+  },
+  {
+    "value": "warranty",
+    "synonyms": [
+      "warranty"
+    ]
+  },
+  {
+    "value": "PANFile",
+    "synonyms": [
+      "PANFile"
+    ]
+  },
+  {
+    "value": "AmmoniaCert",
+    "synonyms": [
+      "AmmoniaCert"
+    ]
+  }
+]

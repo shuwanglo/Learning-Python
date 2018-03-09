@@ -1,0 +1,43 @@
+[
+  {
+    "value": "provide",
+    "synonyms": [
+      "provide",
+      "provided"
+    ]
+  },
+  {
+    "value": "assist",
+    "synonyms": [
+      "assist",
+      "assisted"
+    ]
+  },
+  {
+    "value": "help with",
+    "synonyms": [
+      "help with"
+    ]
+  },
+  {
+    "value": "give",
+    "synonyms": [
+      "give",
+      "gave",
+      "given"
+    ]
+  },
+  {
+    "value": "offer",
+    "synonyms": [
+      "offer",
+      "offered"
+    ]
+  },
+  {
+    "value": "for",
+    "synonyms": [
+      "for"
+    ]
+  }
+]

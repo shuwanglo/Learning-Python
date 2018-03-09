@@ -1,0 +1,46 @@
+[
+  {
+    "value": "assemble",
+    "synonyms": [
+      "assemble",
+      "assembled",
+      "assembling",
+      "assembly"
+    ]
+  },
+  {
+    "value": "manufacture",
+    "synonyms": [
+      "manufacture",
+      "manfuactured",
+      "manufacturing"
+    ]
+  },
+  {
+    "value": "produce",
+    "synonyms": [
+      "produce",
+      "produced",
+      "producing"
+    ]
+  },
+  {
+    "value": "put together",
+    "synonyms": [
+      "put together"
+    ]
+  },
+  {
+    "value": "make",
+    "synonyms": [
+      "make",
+      "made"
+    ]
+  },
+  {
+    "value": "Production",
+    "synonyms": [
+      "Production"
+    ]
+  }
+]

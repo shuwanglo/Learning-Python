@@ -1,0 +1,37 @@
+[
+  {
+    "value": "@PVsystIAM",
+    "synonyms": [
+      "@PVsystIAM"
+    ]
+  },
+  {
+    "value": "@PVsystQualityMisMatchLoss",
+    "synonyms": [
+      "@PVsystQualityMisMatchLoss"
+    ]
+  },
+  {
+    "value": "Pvsyst setting",
+    "synonyms": [
+      "Pvsyst setting",
+      "pvsyst-setting",
+      "pvsyst settings",
+      "pvsyst-settings"
+    ]
+  },
+  {
+    "value": "PVsyst variables",
+    "synonyms": [
+      "PVsyst variables",
+      "pvsyst variable"
+    ]
+  },
+  {
+    "value": "PVsyst parameters",
+    "synonyms": [
+      "PVsyst parameters",
+      "pvsyst parameter"
+    ]
+  }
+]

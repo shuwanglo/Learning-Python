@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Q.Tested certificate",
+    "synonyms": [
+      "Q.Tested certificate",
+      "qtested certificate",
+      "q.test certificate",
+      "qtest certificate"
+    ]
+  },
+  {
+    "value": "q.test",
+    "synonyms": [
+      "q.test",
+      "qtest",
+      "q-test"
+    ]
+  },
+  {
+    "value": "q.tested",
+    "synonyms": [
+      "q.tested",
+      "qtested",
+      "q-tested"
+    ]
+  }
+]

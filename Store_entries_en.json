@@ -1,0 +1,22 @@
+[
+  {
+    "value": "storage",
+    "synonyms": [
+      "storage"
+    ]
+  },
+  {
+    "value": "keep",
+    "synonyms": [
+      "keep",
+      "kept"
+    ]
+  },
+  {
+    "value": "store",
+    "synonyms": [
+      "store",
+      "stored"
+    ]
+  }
+]

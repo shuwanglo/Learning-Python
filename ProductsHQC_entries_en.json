@@ -1,0 +1,86 @@
+[
+  {
+    "value": "QPRIMEG5",
+    "synonyms": [
+      "QPRIMEG5"
+    ]
+  },
+  {
+    "value": "QPLUSLG4",
+    "synonyms": [
+      "QPLUSLG4"
+    ]
+  },
+  {
+    "value": "QPOWERG5",
+    "synonyms": [
+      "QPOWERG5"
+    ]
+  },
+  {
+    "value": "QPEAKLG4_2",
+    "synonyms": [
+      "QPEAKLG4_2"
+    ]
+  },
+  {
+    "value": "QPEAKBLKG4_1",
+    "synonyms": [
+      "QPEAKBLKG4_1"
+    ]
+  },
+  {
+    "value": "QPEAKG4_1",
+    "synonyms": [
+      "QPEAKG4_1"
+    ]
+  },
+  {
+    "value": "QPEAKG4_1MAX",
+    "synonyms": [
+      "QPEAKG4_1MAX"
+    ]
+  },
+  {
+    "value": "QPLUSLG4_2",
+    "synonyms": [
+      "QPLUSLG4_2"
+    ]
+  },
+  {
+    "value": "QPEAKLG4_1",
+    "synonyms": [
+      "QPEAKLG4_1"
+    ]
+  },
+  {
+    "value": "QPRIMELG5",
+    "synonyms": [
+      "QPRIMELG5"
+    ]
+  },
+  {
+    "value": "QPRIMELG5_2",
+    "synonyms": [
+      "QPRIMELG5_2"
+    ]
+  },
+  {
+    "value": "QPEAKDUOG5",
+    "synonyms": [
+      "QPEAKDUOG5"
+    ]
+  },
+  {
+    "value": "QPOWERLG5_2",
+    "synonyms": [
+      "QPOWERLG5_2"
+    ]
+  },
+  {
+    "value": "QPEAKDUOLG5_2",
+    "synonyms": [
+      "QPEAKDUOLG5_2"
+    ]
+  }
+]
