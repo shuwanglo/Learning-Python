@@ -1,0 +1,60 @@
+[
+  {
+    "value": "Poly",
+    "synonyms": [
+      "Poly"
+    ]
+  },
+  {
+    "value": "Multi",
+    "synonyms": [
+      "Multi"
+    ]
+  },
+  {
+    "value": "Poly-cell",
+    "synonyms": [
+      "Poly-cell",
+      "Poly cell"
+    ]
+  },
+  {
+    "value": "Multi-crystalline cell",
+    "synonyms": [
+      "Multi-crystalline cell",
+      "Multi crystalline cell",
+      "Multicrystalline cell"
+    ]
+  },
+  {
+    "value": "Poly-crystalline",
+    "synonyms": [
+      "Poly-crystalline",
+      "Polycrystalline",
+      "Poly crystalline"
+    ]
+  },
+  {
+    "value": "Multi-cell",
+    "synonyms": [
+      "Multi-cell",
+      "Multi cell"
+    ]
+  },
+  {
+    "value": "Poly-crystalline cell",
+    "synonyms": [
+      "Poly-crystalline cell",
+      "Polycrystalline cell",
+      "Poly crystalline cell"
+    ]
+  },
+  {
+    "value": "Multi-crystalline",
+    "synonyms": [
+      "Multi-crystalline",
+      "Multicrystalline",
+      "multi crystalline"
+    ]
+  }
+]

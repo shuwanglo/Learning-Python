@@ -1,0 +1,39 @@
+[
+  {
+    "value": "Unprotected",
+    "synonyms": [
+      "Unprotected",
+      "un-protected"
+    ]
+  },
+  {
+    "value": "In the open",
+    "synonyms": [
+      "In the open"
+    ]
+  },
+  {
+    "value": "exposed",
+    "synonyms": [
+      "exposed"
+    ]
+  },
+  {
+    "value": "without cover",
+    "synonyms": [
+      "without cover"
+    ]
+  },
+  {
+    "value": "Uncovered",
+    "synonyms": [
+      "Uncovered"
+    ]
+  },
+  {
+    "value": "no cover",
+    "synonyms": [
+      "no cover"
+    ]
+  }
+]

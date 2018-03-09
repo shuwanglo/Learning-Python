@@ -1,0 +1,52 @@
+[
+  {
+    "value": "@IndependentReliabilityReport",
+    "synonyms": [
+      "@IndependentReliabilityReport"
+    ]
+  },
+  {
+    "value": "@IndependentIAMReport",
+    "synonyms": [
+      "@IndependentIAMReport"
+    ]
+  },
+  {
+    "value": "Third party test report",
+    "synonyms": [
+      "Third party test report",
+      "3rd party test report"
+    ]
+  },
+  {
+    "value": "@IndependentLIDReport",
+    "synonyms": [
+      "IndependentLIDReport"
+    ]
+  },
+  {
+    "value": "third party product test report",
+    "synonyms": [
+      "third party product test report",
+      "3rd party product test report"
+    ]
+  },
+  {
+    "value": "Independent test report",
+    "synonyms": [
+      "Independent test report"
+    ]
+  },
+  {
+    "value": "@IndependentPANValidReport",
+    "synonyms": [
+      "@IndependentPANValidReport"
+    ]
+  },
+  {
+    "value": "independent product test report",
+    "synonyms": [
+      "independent product test report"
+    ]
+  }
+]

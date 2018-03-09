@@ -1,0 +1,69 @@
+[
+  {
+    "value": "boost",
+    "synonyms": [
+      "boost",
+      "boosts",
+      "boosted"
+    ]
+  },
+  {
+    "value": "raise",
+    "synonyms": [
+      "raise",
+      "raising",
+      "raised",
+      "raises"
+    ]
+  },
+  {
+    "value": "increase",
+    "synonyms": [
+      "increase",
+      "increased",
+      "increasing",
+      "increases"
+    ]
+  },
+  {
+    "value": "gives more",
+    "synonyms": [
+      "gives more",
+      "give more",
+      "gave more",
+      "given more"
+    ]
+  },
+  {
+    "value": "promotes",
+    "synonyms": [
+      "promotes",
+      "promote",
+      "promoted"
+    ]
+  },
+  {
+    "value": "jet up",
+    "synonyms": [
+      "jet up",
+      "jet-up",
+      "jetted up",
+      "jets up"
+    ]
+  },
+  {
+    "value": "encourages",
+    "synonyms": [
+      "encourages",
+      "encourage",
+      "encouraged"
+    ]
+  },
+  {
+    "value": "results in more",
+    "synonyms": [
+      "results in more",
+      "resulted in more"
+    ]
+  }
+]

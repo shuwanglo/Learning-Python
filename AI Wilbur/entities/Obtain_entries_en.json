@@ -1,0 +1,44 @@
+[
+  {
+    "value": "acquire",
+    "synonyms": [
+      "acquire",
+      "acquired"
+    ]
+  },
+  {
+    "value": "take",
+    "synonyms": [
+      "take",
+      "took"
+    ]
+  },
+  {
+    "value": "find",
+    "synonyms": [
+      "find",
+      "found"
+    ]
+  },
+  {
+    "value": "obtain",
+    "synonyms": [
+      "obtain",
+      "obtained"
+    ]
+  },
+  {
+    "value": "get",
+    "synonyms": [
+      "get",
+      "got"
+    ]
+  },
+  {
+    "value": "get hold of",
+    "synonyms": [
+      "get hold of",
+      "got hold of"
+    ]
+  }
+]

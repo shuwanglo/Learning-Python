@@ -1,0 +1,37 @@
+[
+  {
+    "value": "DNV-GL LID report",
+    "synonyms": [
+      "DNV-GL LID report",
+      "DNV GL LID report",
+      "DNVGL LID report"
+    ]
+  },
+  {
+    "value": "Third party LID report",
+    "synonyms": [
+      "Third party LID report",
+      "3rd party LID report"
+    ]
+  },
+  {
+    "value": "Independent LID report",
+    "synonyms": [
+      "Independent LID report"
+    ]
+  },
+  {
+    "value": "Independent LID",
+    "synonyms": [
+      "Independent LID"
+    ]
+  },
+  {
+    "value": "DNV-GL LID",
+    "synonyms": [
+      "DNV-GL LID",
+      "DNV GL LID",
+      "DNVGL LID"
+    ]
+  }
+]

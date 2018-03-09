@@ -1,0 +1,40 @@
+[
+  {
+    "value": "included",
+    "synonyms": [
+      "included"
+    ]
+  },
+  {
+    "value": "composed of",
+    "synonyms": [
+      "composed of"
+    ]
+  },
+  {
+    "value": "made of",
+    "synonyms": [
+      "made of"
+    ]
+  },
+  {
+    "value": "made with",
+    "synonyms": [
+      "made with"
+    ]
+  },
+  {
+    "value": "part of",
+    "synonyms": [
+      "part of"
+    ]
+  },
+  {
+    "value": "consist of",
+    "synonyms": [
+      "consist of",
+      "consisted of",
+      "consisting of"
+    ]
+  }
+]

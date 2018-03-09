@@ -1,0 +1,113 @@
+[
+  {
+    "value": "Third party IAM report",
+    "synonyms": [
+      "Third party IAM report",
+      "3rd party IAM report"
+    ]
+  },
+  {
+    "value": "DNV-GL IAM results",
+    "synonyms": [
+      "DNV-GL IAM results",
+      "DNV GL IAM results",
+      "DNVGL IAM results"
+    ]
+  },
+  {
+    "value": "independent IAM measurement report",
+    "synonyms": [
+      "independent IAM measurement report"
+    ]
+  },
+  {
+    "value": "Independent IAM report",
+    "synonyms": [
+      "Independent IAM report"
+    ]
+  },
+  {
+    "value": "independent IAM results",
+    "synonyms": [
+      "independent IAM results"
+    ]
+  },
+  {
+    "value": "third party IAM results",
+    "synonyms": [
+      "third party IAM results",
+      "3rd party IAM results"
+    ]
+  },
+  {
+    "value": "third party IAM",
+    "synonyms": [
+      "third party IAM",
+      "3rd party IAM"
+    ]
+  },
+  {
+    "value": "IAM report",
+    "synonyms": [
+      "IAM report"
+    ]
+  },
+  {
+    "value": "DNV-GL IAM report",
+    "synonyms": [
+      "DNV-GL IAM report",
+      "DNV GL IAM report",
+      "DNVGL IAM report"
+    ]
+  },
+  {
+    "value": "independent IAM",
+    "synonyms": [
+      "independent IAM"
+    ]
+  },
+  {
+    "value": "DNV-GL IAM measurement reports",
+    "synonyms": [
+      "DNV-GL IAM measurement reports",
+      "DNV GL IAM measurement reports",
+      "DNVGL IAM measurement reports"
+    ]
+  },
+  {
+    "value": "third party IAM measurement report",
+    "synonyms": [
+      "third party IAM measurement report",
+      "3rd party IAM measurement report"
+    ]
+  },
+  {
+    "value": "independent IAM measurement results",
+    "synonyms": [
+      "independent IAM measurement results"
+    ]
+  },
+  {
+    "value": "DNV-GL IAM measurement results",
+    "synonyms": [
+      "DNV-GL IAM measurement results",
+      "DNV GL IAM measurement results",
+      "DNVGL IAM measurement results"
+    ]
+  },
+  {
+    "value": "third party IAM measurement results",
+    "synonyms": [
+      "third party IAM measurement results",
+      "3rd party IAM measurement results"
+    ]
+  },
+  {
+    "value": "DNV-GL IAM",
+    "synonyms": [
+      "DNV-GL IAM",
+      "DNV GL IAM",
+      "DNVGL IAM"
+    ]
+  }
+]
