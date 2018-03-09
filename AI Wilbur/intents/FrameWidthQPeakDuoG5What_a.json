@@ -1,0 +1,97 @@
+{
+  "id": "0af7c151-82f4-4e37-93b8-618d30efba75",
+  "name": "FrameWidthQPeakDuoG5What_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FrameWidthQPeakDuoG5What_a",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8f49a7a7-ee88-4873-befd-aae9a675b3e9",
+          "dataType": "@Width",
+          "name": "Width",
+          "value": "$Width",
+          "isList": false
+        },
+        {
+          "id": "c7ffb4b5-8a54-4857-b452-51056887f3fe",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "3f41a022-0cb6-4f60-9ca5-5615a83cfdb4",
+          "dataType": "@QPEAKDUOG5",
+          "name": "QPEAKDUOG5",
+          "value": "$QPEAKDUOG5",
+          "isList": false
+        },
+        {
+          "id": "539f6ff8-d2fb-48a8-96d6-ced0b6bf2612",
+          "dataType": "@FrameWidth",
+          "name": "FrameWidth",
+          "value": "$FrameWidth",
+          "isList": false
+        },
+        {
+          "id": "df244c89-0be5-4441-92d6-e628013caf10",
+          "dataType": "@How",
+          "name": "How",
+          "value": "$How",
+          "isList": false
+        },
+        {
+          "id": "7469de43-2676-42b0-a9ac-109aaaf6dd21",
+          "dataType": "@Product",
+          "name": "Product",
+          "value": "$Product",
+          "isList": false
+        },
+        {
+          "id": "5b44428c-d8df-4ede-bc7e-d5a33dd64c6e",
+          "dataType": "@Frame",
+          "name": "Frame",
+          "value": "$Frame",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The width of each Q.PEAK DUO G5 module is 1000 mm or 39.4 inches."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510119129644,
+  "fallbackIntent": false,
+  "events": []
+}

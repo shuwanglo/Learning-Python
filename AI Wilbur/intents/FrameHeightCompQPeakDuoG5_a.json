@@ -1,0 +1,118 @@
+{
+  "id": "32dd4c42-41dd-4253-b6f8-a06634d9d838",
+  "name": "FrameHeightCompQPeakDuoG5_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FrameHeightCompQPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "98b41295-064d-4cc9-8773-31baa993130e",
+          "dataType": "@Height",
+          "name": "Height",
+          "value": "$Height",
+          "isList": true
+        },
+        {
+          "id": "e9bb37b3-ed91-4601-830a-a13294b18771",
+          "dataType": "@Same",
+          "name": "Same",
+          "value": "$Same",
+          "isList": false
+        },
+        {
+          "id": "0f426fcf-6b6f-4a3c-aa33-58c39c4d2a4e",
+          "dataType": "@Product",
+          "name": "Product",
+          "value": "$Product",
+          "isList": false
+        },
+        {
+          "id": "1212bc8b-bf7d-4f1a-bf6b-4f50857183e9",
+          "dataType": "@FrameHeight",
+          "name": "FrameHeight",
+          "value": "$FrameHeight",
+          "isList": false
+        },
+        {
+          "id": "5f43856a-d7a0-4106-b029-42614141638b",
+          "dataType": "@How",
+          "name": "How",
+          "value": "$How",
+          "isList": false
+        },
+        {
+          "id": "b666c54b-94c9-4c8e-b93d-ae6375320d94",
+          "dataType": "@Compare",
+          "name": "Compare",
+          "value": "$Compare",
+          "isList": false
+        },
+        {
+          "id": "fff7410d-abef-4434-986d-beaeea4200b5",
+          "dataType": "@QPEAKDUOG5",
+          "name": "QPEAKDUOG5",
+          "value": "$QPEAKDUOG5",
+          "isList": false
+        },
+        {
+          "id": "96efcd6e-c088-4298-a5e4-dee4e0f6e6bc",
+          "dataType": "@Thickness",
+          "name": "Thickness",
+          "value": "$Thickness",
+          "isList": false
+        },
+        {
+          "id": "a7c0e98b-a17a-4da5-9bdc-01565aaa7111",
+          "dataType": "@Frame",
+          "name": "Frame",
+          "value": "$Frame",
+          "isList": false
+        },
+        {
+          "id": "eb22422b-6898-47ae-9891-342b8caac745",
+          "dataType": "@Thicker",
+          "name": "Thicker",
+          "value": "$Thicker",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The height of the Q.PEAK DUO G5 frame is the same as the recent full-cell modules, such as Q.PEAK G4.1, but it may be different from modules manufactured a few years ago. Most likely it is different from modules from other manufacturers. Please check with Wai (wai.lo@us.q-cells.com, 650-391-3108) if you want to make sure it is the same as a specific module."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510120865490,
+  "fallbackIntent": false,
+  "events": []
+}

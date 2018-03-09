@@ -1,0 +1,154 @@
+[
+  {
+    "id": "c3ea720e-8db7-4ecf-9a57-6ae9ad68c88f",
+    "data": [
+      {
+        "text": "How",
+        "alias": "How",
+        "meta": "@How",
+        "userDefined": false
+      },
+      {
+        "text": " do you ",
+        "userDefined": false
+      },
+      {
+        "text": "compare",
+        "alias": "Compare",
+        "meta": "@Compare",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "width",
+        "alias": "Width",
+        "meta": "@Width",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": " with other ",
+        "userDefined": false
+      },
+      {
+        "text": "modules",
+        "alias": "Product",
+        "meta": "@Product",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9d2602b2-a4aa-4505-8699-bd5f350b257a",
+    "data": [
+      {
+        "text": "Is the ",
+        "userDefined": false
+      },
+      {
+        "text": "width",
+        "alias": "Width",
+        "meta": "@Width",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "same",
+        "alias": "Same",
+        "meta": "@Same",
+        "userDefined": false
+      },
+      {
+        "text": " as other ",
+        "userDefined": false
+      },
+      {
+        "text": "modules",
+        "alias": "Product",
+        "meta": "@Product",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dc1a0bc9-47ca-40c7-a183-726927cf8f0e",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "wider",
+        "alias": "Wider",
+        "meta": "@Wider",
+        "userDefined": true
+      },
+      {
+        "text": " than other ",
+        "userDefined": false
+      },
+      {
+        "text": "modules",
+        "alias": "Product",
+        "meta": "@Product",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

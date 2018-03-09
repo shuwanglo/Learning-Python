@@ -1,0 +1,79 @@
+{
+  "id": "e2f4ff01-cd83-4ca5-8e6d-d2974bc5f2ea",
+  "name": "FrameWidthQPeakDuoG5What",
+  "auto": true,
+  "contexts": [
+    "QPeakDuoG5",
+    "QPeakDuoG5_a"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FrameWidthQPeakDuoG5What",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "QPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a2ef8530-b3d6-4a61-9952-fec917963208",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "e6b1708b-7a2c-48bd-86be-939542e94344",
+          "dataType": "@Width",
+          "name": "Width",
+          "value": "$Width",
+          "isList": false
+        },
+        {
+          "id": "21d02a30-508e-4d8d-a076-82d4b9ab62d1",
+          "dataType": "@FrameWidth",
+          "name": "FrameWidth",
+          "value": "$FrameWidth",
+          "isList": false
+        },
+        {
+          "id": "0c6e9f14-6389-489c-af1f-c148a8431875",
+          "dataType": "@How",
+          "name": "How",
+          "value": "$How",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The width of each Q.PEAK DUO G5 module is 1000 mm or 39.4 inches."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510282091428,
+  "fallbackIntent": false,
+  "events": []
+}

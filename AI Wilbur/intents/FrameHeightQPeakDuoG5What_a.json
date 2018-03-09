@@ -1,0 +1,97 @@
+{
+  "id": "c6ec9bf3-4ec6-463e-a7ce-679dc0a5f67f",
+  "name": "FrameHeightQPeakDuoG5What_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FrameHeightQPeakDuoG5What_a",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "850af7c6-5a4c-4470-a146-da63c7e11efc",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "72cb39cf-65a5-4fc3-8437-9c896555e3df",
+          "dataType": "@Height",
+          "name": "Height",
+          "value": "$Height",
+          "isList": false
+        },
+        {
+          "id": "0906679b-bc2a-4f3b-9259-23f2a77d02a1",
+          "dataType": "@QPEAKDUOG5",
+          "name": "QPEAKDUOG5",
+          "value": "$QPEAKDUOG5",
+          "isList": false
+        },
+        {
+          "id": "cbe09650-8763-4186-b182-2d3f80d8a18e",
+          "dataType": "@FrameHeight",
+          "name": "FrameHeight",
+          "value": "$FrameHeight",
+          "isList": false
+        },
+        {
+          "id": "22824a16-4fda-4e81-a47a-e1e0f847ff9a",
+          "dataType": "@How",
+          "name": "How",
+          "value": "$How",
+          "isList": false
+        },
+        {
+          "id": "145959e2-ae50-4b1f-ae15-f97f824feec0",
+          "dataType": "@Frame",
+          "name": "Frame",
+          "value": "$Frame",
+          "isList": false
+        },
+        {
+          "id": "a7c8ca82-861e-4025-8742-1d0af6adc67e",
+          "dataType": "@Thickness",
+          "name": "Thickness",
+          "value": "$Thickness",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The height of the Q.PEAK DUO G5 module is 32 mm or 1.26 inches."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510120323045,
+  "fallbackIntent": false,
+  "events": []
+}

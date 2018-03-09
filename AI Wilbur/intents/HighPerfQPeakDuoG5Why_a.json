@@ -1,0 +1,76 @@
+{
+  "id": "7637cc5b-c703-4231-aae6-02625418850c",
+  "name": "HighPerfQPeakDuoG5Why_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "HighPerfQPeakDuoG5Why_a",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "11bc4c25-7e30-4d54-9f6b-fa22156b8f94",
+          "dataType": "@HighPerf",
+          "name": "HighPerf",
+          "value": "$HighPerf",
+          "isList": false
+        },
+        {
+          "id": "7091c71b-4f8c-493b-952c-96bdafa39abf",
+          "dataType": "@QPEAKDUOG5",
+          "name": "QPEAKDUOG5",
+          "value": "$QPEAKDUOG5",
+          "isList": false
+        },
+        {
+          "id": "ce1285ca-8d3d-499c-8f5b-a90e27c7c8e4",
+          "dataType": "@Why",
+          "name": "Why",
+          "value": "$Why",
+          "isList": false
+        },
+        {
+          "id": "7215fed4-ff74-4783-934e-0de9126344db",
+          "dataType": "@HighPerformance",
+          "name": "HighPerformance",
+          "value": "$HighPerformance",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Q.PEAK DUO G5 has very low maximum power temperature coefficient of - 0.37%, shade tolerance due to its parallel string structure, minimal low light efficiency drop of 3.5%, very good incident angle modifier based on the good anti-reflective coating on its glass, and so on. All these contribute to its high performance."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510081707243,
+  "fallbackIntent": false,
+  "events": []
+}

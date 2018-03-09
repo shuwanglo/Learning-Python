@@ -1,0 +1,52 @@
+{
+  "id": "d43937a9-72d6-4df5-82bd-38541537aee4",
+  "name": "FCExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FCExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cb11a1c8-ff97-47b4-8ae8-d50bc9e10d2c",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "d2a3188c-c29f-4f13-b545-42e0c16d03fa",
+          "dataType": "@FullCell",
+          "name": "FullCell",
+          "value": "$FullCell",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Full-cell simply means the full size of a cell. Most of solar cells have a square geometry. Some of them have the so-called pseudo-square geometry, or squares but have the corners cut a little."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509083237,
+  "fallbackIntent": false,
+  "events": []
+}

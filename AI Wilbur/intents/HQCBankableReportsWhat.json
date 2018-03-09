@@ -1,0 +1,94 @@
+{
+  "id": "45dcee79-b78f-4aca-abfc-70168ae5632a",
+  "name": "HQCBankableReportsWhat",
+  "auto": true,
+  "contexts": [
+    "HQCBankableWhy_a"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "HQCBankableReportsWhat",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "HQCBankableWhy_a",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "87b78d74-cd2f-4120-ac8a-0da493d13112",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "169a67a3-9749-4c0b-a69c-3c466ede4e83",
+          "dataType": "@Point",
+          "name": "Point",
+          "value": "$Point",
+          "isList": false
+        },
+        {
+          "id": "08c8f253-221f-43e7-a7e3-467f03130802",
+          "dataType": "@Report",
+          "name": "Report",
+          "value": "$Report",
+          "isList": false
+        },
+        {
+          "id": "8b50c4f7-f74b-45a0-bf7e-13fe37c3d3a0",
+          "dataType": "@IndependentEngineeringFirm",
+          "name": "IndependentEngineeringFirm",
+          "value": "$IndependentEngineeringFirm",
+          "isList": false
+        },
+        {
+          "id": "ff9bc2df-8ac5-44c3-ad7d-d0e43710a728",
+          "dataType": "@Validate",
+          "name": "Validate",
+          "value": "$Validate",
+          "isList": false
+        },
+        {
+          "id": "8dccf30f-3dcc-4a58-a449-3e186b07803c",
+          "dataType": "@Available",
+          "name": "Available",
+          "value": "$Available",
+          "isList": false
+        },
+        {
+          "id": "343b5622-45c8-483e-9f44-a9bcebf73068",
+          "dataType": "@IndependentEngineeringReport",
+          "name": "IndependentEngineeringReport",
+          "value": "$IndependentEngineeringReport",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, we have several bankability reports put together by Leidos, an international independent engineering firm with a lot of presence in the solar market. On the product quality side, DNV-GL had been testing a lot of our products in their lab. DNV-GL and Leidos reports can be obtained from Wai (wai.lo@us.q-cells.com, 650-391-3108)."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510296076253,
+  "fallbackIntent": false,
+  "events": []
+}

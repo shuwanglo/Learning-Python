@@ -1,0 +1,52 @@
+{
+  "id": "9078cb9c-2afd-445b-9f62-739f35e751b2",
+  "name": "ARCExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ARCExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "148e6342-94f5-4468-92e2-77280b7c9905",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "42d9a0da-d7f7-45a5-a64d-2317767726bf",
+          "dataType": "@ARC",
+          "name": "ARC",
+          "value": "$ARC",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We know nearly everything has some degree of light reflection. It turns out it is possible to reduce light reflection from such surfaces by coating them with selected thin films called anti-reflective coating, or ARC. Obviously this is important to solar panels since now more light can be absorbed and generate more electricity."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509131395,
+  "fallbackIntent": false,
+  "events": []
+}

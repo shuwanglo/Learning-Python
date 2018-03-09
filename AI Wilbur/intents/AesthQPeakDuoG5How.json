@@ -1,0 +1,79 @@
+{
+  "id": "44218c23-9855-4109-90c5-000e7dc5835d",
+  "name": "AesthQPeakDuoG5How",
+  "auto": true,
+  "contexts": [
+    "QPeakDuoG5",
+    "QPeakDuoG5_a"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "AesthQPeakDuoG5How",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e9ec5be3-d089-4904-a607-89fb95ec2b23",
+          "dataType": "@How",
+          "name": "How",
+          "value": "$How",
+          "isList": false
+        },
+        {
+          "id": "c7172e9e-c173-4ade-bb53-5ef88d16166c",
+          "dataType": "@Production",
+          "name": "Production",
+          "value": "$Production",
+          "isList": false
+        },
+        {
+          "id": "159cb90f-5067-43dd-b51c-47081613e9f5",
+          "dataType": "@Aesthetic",
+          "name": "Aesthetic",
+          "value": "$Aesthetic",
+          "isList": false
+        },
+        {
+          "id": "f38bf555-72ed-432b-8358-41d4edd9c8ed",
+          "dataType": "@Product",
+          "name": "Product",
+          "value": "$Product",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Q.PEAK DUO G5 has good aesthetic appeal because it uses 6 thin, not so visible wire bus bars, or bus wires. These bus wires are nearly invisible from a distance. The module looks more uniform and appealing."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510004742882,
+  "fallbackIntent": false,
+  "events": []
+}

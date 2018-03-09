@@ -1,0 +1,210 @@
+[
+  {
+    "id": "32b12f33-e478-4843-a666-87013724080a",
+    "data": [
+      {
+        "text": "I’d like to know ",
+        "userDefined": false
+      },
+      {
+        "text": "what",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "connector",
+        "alias": "Connector",
+        "meta": "@Connector",
+        "userDefined": false
+      },
+      {
+        "text": " is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b357395a-4e62-4cf6-a85c-cf20b7cd1246",
+    "data": [
+      {
+        "text": "What’s",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "connector",
+        "alias": "Connector",
+        "meta": "@Connector",
+        "userDefined": false
+      },
+      {
+        "text": " used?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87eea03e-85ff-45dd-8049-2bb069fc0820",
+    "data": [
+      {
+        "text": "Tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "what",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "connector",
+        "alias": "Connector",
+        "meta": "@Connector",
+        "userDefined": false
+      },
+      {
+        "text": " is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dfa7e085-6a6b-43be-9edb-518d27568147",
+    "data": [
+      {
+        "text": "Connector",
+        "alias": "Connector",
+        "meta": "@Connector",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "used",
+        "alias": "Adopt",
+        "meta": "@Adopt",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1510280623
+  },
+  {
+    "id": "a4be3153-7ceb-4dd3-a7f0-4e9d739415b8",
+    "data": [
+      {
+        "text": "I\u0027d like to know ",
+        "userDefined": false
+      },
+      {
+        "text": "what",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "connector",
+        "alias": "Connector",
+        "meta": "@Connector",
+        "userDefined": false
+      },
+      {
+        "text": " is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510280623
+  },
+  {
+    "id": "dc08906e-b698-40a9-964b-767c6dd13298",
+    "data": [
+      {
+        "text": "What\u0027s",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "connector",
+        "alias": "Connector",
+        "meta": "@Connector",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "used",
+        "alias": "Adopt",
+        "meta": "@Adopt",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510280623
+  },
+  {
+    "id": "4d2dd5df-b05a-4fb4-bf1c-39f3be96e3ca",
+    "data": [
+      {
+        "text": "Connector",
+        "alias": "Connector",
+        "meta": "@Connector",
+        "userDefined": false
+      },
+      {
+        "text": " used?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

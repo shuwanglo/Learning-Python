@@ -1,0 +1,59 @@
+{
+  "id": "8b95811d-7162-487e-b508-80ed50b1d304",
+  "name": "HotspotExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "HotspotExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "46decfcb-036a-41f4-b45a-fc7d3da45782",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "5de7ac48-8bb3-4987-bdbb-824eb9ee337a",
+          "dataType": "@HotSpot",
+          "name": "HotSpot",
+          "value": "$HotSpot",
+          "isList": false
+        },
+        {
+          "id": "c3df1856-5b98-492a-96b1-60843e35994b",
+          "dataType": "@About",
+          "name": "About1",
+          "value": "$About1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A hot-spot is a higher temperature point on a solar cell or panel that is caused by some defects on the cell. Usually the defect causes current to flow through the cell directly and hence generate heat."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508456936534,
+  "fallbackIntent": false,
+  "events": []
+}

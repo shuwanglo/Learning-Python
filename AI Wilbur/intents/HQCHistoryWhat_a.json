@@ -1,0 +1,71 @@
+{
+  "id": "d99ff370-e814-4ab6-a5a3-0596c386732e",
+  "name": "HQCHistoryWhat_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "HQCHistoryWhat_a",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "HQCBankableWhy_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "80d8cc47-e351-470b-855d-561d44efa783",
+          "dataType": "@HQC",
+          "name": "HQC",
+          "value": "$HQC",
+          "isList": false
+        },
+        {
+          "id": "a70fc302-b304-4bf6-854f-f3fbb0c127c4",
+          "dataType": "@Start",
+          "name": "Start",
+          "value": "$Start",
+          "isList": false
+        },
+        {
+          "id": "b1f124fd-f699-4cf3-b16d-baf4315f1b83",
+          "dataType": "@When",
+          "name": "When",
+          "value": "$When",
+          "isList": false
+        },
+        {
+          "id": "e1afea27-4edd-4ff8-aa25-3ce68b9beffa",
+          "dataType": "@History",
+          "name": "History",
+          "value": "$History",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hanwha Q CELLS was formed in 2015 by merging Q CELLS and Hanwha Solar One. Q CELLS was a German company started in 1999, and was acquired by Hanwha in 2012. Before acquiring Q CELLS, Hanwha already acquired majority share of SolarFun, and company based in China by trading at NASDAQ, and changed its name to Hanwha Solar One. The merger in 2015 consolidated both names under the Hanwha Q CELLS brand."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510296216349,
+  "fallbackIntent": false,
+  "events": []
+}

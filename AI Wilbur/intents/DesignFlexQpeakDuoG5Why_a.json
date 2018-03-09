@@ -1,0 +1,76 @@
+{
+  "id": "a6e09038-c103-4e8f-9001-9783a5435e40",
+  "name": "DesignFlexQpeakDuoG5Why_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QPeakDuoG5",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "DesignFlexQpeakDuoG5Why_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "da4b8db5-16e0-4d90-920f-d75d596afefe",
+          "dataType": "@DesignFlexibility",
+          "name": "DesignFlexibility",
+          "value": "$DesignFlexibility",
+          "isList": false
+        },
+        {
+          "id": "91410e20-dbe5-477f-9332-f430096fa5fb",
+          "dataType": "@QPEAKDUOG5",
+          "name": "QPEAKDUOG5",
+          "value": "$QPEAKDUOG5",
+          "isList": false
+        },
+        {
+          "id": "479a3c0b-68f0-43dc-a73b-e6b730a38f12",
+          "dataType": "@Why",
+          "name": "Why",
+          "value": "$Why",
+          "isList": false
+        },
+        {
+          "id": "774084de-20c2-41d1-bee8-e963d492e2d6",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Q.PEAK DUO G5 is effectively a 2-in-1 module with two parallel half-cell strings. One of the strings will continue to generate power even if the other string is blocked. This is different from regular modules where there is a single cell string, and therefore makes it more flexible for project design. Important for environments having seasonal, random or regular shading."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510087327269,
+  "fallbackIntent": false,
+  "events": []
+}

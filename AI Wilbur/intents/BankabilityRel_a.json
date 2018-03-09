@@ -1,0 +1,64 @@
+{
+  "id": "bf7096c8-c50a-4d1a-9d95-89776a17867f",
+  "name": "BankabilityRel_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "BankabilityRel_a",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "user",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e2fc491b-c88d-4f04-b249-1e235b6b6e1e",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": true
+        },
+        {
+          "id": "97e632db-695d-4443-a01d-334ca2e4afd5",
+          "dataType": "@BankabilityRelated",
+          "name": "BankabilityRelated",
+          "value": "$BankabilityRelated",
+          "isList": false
+        },
+        {
+          "id": "25cf5a19-b840-43a2-9684-4c244a16bd0c",
+          "dataType": "@Area",
+          "name": "Area",
+          "value": "$Area",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No problem. Hanwha QCELLS products are certainly very bankable, based on its company history, size, diversified business and its product track records. On the company side, it is on the Global Fortune 500 list and ranked number 7 in Korea. The 2016 revenue was about 55 billion US dollars. On the solar business side, its manufacturing capacity is approaching 7 GW in Korea, Malaysia and Korea, and has shipped more than 14 GW solar modules so far. It has been on the Bloomberg tier 1 list for consecutive years. We can go through the details of each, if you want to."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509756453051,
+  "fallbackIntent": false,
+  "events": []
+}

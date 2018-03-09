@@ -1,0 +1,59 @@
+{
+  "id": "2d1fd14c-7c40-42e2-867e-04f151226cf4",
+  "name": "GenProdRel_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "GenProdRel_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a069b445-7e54-4e00-9fcb-9d2944e74f16",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "4cbc57fa-5cdf-4fa8-8de8-6a4767f80ed9",
+          "dataType": "@GenProductRelated",
+          "name": "GenProductRelated",
+          "value": "$GenProductRelated",
+          "isList": false
+        },
+        {
+          "id": "1028afa4-2bbf-49ae-ba4c-c00348de8641",
+          "dataType": "@Area",
+          "name": "Area",
+          "value": "$Area",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sure. You know solar panels are made of solar cells. Some panels have 60 cells, some have 72 cells. There are panels made of half-cells, and hence double the number of cells on the panels. These cells convert light energy into electricity, which is conducted away through the cables and connectors at the back of the panels. You can imagine there are a lot of technologies, such as Q.ANTUM, Anti-LID, Anti-PID, etc, behind that made these products usable and economical. Feel free to ask me any question relating to solar panels"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509755968206,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": "60e07ab5-ce14-4805-b59b-b30fef1eefd1",
+  "name": "HCExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "HCExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "125237c1-608a-4630-8fb4-f6c91ced9419",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "3c15a478-41d1-4170-8c1e-94081afdb882",
+          "dataType": "@HalfCell",
+          "name": "HalfCell",
+          "value": "$HalfCell",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "In short, half-cell means half of the cell. Most of solar cells have a square geometry. Some of them have the so-called pseudo-square geometry, or squares but have the corners cut a little. Half-cells are formed by splitting these cells in two halves."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509076939,
+  "fallbackIntent": false,
+  "events": []
+}

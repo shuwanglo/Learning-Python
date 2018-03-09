@@ -1,0 +1,59 @@
+{
+  "id": "d1c3ccc8-5d29-4006-aafc-ad158bd13afd",
+  "name": "BankableExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "BankableExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "01abc04d-cc51-4d13-b39d-518a616ebf40",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "2708121a-d378-48d8-a850-04214569fc9e",
+          "dataType": "@Bankability",
+          "name": "Bankability",
+          "value": "$Bankability",
+          "isList": false
+        },
+        {
+          "id": "d1a154b4-179b-4803-a5dc-f2451a887f5f",
+          "dataType": "@About",
+          "name": "About1",
+          "value": "$About1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Bankable is another word for the ability of banks to finance projects using this product. Banks obviously would like to make sure high returns on their investments. So the products must be reliable, the company making them must be financially stable and their products must have good track records."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508457572143,
+  "fallbackIntent": false,
+  "events": []
+}

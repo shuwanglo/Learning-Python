@@ -1,0 +1,83 @@
+{
+  "id": "a8906e2a-f86f-4d01-9c69-5018d7dc0cf4",
+  "name": "DesignFlexQpeakDuoG5How_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "DesignFlexQpeakDuoG5How_a",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6892f3af-6b72-4198-95c2-f17604687efd",
+          "dataType": "@How",
+          "name": "How",
+          "value": "$How",
+          "isList": false
+        },
+        {
+          "id": "4be6dcfe-6d87-4610-acdb-a3b9f8c40bb4",
+          "dataType": "@Production",
+          "name": "Production",
+          "value": "$Production",
+          "isList": false
+        },
+        {
+          "id": "840900bf-798a-4621-a0f3-c87300cde996",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "63c01f1e-3a6f-4886-a6d9-560ee2096d8c",
+          "dataType": "@DesignFlexibility",
+          "name": "DesignFlexibility",
+          "value": "$DesignFlexibility",
+          "isList": false
+        },
+        {
+          "id": "7139b696-6879-4db2-92c8-dcf386c3441c",
+          "dataType": "@QPEAKDUOG5",
+          "name": "QPEAKDUOG5",
+          "value": "$QPEAKDUOG5",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Q.PEAK DUO G5 is effectively a 2-in-1 module with two parallel half-cell strings. One of the strings will continue to generate power even if the other string is blocked. This is different from regular modules where there is a single cell string, and therefore makes it more flexible for project design. Important for environments having seasonal, random or regular shading."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510087697455,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "530c6b5f-ac32-4027-8e39-ac76025798f8",
+  "name": "BacksheetExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "BacksheetExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0d7d0abc-fb96-4729-a73a-a607ccd8e70b",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "8dc0f492-9d16-40d0-80a0-e8ea765e8e89",
+          "dataType": "@Backsheet",
+          "name": "Backsheet",
+          "value": "$Backsheet",
+          "isList": false
+        },
+        {
+          "id": "52a163de-0753-4ce8-84bb-d5c1750af186",
+          "dataType": "@About",
+          "name": "About1",
+          "value": "$About1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Backsheet is a plastic film put under the EVA and on the backside of solar panels. It is the last backside protection of the solar panels from the outside world."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508384039,
+  "fallbackIntent": false,
+  "events": []
+}

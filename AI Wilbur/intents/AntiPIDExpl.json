@@ -1,0 +1,59 @@
+{
+  "id": "066448e4-313a-4909-986a-1146c08703d9",
+  "name": "AntiPIDExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "AntiPIDExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f81ce920-9176-4fd7-916e-845c04114fcc",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "21119626-65c2-472c-a72a-51990efff511",
+          "dataType": "@AntiPID",
+          "name": "AntiPID",
+          "value": "$AntiPID",
+          "isList": false
+        },
+        {
+          "id": "12ea0f44-e854-45f6-8176-ff8cc3555b7d",
+          "dataType": "@About",
+          "name": "About1",
+          "value": "$About1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Anti-PID means PID is avoided, or its effect is controlled. This is part of the Hanwha Q CELLS proprietary technology."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508384441,
+  "fallbackIntent": false,
+  "events": []
+}

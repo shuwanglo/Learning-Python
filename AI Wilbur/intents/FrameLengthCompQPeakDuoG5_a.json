@@ -1,0 +1,104 @@
+{
+  "id": "c3afe992-baef-43c6-9a33-21ac9bb34287",
+  "name": "FrameLengthCompQPeakDuoG5_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FrameLengthCompQPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "98303a33-6b34-4c4c-8629-4cbcfd7b5bea",
+          "dataType": "@Length",
+          "name": "Length",
+          "value": "$Length",
+          "isList": false
+        },
+        {
+          "id": "46ca167b-df7f-4e1d-b34a-5a77465e8934",
+          "dataType": "@Same",
+          "name": "Same",
+          "value": "$Same",
+          "isList": false
+        },
+        {
+          "id": "11d0f189-6f9a-4c89-93b6-17d21d2e39a2",
+          "dataType": "@Product",
+          "name": "Product",
+          "value": "$Product",
+          "isList": false
+        },
+        {
+          "id": "65a01c24-63c1-4d92-ab9b-21f7a1636cd4",
+          "dataType": "@QPEAKDUOG5",
+          "name": "QPEAKDUOG5",
+          "value": "$QPEAKDUOG5",
+          "isList": false
+        },
+        {
+          "id": "365f07da-702d-4193-ae5c-63ffef8ce582",
+          "dataType": "@FrameLength",
+          "name": "FrameLength",
+          "value": "$FrameLength",
+          "isList": false
+        },
+        {
+          "id": "fa972b17-8af1-40aa-b518-c4d464606958",
+          "dataType": "@How",
+          "name": "How",
+          "value": "$How",
+          "isList": false
+        },
+        {
+          "id": "f8ea2c78-0937-4d2b-8350-0a8cf22ae830",
+          "dataType": "@Compare",
+          "name": "Compare",
+          "value": "$Compare",
+          "isList": false
+        },
+        {
+          "id": "21ac9c16-621d-495f-bd1a-dcb8525590bd",
+          "dataType": "@Tall",
+          "name": "Tall",
+          "value": "$Tall",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The length of Q.PEAK DUO G5 is slightly larger other full-cell modules. For example, it is longer than Q.PEAK G4.1 by about 0.6 inches. Most likely it is different from modules from other manufacturers. Please check with Wai (wai.lo@us.q-cells.com, 650-391-3108) if you want to make sure it is the same as a specific module."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510076485823,
+  "fallbackIntent": false,
+  "events": []
+}

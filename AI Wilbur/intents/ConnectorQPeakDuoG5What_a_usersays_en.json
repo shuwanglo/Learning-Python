@@ -1,0 +1,252 @@
+[
+  {
+    "id": "0c39629d-b8e8-42a5-b344-f142e0e3556a",
+    "data": [
+      {
+        "text": "What’s the ",
+        "userDefined": false
+      },
+      {
+        "text": "connector",
+        "alias": "Connector",
+        "meta": "@Connector",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "d52e4296-b538-4ca1-ae7b-589cc3b5d488",
+    "data": [
+      {
+        "text": "Connector",
+        "alias": "Connector",
+        "meta": "@Connector",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "67b0ba5c-937e-4526-8d1d-1fbeda6ead59",
+    "data": [
+      {
+        "text": "I’d like to know ",
+        "userDefined": false
+      },
+      {
+        "text": "what",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "connector",
+        "alias": "Connector",
+        "meta": "@Connector",
+        "userDefined": false
+      },
+      {
+        "text": " is on ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "c2a7d1ee-9de9-4633-9bef-52421df1370b",
+    "data": [
+      {
+        "text": "I\u0027d like to know ",
+        "userDefined": false
+      },
+      {
+        "text": "what",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "connector",
+        "alias": "Connector",
+        "meta": "@Connector",
+        "userDefined": false
+      },
+      {
+        "text": " is on ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510033754
+  },
+  {
+    "id": "0a359877-221b-4dd5-a0f8-c66cee1ed160",
+    "data": [
+      {
+        "text": "What’s",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "connector",
+        "alias": "Connector",
+        "meta": "@Connector",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "2d5124fa-c0a7-4873-8617-52debaecd78b",
+    "data": [
+      {
+        "text": "Tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "what",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "connector",
+        "alias": "Connector",
+        "meta": "@Connector",
+        "userDefined": true
+      },
+      {
+        "text": " is on ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "c9c00377-a0ef-4e08-912c-4fef4592a2e5",
+    "data": [
+      {
+        "text": "What\u0027s",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "connector",
+        "alias": "Connector",
+        "meta": "@Connector",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510033754
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "id": "ea4d2dea-6fa0-428c-a079-51c0abe489bd",
+  "name": "HQCBankableWhy_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "HQCBankableWhy_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5e29b370-d9d0-4fad-9907-e035700ae55d",
+          "dataType": "@HQC",
+          "name": "HQC",
+          "value": "$HQC",
+          "isList": false
+        },
+        {
+          "id": "77755063-9783-4589-80ad-c79d98d0d509",
+          "dataType": "@Product",
+          "name": "Product",
+          "value": "$Product",
+          "isList": false
+        },
+        {
+          "id": "bc24639f-4479-46eb-85f6-3127f860a563",
+          "dataType": "@Bankability",
+          "name": "Bankability",
+          "value": "$Bankability",
+          "isList": false
+        },
+        {
+          "id": "ca19ac5a-78ac-49e2-bde6-75f87122a325",
+          "dataType": "@Why",
+          "name": "Why",
+          "value": "$Why",
+          "isList": false
+        },
+        {
+          "id": "90877c71-09bd-4851-9f88-a7069c241626",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "da0a8640-0ed1-4f05-a17e-738aad015145",
+          "dataType": "@Bankability",
+          "name": "Bankability1",
+          "value": "$Bankability1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hanwha Q CELLS has been recognized as one of the top bankable suppliers in the solar market. This is because Hanwha Q CELLS (a) has very high performing and reliable products, as illustrated by various industry awards and recognitions, (b) has a long history of shipping high quality product, actually more than 14 GW at this point, (c) a rapid expanding presence globally, with close to 7 GW production capacity of cells and modules currently, (d) is well-known for its R\u0026D power house with more than 400 R\u0026D engineers in various locations, (e) has a very stringent global quality management system in operation, (f) has been working with various independent engineering firms and labs on objective evaluation of its products, and (g) is backed by Hanwha corporate, which is a diversified conglomerate with close to $60 billion revenue per year."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510295909979,
+  "fallbackIntent": false,
+  "events": []
+}

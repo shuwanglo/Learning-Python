@@ -1,0 +1,322 @@
+[
+  {
+    "id": "ccfedba0-dd13-4e4f-bcc5-40a72280ce27",
+    "data": [
+      {
+        "text": "•\t",
+        "userDefined": false
+      },
+      {
+        "text": "What is",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-reflective coating",
+        "alias": "ARC",
+        "meta": "@ARC",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "65098b0a-a866-4c23-b20b-c34f25912fb0",
+    "data": [
+      {
+        "text": "•\tLet’s ",
+        "userDefined": false
+      },
+      {
+        "text": "look at",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-reflective coating",
+        "alias": "ARC",
+        "meta": "@ARC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1509131395
+  },
+  {
+    "id": "8d22928e-dc42-415e-a03b-b564670802ee",
+    "data": [
+      {
+        "text": "•\tTell me ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-reflective coating",
+        "alias": "ARC",
+        "meta": "@ARC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1509131395
+  },
+  {
+    "id": "62f74951-e9fa-4d02-a739-0b2cd0c8016d",
+    "data": [
+      {
+        "text": "•\tWhat do you ",
+        "userDefined": false
+      },
+      {
+        "text": "mean by",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-reflective coating",
+        "alias": "ARC",
+        "meta": "@ARC",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1509131395
+  },
+  {
+    "id": "a9abecd7-fe18-435c-8b01-aefcfb145c21",
+    "data": [
+      {
+        "text": "•\tLet’s talk ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-reflective coating",
+        "alias": "ARC",
+        "meta": "@ARC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1509131395
+  },
+  {
+    "id": "12a5a124-8f36-4a6d-a776-187acfaebe4a",
+    "data": [
+      {
+        "text": "•\tI’d like to know more ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-reflective coating",
+        "alias": "ARC",
+        "meta": "@ARC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1509131395
+  },
+  {
+    "id": "b3230aed-59cc-4d63-9fb0-2b0b68929e56",
+    "data": [
+      {
+        "text": "Let\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "look at",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-reflective coating",
+        "alias": "ARC",
+        "meta": "@ARC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "28c6963a-fb6d-4147-8280-e295d9e1bd9b",
+    "data": [
+      {
+        "text": "Let\u0027s talk ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-reflective coating",
+        "alias": "ARC",
+        "meta": "@ARC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa8eb10e-12ec-485f-839e-521420987d33",
+    "data": [
+      {
+        "text": "I\u0027d like to know more ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-reflective coating",
+        "alias": "ARC",
+        "meta": "@ARC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1ce01e7-a53e-49f3-a436-0d2a65377ccb",
+    "data": [
+      {
+        "text": "What do you ",
+        "userDefined": false
+      },
+      {
+        "text": "mean by",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-reflective coating",
+        "alias": "ARC",
+        "meta": "@ARC",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c71bb8f2-a68f-4edc-adf7-27ab77ad4101",
+    "data": [
+      {
+        "text": "What is",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " an ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-reflective coating",
+        "alias": "ARC",
+        "meta": "@ARC",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

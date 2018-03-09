@@ -1,0 +1,66 @@
+{
+  "id": "2f767e3b-c8c3-4faf-a50c-48de3a53263e",
+  "name": "BankabilityRelExpl_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "BankabilityRelExpl_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ac80dc7a-791d-4b76-a4a4-d1c8c5ad2f51",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "1929c66e-8c38-463e-a697-ea56b7673adc",
+          "dataType": "@About",
+          "name": "About1",
+          "value": "$About1",
+          "isList": false
+        },
+        {
+          "id": "78b98f47-92f5-4f68-b32c-044e740ad4e9",
+          "dataType": "@BankabilityRelated",
+          "name": "BankabilityRelated",
+          "value": "$BankabilityRelated",
+          "isList": false
+        },
+        {
+          "id": "6e676bba-3dbb-4eb8-80ae-d24382891619",
+          "dataType": "@Area",
+          "name": "Area",
+          "value": "$Area",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Bankability-related questions are about why these products are bankable, or financeable. These can be related to company background, reliability, product recognitions etc. Welcome to ask such questions. Otherwise we can talk about general product-related questions, or questions related to half-cell (Q.PEAK DUO G5, Q.PEAK DUO BLK G4.1), mono Q.ANTUM (Q.PEAK G4.1, Q.PEAK BLK G4.1, Q.PEAK G4.1/MAX, Q.PEAK L G4) and multi Q.ANTUM (Q.PLUS L G) modules."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509755517863,
+  "fallbackIntent": false,
+  "events": []
+}

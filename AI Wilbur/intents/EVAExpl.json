@@ -1,0 +1,59 @@
+{
+  "id": "18b4773b-bc55-4a5a-81c8-6a55b168edf4",
+  "name": "EVAExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "EVAExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "10962cde-108d-4ef3-96ea-b6ab4a3525ae",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "e0a537d2-eb16-4e6c-b686-0c695d4a24b4",
+          "dataType": "@EVA",
+          "name": "EVA",
+          "value": "$EVA",
+          "isList": false
+        },
+        {
+          "id": "b2411164-90c8-4f8b-9b38-fe85647633a7",
+          "dataType": "@About",
+          "name": "About1",
+          "value": "$About1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "EVA standards for ethylenevinylacetate. It is a transparent plastic put between the glass and the solar cells, and also between the solar cells and the backsheet on a solar panel. These EVA films protect and insulate the solar cells from the outside world."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508383488,
+  "fallbackIntent": false,
+  "events": []
+}

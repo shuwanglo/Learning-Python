@@ -1,0 +1,52 @@
+{
+  "id": "a5d9ee20-64a8-432c-930e-c5bdb1d90655",
+  "name": "HighPerfExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "HighPerfExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "375e78b7-fe34-40dd-9ee7-895cc7172ccf",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "6b1e2f29-d4cd-4bdf-83b4-a7d14e00dc20",
+          "dataType": "@HighPerf",
+          "name": "HighPerf",
+          "value": "$HighPerf",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "High performance means performing well in the field. Solar panels are usually quoted by their power class, but their actual ability to generate power and produce energy depends on other electrical and optical parameters like temperature coefficient, low light performance, incident angle modifier, shade tolerance, and more."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509131395,
+  "fallbackIntent": false,
+  "events": []
+}

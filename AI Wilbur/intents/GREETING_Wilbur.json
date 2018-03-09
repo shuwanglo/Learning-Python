@@ -1,0 +1,51 @@
+{
+  "id": "6e1ec898-63b6-4ace-8b49-1a077467c1a4",
+  "name": "GREETING_Wilbur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b24b7fa9-1307-457e-b440-942e69c9cbcf",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "df6cd93d-ba0b-43c4-94c6-af2445420c39",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Wilbur here. I am a product assistant. I can help you with the products we offer currently, including half-cell (Q.PEAK DUO G5, Q.PEAK DUO BLK G4.1), mono Q.ANTUM (Q.PEAK G4.1, Q.PEAK BLK G4.1, Q.PEAK G4.1/MAX, Q.PEAK L G4) and multi Q.ANTUM (Q.PLUS L G) modules. If you have general product-related and bankability-related questions, I am the right person to help you as well. Who am I speaking with today?",
+            "Wilbur speaking. I am trained to assist you with the products we have currently. These are half-cell (Q.PEAK DUO G5, Q.PEAK DUO BLK G4.1), mono Q.ANTUM (Q.PEAK G4.1, Q.PEAK BLK G4.1, Q.PEAK G4.1/MAX, Q.PEAK L G4) and multi Q.ANTUM (Q.PLUS L G) modules. If you have general product-related and bankability-related questions, I am the right person to help you as well. Who am I speaking with today?",
+            "I am Wilbur, your product assistant. I can help you with half-cell (Q.PEAK DUO G5, Q.PEAK DUO BLK G4.1), mono Q.ANTUM (Q.PEAK G4.1, Q.PEAK BLK G4.1, Q.PEAK G4.1/MAX, Q.PEAK L G4) and multi Q.ANTUM (Q.PLUS L G) modules. If you have general product-related and bankability-related questions, I am the right person to help you as well. Who am I speaking with today?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509141951,
+  "fallbackIntent": false,
+  "events": []
+}

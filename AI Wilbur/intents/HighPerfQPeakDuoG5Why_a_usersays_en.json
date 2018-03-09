@@ -1,0 +1,188 @@
+[
+  {
+    "id": "be8eb3bb-8763-4652-8d65-59770cfc2bf8",
+    "data": [
+      {
+        "text": "Why",
+        "alias": "Why",
+        "meta": "@Why",
+        "userDefined": true
+      },
+      {
+        "text": " does ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.Peak Duo G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "high performance",
+        "alias": "HighPerf",
+        "meta": "@HighPerf",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "e5e6b272-f725-4d6b-b332-94e7e12d87ad",
+    "data": [
+      {
+        "text": "Tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "why",
+        "alias": "Why",
+        "meta": "@Why",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.Peak Duo G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": " has ",
+        "userDefined": false
+      },
+      {
+        "text": "high performance",
+        "alias": "HighPerformance",
+        "meta": "@HighPerformance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "596b1a2d-12e7-4931-ae4c-f0a37af59b89",
+    "data": [
+      {
+        "text": "I\u0027d like to know ",
+        "userDefined": false
+      },
+      {
+        "text": "why",
+        "alias": "Why",
+        "meta": "@Why",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.Peak Duo G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": " has ",
+        "userDefined": false
+      },
+      {
+        "text": "high performance",
+        "alias": "HighPerf",
+        "meta": "@HighPerf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510081707
+  },
+  {
+    "id": "d954fb96-e365-4b13-b0d7-2d51bca1d3d0",
+    "data": [
+      {
+        "text": "why",
+        "alias": "Why",
+        "meta": "@Why",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "q.peak duo g5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": false
+      },
+      {
+        "text": " has ",
+        "userDefined": false
+      },
+      {
+        "text": "high performance",
+        "alias": "HighPerformance",
+        "meta": "@HighPerformance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1bf424e7-2f00-4e53-90df-696e0b50d9aa",
+    "data": [
+      {
+        "text": "I’d like to know ",
+        "userDefined": false
+      },
+      {
+        "text": "why",
+        "alias": "Why",
+        "meta": "@Why",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.Peak Duo G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": false
+      },
+      {
+        "text": " has ",
+        "userDefined": false
+      },
+      {
+        "text": "high performance",
+        "alias": "HighPerformance",
+        "meta": "@HighPerformance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  }
+]

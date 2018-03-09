@@ -1,0 +1,52 @@
+{
+  "id": "c40309ab-bbf2-4b60-ba57-14f2c3c49388",
+  "name": "ChaCarrExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ChaCarrExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "47be83f9-9c51-45ba-80b2-a5e44c70fcb8",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "71e3c4e6-c9ca-45ba-8da1-d015340d9bec",
+          "dataType": "@ChargeCarrier",
+          "name": "ChargeCarrier",
+          "value": "$ChargeCarrier",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Charge carrier is the object that carriers the electric charge in a solar cell or a conductor. It can be positive or negative. Usually electron is the negative charge carrier, and electronic holes are the positive charge carrier."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509125857,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "8c7164b0-63f2-4d47-93a4-e06700701fcb",
+  "name": "ElectPotExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ElectPotExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7c8d98c8-b7ec-400b-a2db-64d6917d0c95",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "710d35c3-dec2-4a90-a62f-61985bae478e",
+          "dataType": "@ElectricPotential",
+          "name": "ElectricPotential",
+          "value": "$ElectricPotential",
+          "isList": false
+        },
+        {
+          "id": "c3d36800-cb5f-4ca7-bea1-501aadb0e987",
+          "dataType": "@About",
+          "name": "About1",
+          "value": "$About1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This is getting into the science part of solar technology. I am not trained for that. Can you please contact Wai (wai.lo@us.q-cells.com, 650-391-3108) for further assistance?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382858073,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,477 @@
+[
+  {
+    "id": "1189ae2c-c48d-4c31-a12c-ee7c1c8805a2",
+    "data": [
+      {
+        "text": "what is",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti LID",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d07d570-2576-4d0a-83bf-0d5544186bdc",
+    "data": [
+      {
+        "text": "what is",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-LID",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "402d0107-16a6-4176-91e1-e4188311b76b",
+    "data": [
+      {
+        "text": "Let\u0027s talk ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti lid",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbb7ff21-0d7e-4900-ba4b-f716d8055092",
+    "data": [
+      {
+        "text": "Let\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "look at",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti lid",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1bec707e-df02-42c7-bee6-c3792f9d8812",
+    "data": [
+      {
+        "text": "OK",
+        "userDefined": false
+      },
+      {
+        "text": ". I saw",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-LID",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      },
+      {
+        "text": ". What is it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbd8a9fc-5cce-4e55-9c6a-4fc91837ee73",
+    "data": [
+      {
+        "text": "OK",
+        "userDefined": false
+      },
+      {
+        "text": ". I saw",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-LID",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "What",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": true
+      },
+      {
+        "text": " is it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79e56102-7951-454a-9f8b-c17797049e6f",
+    "data": [
+      {
+        "text": "Complicated. I saw",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-LID",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      },
+      {
+        "text": " just now. ",
+        "userDefined": false
+      },
+      {
+        "text": "What",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": true
+      },
+      {
+        "text": " is it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4908e6c4-b708-491c-ab5e-004200bfb1f6",
+    "data": [
+      {
+        "text": "What is",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti lid",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e0c3850-ffac-4c57-8502-ca293aff9041",
+    "data": [
+      {
+        "text": "OK. Q.ANTUM is better than PERC because of other proprietary technologies. ",
+        "userDefined": false
+      },
+      {
+        "text": "What is",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti LID",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fc446ea-ab13-46d6-b80d-b7072c9c4651",
+    "data": [
+      {
+        "text": "I see anti-LID being mentioned. ",
+        "userDefined": false
+      },
+      {
+        "text": "What is",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-LID",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba2a4e4c-6b5e-4489-98a3-fcbecef5252c",
+    "data": [
+      {
+        "text": "explain to me ",
+        "userDefined": false
+      },
+      {
+        "text": "what",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti lid",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About1",
+        "meta": "@About",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "aaff1140-ff4d-4594-97b0-c61773d7697d",
+    "data": [
+      {
+        "text": "what is",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-LID",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "167df47c-ade7-4ad4-9c37-0d5896af11a8",
+    "data": [
+      {
+        "text": "That\u0027s a lot of stuff. ",
+        "userDefined": false
+      },
+      {
+        "text": "What",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "anti-LID",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f9387ee-8a96-4c4a-9c47-acc0dada32d6",
+    "data": [
+      {
+        "text": "what",
+        "alias": "About1",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " do you ",
+        "userDefined": false
+      },
+      {
+        "text": "mean by",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti lid",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03205e5d-5594-474a-a7f1-db1d789057cb",
+    "data": [
+      {
+        "text": "I\u0027d like to know more ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anti lid",
+        "alias": "AntiLID",
+        "meta": "@AntiLID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

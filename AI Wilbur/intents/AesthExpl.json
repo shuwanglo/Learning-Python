@@ -1,0 +1,52 @@
+{
+  "id": "0da58c0f-39c4-413b-a650-b4bc60aaffc9",
+  "name": "AesthExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "AesthExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "98aa928c-c778-4bd5-83c5-7f472ed74f63",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "7a93aed8-1215-4d74-847a-c5d1b4befe56",
+          "dataType": "@Aesthetic",
+          "name": "Aesthetic",
+          "value": "$Aesthetic",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Aesthetic means good looking. This is important to people planning to put the modules on their residential roofs."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509131395,
+  "fallbackIntent": false,
+  "events": []
+}

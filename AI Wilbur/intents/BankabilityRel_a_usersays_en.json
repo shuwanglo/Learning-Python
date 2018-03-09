@@ -1,0 +1,488 @@
+[
+  {
+    "id": "772b9a20-ef44-4cb4-83d4-a7b01e683600",
+    "data": [
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " issues would be fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "1fcdcbe9-f128-4dbf-bb30-c53a7d053222",
+    "data": [
+      {
+        "text": "Let’s talk ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " some ",
+        "userDefined": false
+      },
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "area",
+        "alias": "Area",
+        "meta": "@Area",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4f4f97bc-faf6-43d4-a6d7-40d6b05cbf41",
+    "data": [
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "issues",
+        "alias": "Area",
+        "meta": "@Area",
+        "userDefined": true
+      },
+      {
+        "text": " would be fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2a1d5225-17c1-436c-805f-c25a11049d67",
+    "data": [
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "area",
+        "alias": "Area",
+        "meta": "@Area",
+        "userDefined": false
+      },
+      {
+        "text": " would be fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "fd200e52-8bda-433c-a0f9-85fac324813e",
+    "data": [
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "fd8bd13b-f7f4-40a4-ad14-eecf23bbd57c",
+    "data": [
+      {
+        "text": "Let\u0027s talk ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " some ",
+        "userDefined": false
+      },
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "issues",
+        "alias": "Area",
+        "meta": "@Area",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509756453
+  },
+  {
+    "id": "e6027d18-b84e-4a53-967d-9997910d0298",
+    "data": [
+      {
+        "text": "Let’s talk ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " some ",
+        "userDefined": false
+      },
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "issues",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a052215-8372-4259-99bc-1bcf06aa04c7",
+    "data": [
+      {
+        "text": "Let’s talk ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " some ",
+        "userDefined": false
+      },
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "questions",
+        "alias": "Area",
+        "meta": "@Area",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7b167982-0473-4769-bd5b-6834b0ffccb4",
+    "data": [
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "please",
+        "alias": "Area",
+        "meta": "@Area",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "178b6519-a460-4699-b0a8-929b398df72a",
+    "data": [
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " questions would be fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "41fa25da-9987-4f03-9167-957574f45064",
+    "data": [
+      {
+        "text": "Let’s talk ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " some ",
+        "userDefined": false
+      },
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " issues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "b9930dc8-1276-4f71-9c96-368b0a1833ea",
+    "data": [
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "questions",
+        "alias": "Area",
+        "meta": "@Area",
+        "userDefined": true
+      },
+      {
+        "text": " would be fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "ff309ba0-bfec-415a-b3dd-f431cf45d171",
+    "data": [
+      {
+        "text": "Let’s talk ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " some ",
+        "userDefined": false
+      },
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "issues",
+        "alias": "Area",
+        "meta": "@Area",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "2fd64a1e-f609-49db-a2af-586cf26920cf",
+    "data": [
+      {
+        "text": "Let\u0027s talk ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " some ",
+        "userDefined": false
+      },
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "area",
+        "alias": "Area",
+        "meta": "@Area",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509756453
+  },
+  {
+    "id": "f82caf15-7f19-47c0-90ca-0039991d723f",
+    "data": [
+      {
+        "text": "Let\u0027s talk ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " some ",
+        "userDefined": false
+      },
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509756453
+  },
+  {
+    "id": "c0d79a51-cc35-4fbd-b22e-be295a43f75e",
+    "data": [
+      {
+        "text": "Let’s talk ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " some ",
+        "userDefined": false
+      },
+      {
+        "text": "bankability-related",
+        "alias": "BankabilityRelated",
+        "meta": "@BankabilityRelated",
+        "userDefined": false
+      },
+      {
+        "text": " questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  }
+]

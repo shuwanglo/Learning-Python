@@ -1,0 +1,71 @@
+{
+  "id": "fdf1d041-ab0d-450a-b481-a8cbe8fd5788",
+  "name": "ConnectorQPeakDuoG5What",
+  "auto": true,
+  "contexts": [
+    "QPeakDuoG5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ConnectorQPeakDuoG5What",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "QPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d9bcc1ed-7b70-4700-b6f7-a9a38e0d0521",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "30511759-a502-46e1-a1fc-127bc49a3de9",
+          "dataType": "@Connector",
+          "name": "Connector",
+          "value": "$Connector",
+          "isList": false
+        },
+        {
+          "id": "61a950da-0fa1-495e-b307-2a6e1a2e2a71",
+          "dataType": "@Adopt",
+          "name": "Adopt",
+          "value": "$Adopt",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The connector for Q.PEAK DUO G5 is either MC4 or MC4 compatible."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510280623514,
+  "fallbackIntent": false,
+  "events": []
+}

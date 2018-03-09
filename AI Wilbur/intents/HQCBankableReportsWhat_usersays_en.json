@@ -1,0 +1,618 @@
+[
+  {
+    "id": "469dcc31-2cc9-41ff-9cfa-cda6904a6c32",
+    "data": [
+      {
+        "text": "All these are ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "points",
+        "alias": "Point",
+        "meta": "@Point",
+        "userDefined": false
+      },
+      {
+        "text": ". Do you ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "alias": "Available",
+        "meta": "@Available",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "independent engineering reports",
+        "alias": "Available",
+        "meta": "@Available",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "validate",
+        "alias": "Validate",
+        "meta": "@Validate",
+        "userDefined": true
+      },
+      {
+        "text": " them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ea53aee-46b6-44c7-b016-04dd56d274e2",
+    "data": [
+      {
+        "text": "All these are ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "points",
+        "alias": "Point",
+        "meta": "@Point",
+        "userDefined": false
+      },
+      {
+        "text": ". Do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "independent engineering test reports to validate them",
+        "alias": "Available",
+        "meta": "@Available",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88e277cb-7da5-4713-a853-f5262a0a337d",
+    "data": [
+      {
+        "text": "All these are ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "points",
+        "alias": "Point",
+        "meta": "@Point",
+        "userDefined": false
+      },
+      {
+        "text": ". Do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "independent engineering reports to validate them",
+        "alias": "Available",
+        "meta": "@Available",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c452244-e389-450d-a826-5d896708e8b9",
+    "data": [
+      {
+        "text": "Is there any ",
+        "userDefined": false
+      },
+      {
+        "text": "independent engineering report",
+        "alias": "IndependentEngineeringReport",
+        "meta": "@IndependentEngineeringReport",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in support of",
+        "alias": "Validate",
+        "meta": "@Validate",
+        "userDefined": false
+      },
+      {
+        "text": " these ",
+        "userDefined": false
+      },
+      {
+        "text": "points",
+        "alias": "Point",
+        "meta": "@Point",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ba89f33c-7a79-4980-9a7e-358e9e07cec4",
+    "data": [
+      {
+        "text": "All these are ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "points",
+        "alias": "Point",
+        "meta": "@Point",
+        "userDefined": false
+      },
+      {
+        "text": ". Do you ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "alias": "Validate",
+        "meta": "@Validate",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "independent engineering test reports",
+        "alias": "Available",
+        "meta": "@Available",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "validate",
+        "alias": "Validate",
+        "meta": "@Validate",
+        "userDefined": true
+      },
+      {
+        "text": " them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "404297e9-506d-478e-a3e1-3a9bc44863d7",
+    "data": [
+      {
+        "text": "All these are ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "points",
+        "alias": "Point",
+        "meta": "@Point",
+        "userDefined": false
+      },
+      {
+        "text": ". Do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "reports",
+        "alias": "Report",
+        "meta": "@Report",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "independent engineering firms",
+        "alias": "IndependentEngineeringFirm",
+        "meta": "@IndependentEngineeringFirm",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "validate",
+        "alias": "Validate",
+        "meta": "@Validate",
+        "userDefined": false
+      },
+      {
+        "text": " them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d3f42e23-4c12-4d24-83d3-5fdc386b36d7",
+    "data": [
+      {
+        "text": "All these are ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "points",
+        "alias": "Point",
+        "meta": "@Point",
+        "userDefined": false
+      },
+      {
+        "text": ". Do you ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "alias": "Available",
+        "meta": "@Available",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "reports",
+        "alias": "Report",
+        "meta": "@Report",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "independent engineering firms",
+        "alias": "IndependentEngineeringFirm",
+        "meta": "@IndependentEngineeringFirm",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "validate",
+        "alias": "Validate",
+        "meta": "@Validate",
+        "userDefined": false
+      },
+      {
+        "text": " them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510296076
+  },
+  {
+    "id": "43e9c716-2642-46fa-870f-fc58edebef45",
+    "data": [
+      {
+        "text": "All these are ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "points",
+        "alias": "Point",
+        "meta": "@Point",
+        "userDefined": false
+      },
+      {
+        "text": ". Do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "independent engineering report to validate them",
+        "alias": "Available",
+        "meta": "@Available",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "070a7466-1052-4d85-91a2-c80d27f3d9e3",
+    "data": [
+      {
+        "text": "do we have an ",
+        "userDefined": false
+      },
+      {
+        "text": "independent engineering report",
+        "alias": "IndependentEngineeringReport",
+        "meta": "@IndependentEngineeringReport",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "validate",
+        "alias": "Validate",
+        "meta": "@Validate",
+        "userDefined": false
+      },
+      {
+        "text": " them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd7edf79-5715-4ab9-9802-51d42ef74b2e",
+    "data": [
+      {
+        "text": "All these are ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "points",
+        "alias": "Point",
+        "meta": "@Point",
+        "userDefined": false
+      },
+      {
+        "text": ". Do you ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "alias": "Available",
+        "meta": "@Available",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "independent engineering report",
+        "alias": "Available",
+        "meta": "@Available",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "validate",
+        "alias": "Validate",
+        "meta": "@Validate",
+        "userDefined": true
+      },
+      {
+        "text": " them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e73055a0-a48d-455b-ab5c-8fb3aac41aea",
+    "data": [
+      {
+        "text": "All these are good points. Do we have ",
+        "userDefined": false
+      },
+      {
+        "text": "independent engineering reports to validate them",
+        "alias": "Available",
+        "meta": "@Available",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73dd8fb6-55b8-4f9f-a182-efe1d8cab5ab",
+    "data": [
+      {
+        "text": "All these are good points. Do we have ",
+        "userDefined": false
+      },
+      {
+        "text": "independent engineering reports",
+        "alias": "Available",
+        "meta": "@Available",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "validate",
+        "alias": "Validate",
+        "meta": "@Validate",
+        "userDefined": true
+      },
+      {
+        "text": " them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ef8e29f2-c8b6-4f95-98c7-4ee63af48dc5",
+    "data": [
+      {
+        "text": "All these are good points. Do we ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "alias": "Available",
+        "meta": "@Available",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "independent engineering reports",
+        "alias": "Available",
+        "meta": "@Available",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "validate",
+        "alias": "Validate",
+        "meta": "@Validate",
+        "userDefined": true
+      },
+      {
+        "text": " them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

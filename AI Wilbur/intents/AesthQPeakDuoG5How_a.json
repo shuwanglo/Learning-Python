@@ -1,0 +1,66 @@
+{
+  "id": "e60bac8a-7ffc-4704-89a8-7207fc3fcc97",
+  "name": "AesthQPeakDuoG5How_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "AesthQPeakDuoG5How_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f5f972b8-d488-4e1c-b874-ea7544876e05",
+          "dataType": "@How",
+          "name": "How",
+          "value": "$How",
+          "isList": false
+        },
+        {
+          "id": "5b7f6074-8a60-4d2d-b988-755efe9eae02",
+          "dataType": "@Production",
+          "name": "Production",
+          "value": "$Production",
+          "isList": false
+        },
+        {
+          "id": "c56254bc-68e4-4bcf-91be-532bc8c4c40b",
+          "dataType": "@Aesthetic",
+          "name": "Aesthetic",
+          "value": "$Aesthetic",
+          "isList": false
+        },
+        {
+          "id": "3913f676-2da2-4bc8-be25-d30c48249909",
+          "dataType": "@QPEAKDUOG5",
+          "name": "QPEAKDUOG5",
+          "value": "$QPEAKDUOG5",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Q.PEAK DUO G5 has good aesthetic appeal because it uses 6 thin, not so visible wire bus bars, or bus wires. These bus wires are nearly invisible from a distance. The module looks more uniform and appealing."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510005187004,
+  "fallbackIntent": false,
+  "events": []
+}

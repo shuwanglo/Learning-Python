@@ -1,0 +1,59 @@
+{
+  "id": "eadce899-1a4d-4d71-a18e-d7724a0dd03d",
+  "name": "ByPassDioExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ByPassDioExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "56ee25bc-1242-40df-990f-f4ddffe6213e",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "b257758b-d735-4400-a795-990dd2e14db9",
+          "dataType": "@ByPassDiode",
+          "name": "ByPassDiode",
+          "value": "$ByPassDiode",
+          "isList": false
+        },
+        {
+          "id": "fa923bd3-adb5-4f20-92b5-969e909ab78d",
+          "dataType": "@About",
+          "name": "About1",
+          "value": "$About1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We know each module has a lot of solar cells. For example a 60-cell module has 60 of them. These cells are connected in a series. The problem is that if one of the cells is not working, no electric current can flow through the cell string anymore. To solve this problem there are usually 3 by-pass diodes attached to some of the cells. On the 60-cell panel, say, a diode is attached to cells 1 and 20, another one attached to 21 and 40 and the last one attached to 41 and 60. In case one or more of the cells on each 20-cell sub-string is not working, electric current can still flow through the by-pass diode attached to that sub-string."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508379462450,
+  "fallbackIntent": false,
+  "events": []
+}

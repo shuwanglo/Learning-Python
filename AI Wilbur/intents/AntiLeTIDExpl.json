@@ -1,0 +1,59 @@
+{
+  "id": "068e475b-52b7-408a-95b5-115005c8d75f",
+  "name": "AntiLeTIDExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "AntiLeTIDExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3932fb59-751f-415f-86a7-34f8c5c489df",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "8417c336-dca1-4d1c-bdbf-321dfea669be",
+          "dataType": "@AntiLeTID",
+          "name": "AntiLeTID",
+          "value": "$AntiLeTID",
+          "isList": false
+        },
+        {
+          "id": "581d1f29-05f8-4e65-85cd-13de051af9a8",
+          "dataType": "@About",
+          "name": "About1",
+          "value": "$About1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Anti-LeTID means LeTID is avoided, or its effect is controlled, making use of its behavior. This is part of the Hanwha Q CELLS proprietary technology."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508806917,
+  "fallbackIntent": false,
+  "events": []
+}

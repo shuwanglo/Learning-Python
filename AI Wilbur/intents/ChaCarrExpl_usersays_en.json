@@ -1,0 +1,322 @@
+[
+  {
+    "id": "f1464fca-185d-4f3b-b6d1-4460665a6d5d",
+    "data": [
+      {
+        "text": "•\t",
+        "userDefined": false
+      },
+      {
+        "text": "What is",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "charge carrier",
+        "alias": "ChargeCarrier",
+        "meta": "@ChargeCarrier",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1509125857
+  },
+  {
+    "id": "aad5b4ec-f79f-41c4-8a69-d970dd99ba5c",
+    "data": [
+      {
+        "text": "•\tLet’s talk ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "charge carrier",
+        "alias": "ChargeCarrier",
+        "meta": "@ChargeCarrier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1509125857
+  },
+  {
+    "id": "e665d440-e416-4ad5-b277-73745a744bd9",
+    "data": [
+      {
+        "text": "•\tLet’s ",
+        "userDefined": false
+      },
+      {
+        "text": "look at",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "charge carrier",
+        "alias": "ChargeCarrier",
+        "meta": "@ChargeCarrier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1509125857
+  },
+  {
+    "id": "5e11818b-1479-4a8c-989a-e43d838e4bba",
+    "data": [
+      {
+        "text": "•\tI’d like to know more ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "charge carrier",
+        "alias": "ChargeCarrier",
+        "meta": "@ChargeCarrier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1509125857
+  },
+  {
+    "id": "0e395441-0c22-494b-bc34-d17402e32634",
+    "data": [
+      {
+        "text": "I\u0027d like to know more ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "charge carrier",
+        "alias": "ChargeCarrier",
+        "meta": "@ChargeCarrier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be0e918e-3036-45c0-bd17-548feda9341e",
+    "data": [
+      {
+        "text": "•\tWhat do you ",
+        "userDefined": false
+      },
+      {
+        "text": "mean by",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "charge carrier",
+        "alias": "ChargeCarrier",
+        "meta": "@ChargeCarrier",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509121691
+  },
+  {
+    "id": "faa05c8f-95bb-4115-b798-21768d51855e",
+    "data": [
+      {
+        "text": "Let\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "look at",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "charge carrier",
+        "alias": "ChargeCarrier",
+        "meta": "@ChargeCarrier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "92bb7a59-0a08-4395-aa5b-cd4664139965",
+    "data": [
+      {
+        "text": "•\tTell me ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "charge carrier",
+        "alias": "ChargeCarrier",
+        "meta": "@ChargeCarrier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1509125857
+  },
+  {
+    "id": "43b14906-706e-4bc1-b45c-bc948e3ff802",
+    "data": [
+      {
+        "text": "What do you ",
+        "userDefined": false
+      },
+      {
+        "text": "mean by",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "charge carrier",
+        "alias": "ChargeCarrier",
+        "meta": "@ChargeCarrier",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e18e555b-37be-4c27-806a-32117b4016eb",
+    "data": [
+      {
+        "text": "What is",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "charge carrier",
+        "alias": "ChargeCarrier",
+        "meta": "@ChargeCarrier",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f888df67-4daf-4fa8-abbc-c52ca22fd921",
+    "data": [
+      {
+        "text": "Let\u0027s talk ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "charge carrier",
+        "alias": "ChargeCarrier",
+        "meta": "@ChargeCarrier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

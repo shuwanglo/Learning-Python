@@ -1,0 +1,93 @@
+{
+  "id": "6b74e86d-5a39-46a8-9c3e-04f28ada3a54",
+  "name": "FrameWidthCompQPeakDuoG5",
+  "auto": true,
+  "contexts": [
+    "QPeakDuoG5",
+    "QPeakDuoG5_a"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FrameWidthCompQPeakDuoG5",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "QPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4d85a598-2826-47c7-9305-42a588d7fdd5",
+          "dataType": "@Width",
+          "name": "Width",
+          "value": "$Width",
+          "isList": false
+        },
+        {
+          "id": "a7cc4052-e814-4db0-bf42-6bc848cc67db",
+          "dataType": "@Same",
+          "name": "Same",
+          "value": "$Same",
+          "isList": false
+        },
+        {
+          "id": "95804552-2a7c-42df-ae12-2b046295e404",
+          "dataType": "@Product",
+          "name": "Product",
+          "value": "$Product",
+          "isList": false
+        },
+        {
+          "id": "9256b631-e172-44a9-9bf1-ca2cf732ce79",
+          "dataType": "@How",
+          "name": "How",
+          "value": "$How",
+          "isList": false
+        },
+        {
+          "id": "8933a58c-8b40-414e-adf1-ac8d320df24b",
+          "dataType": "@Compare",
+          "name": "Compare",
+          "value": "$Compare",
+          "isList": false
+        },
+        {
+          "id": "5c8f1b16-fde4-4d03-9250-90d8ea939690",
+          "dataType": "@Wider",
+          "name": "Wider",
+          "value": "$Wider",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The width of Q.PEAK DUO G5 is the same as the recent full-cell modules, such as Q.PEAK G4.1, but it may be different from modules manufactured a few years ago. Most likely it is different from modules from other manufacturers. Please check with Wai (wai.lo@us.q-cells.com, 650-391-3108) if you want to make sure it is the same as a specific module."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510282303566,
+  "fallbackIntent": false,
+  "events": []
+}

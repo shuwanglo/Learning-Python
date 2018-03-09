@@ -1,0 +1,194 @@
+[
+  {
+    "id": "bd93817c-184d-4b5e-93ac-6777add39bb3",
+    "data": [
+      {
+        "text": "I’d like to know ",
+        "userDefined": false
+      },
+      {
+        "text": "what",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "makes",
+        "alias": "Production",
+        "meta": "@Production",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.Peak Duo G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": false
+      },
+      {
+        "text": " having ",
+        "userDefined": false
+      },
+      {
+        "text": "high performance",
+        "alias": "HighPerformance",
+        "meta": "@HighPerformance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "b32fd51c-0faa-4604-89dd-a91535efdff0",
+    "data": [
+      {
+        "text": "What",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "makes",
+        "alias": "Production",
+        "meta": "@Production",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.Peak Duo G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": " having ",
+        "userDefined": false
+      },
+      {
+        "text": "high performance",
+        "alias": "HighPerformance",
+        "meta": "@HighPerformance",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "03ecf8a7-f608-4a5c-8903-1ed71227797e",
+    "data": [
+      {
+        "text": "Tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "what",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "makes",
+        "alias": "Production",
+        "meta": "@Production",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.Peak Duo G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": " having ",
+        "userDefined": false
+      },
+      {
+        "text": "high performance",
+        "alias": "HighPerformance",
+        "meta": "@HighPerformance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "df1af337-9e4c-4cb5-b6f2-3deff13024f5",
+    "data": [
+      {
+        "text": "I\u0027d like to know ",
+        "userDefined": false
+      },
+      {
+        "text": "what",
+        "alias": "About",
+        "meta": "@About",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "makes",
+        "alias": "Production",
+        "meta": "@Production",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.Peak Duo G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": " having ",
+        "userDefined": false
+      },
+      {
+        "text": "high performance",
+        "alias": "HighPerformance",
+        "meta": "@HighPerformance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510081912
+  }
+]

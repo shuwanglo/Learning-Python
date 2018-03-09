@@ -1,0 +1,97 @@
+{
+  "id": "f9ba2791-d070-4be3-9ccd-802ead587554",
+  "name": "FrameWidthCompQPeakDuoG5_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FrameWidthCompQPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b41c6273-c52e-4c1e-9143-9301d13531f8",
+          "dataType": "@Width",
+          "name": "Width",
+          "value": "$Width",
+          "isList": false
+        },
+        {
+          "id": "81ba40f1-dd53-4280-8d11-a9a80af6eb00",
+          "dataType": "@Same",
+          "name": "Same",
+          "value": "$Same",
+          "isList": false
+        },
+        {
+          "id": "53859bc3-91f1-4b3a-8750-19d119ac2963",
+          "dataType": "@Product",
+          "name": "Product",
+          "value": "$Product",
+          "isList": false
+        },
+        {
+          "id": "befc78df-8fab-43d9-9218-8ab9f98f0a1d",
+          "dataType": "@QPEAKDUOG5",
+          "name": "QPEAKDUOG5",
+          "value": "$QPEAKDUOG5",
+          "isList": false
+        },
+        {
+          "id": "f2cf69d5-6c8c-49a3-96ce-fa09c59f2ea0",
+          "dataType": "@How",
+          "name": "How",
+          "value": "$How",
+          "isList": false
+        },
+        {
+          "id": "f860cb34-f965-4c74-8c55-fd02045cffc9",
+          "dataType": "@Compare",
+          "name": "Compare",
+          "value": "$Compare",
+          "isList": false
+        },
+        {
+          "id": "51ac8331-19ff-43f9-9b85-85192484716e",
+          "dataType": "@Wider",
+          "name": "Wider",
+          "value": "$Wider",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The width of Q.PEAK DUO G5 is the same as the recent full-cell modules, such as Q.PEAK G4.1, but it may be different from modules manufactured a few years ago. Most likely it is different from modules from other manufacturers. Please check with Wai (wai.lo@us.q-cells.com, 650-391-3108) if you want to make sure it is the same as a specific module."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510119788681,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "19304911-5b73-40f1-8466-0b2fc680fc45",
+  "name": "AntiLIDExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "AntiLIDExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7a0f3c7e-31cf-411d-baa7-2567a8728ecf",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "ab51ab5b-6fb3-4a19-97b3-6d811687a5f3",
+          "dataType": "@AntiLID",
+          "name": "AntiLID",
+          "value": "$AntiLID",
+          "isList": false
+        },
+        {
+          "id": "5e1ab1c7-4b76-49e6-a095-3bda32bc5696",
+          "dataType": "@About",
+          "name": "About1",
+          "value": "$About1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Anti-LID means LID is avoided, or its effect is controlled. This is part of the Hanwha Q CELLS proprietary technology."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508385125067,
+  "fallbackIntent": false,
+  "events": []
+}

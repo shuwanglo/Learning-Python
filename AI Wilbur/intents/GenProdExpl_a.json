@@ -1,0 +1,71 @@
+{
+  "id": "a22a8588-5f26-46c1-97bf-10b1532fce30",
+  "name": "GenProdExpl_a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "GenProdExpl_a",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "User",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "387363d5-7abb-4b44-8a0b-54de15d6347e",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "1735a2e2-442f-421d-9769-18d75d9cefc3",
+          "dataType": "@About",
+          "name": "About1",
+          "value": "$About1",
+          "isList": false
+        },
+        {
+          "id": "738d5fdf-4069-472a-a049-8eabef8656c3",
+          "dataType": "@GenProductRelated",
+          "name": "GenProductRelated",
+          "value": "$GenProductRelated",
+          "isList": false
+        },
+        {
+          "id": "2a70e5a8-89e7-484c-989a-7d0f267a1482",
+          "dataType": "@Area",
+          "name": "Area",
+          "value": "$Area",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "General product-related questions are product, technology or quality questions unrelated to a specific product, such as what is Q.ANTUM and so forth. Feel free to ask such questions. Otherwise we can talk about bankability-related questions, or questions related to half-cell (Q.PEAK DUO G5, Q.PEAK DUO BLK G4.1), mono Q.ANTUM (Q.PEAK G4.1, Q.PEAK BLK G4.1, Q.PEAK G4.1/MAX, Q.PEAK L G4) and multi Q.ANTUM (Q.PLUS L G) modules"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509755217256,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "a22d5afc-bd1d-4891-8fd7-2be9753d145b",
+  "name": "HotSpotProtExpl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "HotSpotProtExpl",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "616b432b-c013-4143-9cf8-b852456a9f72",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "0c62c26c-2188-451f-b069-7ca36e3dcc4a",
+          "dataType": "@HotSpotProtect",
+          "name": "HotSpotProtect",
+          "value": "$HotSpotProtect",
+          "isList": false
+        },
+        {
+          "id": "98d672c1-3c02-4f71-b727-c6085b87cd6c",
+          "dataType": "@About",
+          "name": "About1",
+          "value": "$About1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hot-spot Protect is a proprietary Hanwha Q CELLS technology for eliminating hot-spots from solar panels altogether."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508457108586,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,186 @@
+[
+  {
+    "id": "a938b551-f468-4841-85da-88b378b95f93",
+    "data": [
+      {
+        "text": "Why is ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aesthetic",
+        "alias": "Aesthetic",
+        "meta": "@Aesthetic",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a2e29d14-d53b-457b-a966-c8cc59380805",
+    "data": [
+      {
+        "text": "I’d like to know ",
+        "userDefined": false
+      },
+      {
+        "text": "why",
+        "alias": "Why",
+        "meta": "@Why",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "aesthetic",
+        "alias": "Aesthetic",
+        "meta": "@Aesthetic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0c4bb635-d5a6-4041-81cf-74d47c5ce7eb",
+    "data": [
+      {
+        "text": "Why",
+        "alias": "Why",
+        "meta": "@Why",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aesthetic",
+        "alias": "Aesthetic",
+        "meta": "@Aesthetic",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "771732d3-d77e-4cb2-a61c-59e15d7c3813",
+    "data": [
+      {
+        "text": "Tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "why",
+        "alias": "Why",
+        "meta": "@Why",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aesthetic",
+        "alias": "Aesthetic",
+        "meta": "@Aesthetic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3c337b8e-d2ba-409e-a6d1-ba0fa7c6b05e",
+    "data": [
+      {
+        "text": "I\u0027d like to know ",
+        "userDefined": false
+      },
+      {
+        "text": "why",
+        "alias": "Why",
+        "meta": "@Why",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Q.PEAK DUO G5",
+        "alias": "QPEAKDUOG5",
+        "meta": "@QPEAKDUOG5",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "aesthetic",
+        "alias": "Aesthetic",
+        "meta": "@Aesthetic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510004880
+  }
+]

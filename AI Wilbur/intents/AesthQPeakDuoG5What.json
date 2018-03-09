@@ -1,0 +1,79 @@
+{
+  "id": "5960d8d9-da8e-4deb-87f5-7552ba6a6681",
+  "name": "AesthQPeakDuoG5What",
+  "auto": true,
+  "contexts": [
+    "QPeakDuoG5",
+    "QPeakDuoG5_a"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "AesthQPeakDuoG5What",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "QPeakDuoG5_a",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6c235232-ad79-4e0c-a737-0779ba53bd97",
+          "dataType": "@About",
+          "name": "About",
+          "value": "$About",
+          "isList": false
+        },
+        {
+          "id": "337db76c-124b-4fc0-b758-7ada5433bd16",
+          "dataType": "@Production",
+          "name": "Production",
+          "value": "$Production",
+          "isList": false
+        },
+        {
+          "id": "c3023330-9203-447a-af1d-ebe766574a6a",
+          "dataType": "@Aesthetic",
+          "name": "Aesthetic",
+          "value": "$Aesthetic",
+          "isList": false
+        },
+        {
+          "id": "892e47f6-404c-4a98-9649-cd6b80e2ec47",
+          "dataType": "@Product",
+          "name": "Product",
+          "value": "$Product",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Q.PEAK DUO G5 has good aesthetic appeal because it uses 6 thin, not so visible wire bus bars, or bus wires. These bus wires are nearly invisible from a distance. The module looks more uniform and appealing."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510004612703,
+  "fallbackIntent": false,
+  "events": []
+}
