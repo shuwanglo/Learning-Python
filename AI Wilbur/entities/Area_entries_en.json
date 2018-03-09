@@ -1,0 +1,30 @@
+[
+  {
+    "value": "Area",
+    "synonyms": [
+      "Area",
+      "areas"
+    ]
+  },
+  {
+    "value": "question",
+    "synonyms": [
+      "question",
+      "questions"
+    ]
+  },
+  {
+    "value": "Topic",
+    "synonyms": [
+      "Topic",
+      "topics"
+    ]
+  },
+  {
+    "value": "issue",
+    "synonyms": [
+      "issue",
+      "issues"
+    ]
+  }
+]
